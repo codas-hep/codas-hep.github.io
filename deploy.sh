@@ -3,7 +3,7 @@
 set +x
 
 BRANCH=master
-TARGET_REPO=ipcc-root/ipcc-root.github.io.git
+TARGET_REPO=codas-hep/codas-hep.github.io.git
 PELICAN_OUTPUT_FOLDER=output
 
 echo -e "Testing travis-encrypt"
