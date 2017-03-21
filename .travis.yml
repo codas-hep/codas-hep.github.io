@@ -8,7 +8,7 @@ install:
 - pwd
 - pip install -r requirements.txt
 - pwd
-- git clone https://github.com/ipcc-root/pelican-themes.git
+- git clone https://github.com/codas-hep/pelican-themes.git
 - git clone --recursive https://github.com/getpelican/pelican-plugins
 - pwd
 - ls
