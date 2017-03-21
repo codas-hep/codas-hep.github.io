@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'CoDaS HEP'
-SITENAME = u'CoDaS HEP'
+AUTHOR = 'CoDaS-HEP'
+SITENAME = 'CoDaS-HEP'
 SITEURL = ''
 
 TIMEZONE = 'Europe/Paris'
