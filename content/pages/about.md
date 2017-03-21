@@ -1,15 +1,13 @@
-Title: IPCC-ROOT Overview
-date: 2017-02-20 07:51
+Title: CODAS-HEP Overview
+date: 2017-03-21 07:51
 slug: about.html
 Authors: Peter Elmer
-Summary: Summary of the Intel ROOT Parallel Computing Center Project
+Summary: COmputation and DAta Science for High Energy Physics
 Template: page
 
 ### Project Team
 
   * [Peter Elmer](http://www.princeton.edu/physics/people/display_person.xml?netid=gelmer&display=Research%20Staff) (PI) - Princeton University, Department of Physics
-
-  * [Vassil Vassilev](https://github.com/vgvassilev/) - Princeton University & ROOT Intel Parallel Computing Center
 
 ### Collaborators
 
