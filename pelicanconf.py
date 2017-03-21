@@ -22,10 +22,8 @@ MENUITEMS = (
 			('About','/pages/about.html'),
 			)
 
-#LINKS =  ( ('ROOT','https://root.cern.ch/'),
-#		  ('DIANA/HEP','http://diana-hep.org'),
-#		  ('Website github', 'https://github.com/codas-hep'),
-#		  )
+LINKS =  ( ('School Timetable','https://indico.cern.ch/event/625333/timetable/'),
+	  )
 
 
 # Social widget
