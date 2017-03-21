@@ -1,6 +1,6 @@
 Title: Announcing the Princeton IPCC ROOT project
-date: 2016-05-03 10:37
-Slug: Announcing_IPCC_ROOT
+date: 2017-03-21 10:37
+Slug: Announcing_CoDaS_School
 Category: Blog
 Tags:  news
 Authors: Peter Elmer
