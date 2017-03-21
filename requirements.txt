@@ -1,0 +1,5 @@
+pelican
+Markdown
+fabric
+beautifulsoup4
+six

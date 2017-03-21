@@ -1,0 +1,29 @@
+branches:
+  only:
+  - master
+language: python
+python:
+- 2.7
+install:
+- pwd
+- pip install -r requirements.txt
+- pwd
+- git clone https://github.com/ipcc-root/pelican-themes.git
+- git clone --recursive https://github.com/getpelican/pelican-plugins
+- pwd
+- ls
+- wget http://www.tipue.com/search/tipuesearch.zip
+- unzip tipuesearch.zip
+- cp -r Tipue\ Search\ 6.0/tipuesearch pelican-themes/static/
+notifications:
+  email:
+    on_success: always
+    on_failure: always
+script:
+- make -d html
+env:
+  global:
+  - secure: L64kXu65kheujS7Rd2rYKFVtZv/sx+FLGBRK2fjTTspeAQsIwV91gTotkCMYhkehIL0Y83HZVesiUhzYqQ9AIGe1GSnVcpW2G7QX/3XwkwBACpqC4Cx07V+Uq3M/LvFXVr3Hud8Z9gFakvIeu5jqCLNWc/nDdvHNh9nJBHavJGuVrOwO7LI93fUeBzzj0i2nP3SWGmeNylsCw3iCMFiKYkp9BN3RLud9iD6jwMj8uRhCmazydUurfbPuGqyij0OFvzaCH5jPGvMkWj1n3+uVB1qg95vuc1D+cyGdrUAwAAxkuN4nGwdsia/nbBG82XFhOIZUYpR7lJT0ysgEUuPsPAjFsc7x1mSdEy1OjQ2nsjyW/GKzkb4pwfkKTDwjsYcrFIucCyo9MKO3KqQk9HND8quxIr6Ektz3dZE4MIhmHzUXQE7MlbwnleOXX6oXhn+r0/ND1sseaAijSXaHuGqMLiOPsmR7Ig8VvlU04eyFPQjJJIuXUfCE0QlJll41nj28h4GRDtjX/OWNEsel7/yjbpsb3SYQL0Xns5d3reW4kEB3MJ5Pixegk29FG8AQLnxQKRsjLHRJwjpYPaYTmsJ75msUPRo0OMnXDDfLmSs5TgADUSTw/cRIE+Ba5zcNG2LQeBSISLf5ZJPTWIe271qzQxxS4loKF5Ev2zqIEvGgos0=
+before_install:
+- git submodule update --init --recursive
+after_success: bash deploy.sh

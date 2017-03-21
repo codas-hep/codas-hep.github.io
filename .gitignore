@@ -1,0 +1,12 @@
+# Content of the .gitignore file:
+*.pid
+*.pyc
+*.swp
+output/
+pelican-plugins/
+pelican-bootstrap3
+cache/PagesGenerator-Readers
+
+cache/ArticlesGenerator-Readers
+
+cache/PagesGenerator-Readers
