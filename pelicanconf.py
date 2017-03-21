@@ -25,10 +25,9 @@ MENUITEMS = (
 #            ('Blog','/category/blog.html')
 
 # Blogroll
-LINKS =  (('Intel PCC','https://software.intel.com/en-us/ipcc'),
-		  ('ROOT','https://root.cern.ch/'),
+LINKS =  ( ('ROOT','https://root.cern.ch/'),
 		  ('DIANA/HEP','http://diana-hep.org'),
-		  ('Website github', 'https://github.com/ipcc-root'),
+		  ('Website github', 'https://github.com/codas-hep'),
 		  )
 
 
@@ -100,13 +99,13 @@ JINJA_ENVIRONMENT = {
 
 
 # comments
-#DISQUS_SITENAME="ipcc-root"
+#DISQUS_SITENAME="codas-hep"
 
 ''' For reference, this code
 <div id="disqus_thread"></div>
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES * * */
-    var disqus_shortname = 'ipcc-root';
+    var disqus_shortname = 'codas-hep';
     
     /* * * DON'T EDIT BELOW THIS LINE * * */
     (function() {
