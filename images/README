@@ -1,0 +1,4 @@
+
+  Documentation of image origin/copyright
+
+macbook> convert content/images/ipcc-root-banner.jpg -matte -channel a -evaluate set 30% content/images/ipcc-root-banner-faded2.png
