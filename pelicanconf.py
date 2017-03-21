@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'CODAS HEP'
-SITENAME = u'CODAS HEP'
+AUTHOR = u'CoDaS HEP'
+SITENAME = u'CoDaS HEP'
 SITEURL = ''
 
 TIMEZONE = 'Europe/Paris'
@@ -67,7 +67,7 @@ BOOTSTRAP_NAVBAR_INVERSE =True
 BANNER="images/ipcc-root-banner-faded2-crop.png"
 BANNER_TITLE=None
 #BANNER_SUBTITLE = None
-BANNER_SUBTITLE="Princeton/Intel Parallel Computing Center to Modernize the ROOT Math and I/O Libraries"
+BANNER_SUBTITLE="Computational and Data Science for High Energy Physics"
 BANNER_ALL_PAGES = False
 
 #custom CSS
