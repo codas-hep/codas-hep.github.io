@@ -20,9 +20,7 @@ TRANSLATION_FEED_ATOM = None
 DISPLAY_PAGES_ON_MENU =False
 MENUITEMS = (
 			('About','/pages/about.html'),
-			('Documents','/pages/documents.html'),
 			)
-#            ('Blog','/category/blog.html')
 
 # Blogroll
 LINKS =  ( ('ROOT','https://root.cern.ch/'),
