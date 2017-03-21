@@ -22,11 +22,10 @@ MENUITEMS = (
 			('About','/pages/about.html'),
 			)
 
-# Blogroll
-LINKS =  ( ('ROOT','https://root.cern.ch/'),
-		  ('DIANA/HEP','http://diana-hep.org'),
-		  ('Website github', 'https://github.com/codas-hep'),
-		  )
+#LINKS =  ( ('ROOT','https://root.cern.ch/'),
+#		  ('DIANA/HEP','http://diana-hep.org'),
+#		  ('Website github', 'https://github.com/codas-hep'),
+#		  )
 
 
 # Social widget
