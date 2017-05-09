@@ -57,9 +57,7 @@ BOOTSTRAP_THEME='cerulean'
 DISPLAY_BREADCRUMBS=False
 
 BOOTSTRAP_NAVBAR_INVERSE =True
-#BANNER="images/ipcc-root-banner.png"
-#BANNER="images/ipcc-root-banner-faded.png"
-BANNER="images/ipcc-root-banner-faded2-crop.png"
+BANNER="images/codas-hep-banner.png"
 BANNER_TITLE=None
 #BANNER_SUBTITLE = None
 BANNER_SUBTITLE="Computational and Data Science for High Energy Physics"

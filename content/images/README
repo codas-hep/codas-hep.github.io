@@ -2,3 +2,10 @@
   Documentation of image origin/copyright
 
 macbook> convert content/images/ipcc-root-banner.jpg -matte -channel a -evaluate set 30% content/images/ipcc-root-banner-faded2.png
+
+CERN-EX-0702022-01 
+https://mediastream.cern.ch/MediaArchive/Photo/Public/2007/0702022/0702022_01/0702022_01-A5-at-72-dpi.jpg
+
+https://mediastream.cern.ch/MediaArchive/Photo/Public/2010/1008289/1008289_04/1008289_04-A5-at-72-dpi.jpg
+
+
