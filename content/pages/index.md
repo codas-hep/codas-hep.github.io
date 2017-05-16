@@ -7,18 +7,21 @@ Template: homepage
 
 #### The first school on tools, techniques and methods for Computational and Data Science for High Energy Physics (CoDaS-HEP) will take place on 10-13 July, 2017, at Princeton University.
 
-  Advanced software
- 
-  The CoDaS-HEP
- 
-  Specific Topics to be covered at the school include:
+  Advanced software is a critical ingredient to scientific research. Training 
+young researchers in the latest tools and techniques is an essential part of 
+developing the skills required for a successful career both in research and
+in industry.
+
+  The CoDaS-HEP school aims to provide a broad introduction to these critical
+skills as well as an overview of applications High Energy Physics. Specific 
+topics to be covered at the school include:
 
   * Parallel Programming 
   * Big Data Tools and Techniques
   * Machine Learning 
   * Practical skills like performance evaluation, use of git, etc.
 
-Large scientific projects such as those in High Energy Physics are critically
-dependent on software and computing. 
-
+  The school offers a limited number of young researchers an opportunity
+to learn these skills from experienced scientists and instructors. Successful
+applicants will receive travel and lodging support to attend the school.
 
