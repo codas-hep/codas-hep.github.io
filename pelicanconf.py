@@ -20,6 +20,7 @@ TRANSLATION_FEED_ATOM = None
 DISPLAY_PAGES_ON_MENU =False
 MENUITEMS = (
 			('About','/pages/about.html'),
+			('Application','/pages/application.html'),
 			)
 
 LINKS =  ( ('School Timetable','https://indico.cern.ch/event/625333/timetable/'),
