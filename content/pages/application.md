@@ -26,5 +26,6 @@ experience in some areas, we are just trying to get the best sense
 of the level of expertise in order to prepare the lectures and
 exercises of the school.**
 
-
    [Application form for CoDas-HEP (click to proceed)](https://docs.google.com/forms/d/1Ragq_2o0Ri47OGKTBwGqY5T2TCvVk0Xtcu_VZ_b5FJw/edit)
+
+Questions about the school or the application can be sent to [codas-hep@googlegroups.com](codas-hep@googlegroups.com).
