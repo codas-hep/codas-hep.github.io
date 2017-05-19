@@ -12,9 +12,12 @@ take place on 10-13 July, 2017, at Princeton University.
 
 Below is the link to the application form. Applications will be
 accepted until 6 June, 2017, and those accepted for the school
-will be notified by 9 June, 2017. The school will cover the travel
-to Princeton and local lodging for accepted students, as well as
-coffee breaks and lunches during the school.
+will be notified by 9 June, 2017. The school will fully or partially cover 
+the travel to Princeton and local lodging for accepted participants, as 
+well as coffee breaks and lunches during the school. Applications are
+welcome from both Ph.D. students and postdoctoral researchers. Financial 
+support will in general only be available to people associated to US 
+academic institutions.
 
 Please fill in the basic information about yourself as well as the
 questions regarding your experience with various topical areas
