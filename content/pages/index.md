@@ -18,5 +18,5 @@ The CoDaS-HEP school aims to provide a broad introduction to these critical skil
   * Machine Learning - Technology and Methods
   * Practical skills: performance evaluation, use of git for version control
 
-The school offers a limited number of young researchers an opportunity to learn these skills from experienced scientists and instructors. Successful applicants will receive travel and lodging support to attend the school.
+The school offers a limited number of young researchers an opportunity to learn these skills from experienced scientists and instructors. Successful applicants will receive travel and lodging support to attend the school. Both Ph.D. students and postdoctoral researchers are encouraged to apply. Financial support for participants will be limited to those associated to U.S. academic institutions.
 
