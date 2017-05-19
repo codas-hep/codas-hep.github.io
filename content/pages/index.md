@@ -20,3 +20,5 @@ The CoDaS-HEP school aims to provide a broad introduction to these critical skil
 
 The school offers a limited number of young researchers an opportunity to learn these skills from experienced scientists and instructors. Successful applicants will receive travel and lodging support to attend the school. Both Ph.D. students and postdoctoral researchers are encouraged to apply. Financial support for participants will be limited to those associated to U.S. academic institutions.
 
+Applications for the CoDaS-HEP school are now being accepted. The deadline 
+for application is 6 June, 2017. Please see the [application webpage](http://codas-hep.org/pages/application.html) for more information.
