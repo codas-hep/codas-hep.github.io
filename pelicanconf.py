@@ -23,7 +23,7 @@ MENUITEMS = (
 			('Application','/pages/application.html'),
 			)
 
-LINKS =  ( ('School Timetable','https://indico.cern.ch/event/625333/timetable/'),
+LINKS =  ( ('School Program','https://indico.cern.ch/event/625333/timetable/'),
 	  )
 
 
