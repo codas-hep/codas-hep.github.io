@@ -10,22 +10,8 @@ The first school on tools, techniques and methods for Computational
 and Data Science for High Energy Physics (CoDaS-HEP), which will
 take place on 10-13 July, 2017, at Princeton University.
 
-Below is the link to the application form. Applications will be
-accepted until 6 June, 2017, and those accepted for the school
-will be notified by 9 June, 2017. The school will fully or partially cover 
-the travel to Princeton and local lodging for accepted participants, as 
-well as coffee breaks and lunches during the school. Applications are
-welcome from both Ph.D. students and postdoctoral researchers. Financial 
-support will in general only be available to people associated to US 
-academic institutions.
-
-Please fill in the basic information about yourself as well as the
-questions regarding your experience with various topical areas
-covered by the school.  **Do not worry if you do not have significant
-experience in some areas, we are just trying to get the best sense
-of the level of expertise in order to prepare the lectures and
-exercises of the school.**
-
-   [Application form for CoDas-HEP (click to proceed)](https://docs.google.com/forms/d/1Ragq_2o0Ri47OGKTBwGqY5T2TCvVk0Xtcu_VZ_b5FJw/edit)
+Applications for the school in 2017 are no longer being accepted. The
+deadline was 6 June. Please watch for announcements about the 2nd edition
+of the school in 2018.
 
 Questions about the school or the application can be sent to [codas-hep@googlegroups.com](codas-hep@googlegroups.com).
