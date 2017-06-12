@@ -32,6 +32,9 @@ Template: page
 
   * [Avi Yagil](http://physics.ucsd.edu/fac_staff/fac_profile/faculty_description.php?person_id=688) - University of California, San Diego, Department of Physics
 
+  * [Peter Wittich](http://physics.cornell.edu/peter-wittich) - Cornell University, Department of Physics
+
+
 ### Collaborating Research Projects
 
   * [The DIANA/HEP project](http://diana-hep.org/)
