@@ -24,6 +24,6 @@ The school offers a limited number of young researchers an opportunity to learn 
 
 The school lectures will take place at the [Princeton Center for Theoretical Science (PCTS)](http://pcts.princeton.edu/pcts/index.html) in [Jadwin Hall](https://goo.gl/maps/x1tAczDvWFB2) on the Princeton University campus.
 
-Applications for the CoDaS-HEP school are no longer being accepted. The deadline was 6 June, 2017.
+Applications for the CoDaS-HEP school are no longer being accepted. The deadline was 6 June, 2017. 
 
 Questions can be sent to [codas-hep@googlegroups.com](codas-hep@googlegroups.com).
