@@ -9,7 +9,9 @@ Template: page
 
   * Ian Cosden - Princeton Institute for Computational Science and Engineering, Princeton University
 
-  * Peter Elmer - Physics Department, Princeton University
+  * [Peter Elmer](http://www.princeton.edu/physics/people/display_person.xml?netid=gelmer) - Physics Department, Princeton University
+
+  * [Steve Lantz](http://www.cac.cornell.edu/slantz/) - Cornell University, Center for Advanced Computing
 
   * David Luet - Princeton Institute for Computational Science and Engineering, Princeton University
 
@@ -18,6 +20,8 @@ Template: page
   * Jim Pivarski - Physics Department, Princeton University
 
   * Alexey Svyatkovskiy - Princeton Institute for Computational Science and Engineering, Princeton University
+
+  * [Matevz Tadel](http://profiles.ucsd.edu/matevz.tadel) - University of California San Diego, Department of Physics
 
 
 ### Scientific Advisory Committee
