@@ -17,12 +17,12 @@ Please send any questions about travel to Princeton to [codas-hep@googlegroups.c
 From Newark Liberty International (EWR) airport, John F. Kennedy International Airport (JFK) and from many other locations along the east coast (e.g. Boston, NYC, Washington DC and Baltimore), it is possible to travel to Princeton by train. 
 Note that there are two train stations you will need to know:
 
-  * The major train station closest to Princeton is ["Princeton Junction Station" (PJC)](https://en.wikipedia.org/wiki/Princeton_Junction_station). This is served by [New Jersey Transit](http://www.njtransit.com) on the ["Northeast Corridor Line"](https://en.wikipedia.org/wiki/Northeast_Corridor_Line). PJC also has some limited service by Amtrak (to Washington DC, TBC).
+  * The major train station closest to Princeton is ["Princeton Junction Station" (PJC)](https://en.wikipedia.org/wiki/Princeton_Junction_station). This is served by [New Jersey Transit](http://www.njtransit.com) on the ["Northeast Corridor Line"](https://en.wikipedia.org/wiki/Northeast_Corridor_Line). PJC also has some limited direct service by Amtrak.
   * The campus train station is ["Princeton Station"](https://en.wikipedia.org/wiki/Princeton_station_(NJ_Transit)). This is served only by a small commuter train (the "Dinky") which goes along a spur line from Princeton Junction Station to campus. It is operated by New Jersey Transit.
 
 If you are coming from EWR, Trenton or NYC Penn Station, you should buy a New Jersey Transit ticket through to Princeton Station. You will then need to take a train to Princeton Junction train station (check that your particular train stops there!), get off at Princeton Junction train station and take the "Dinky" from Princeton Junction train station to Princeton train station.
 
-If you are coming on Amtrak, most trains do not stop at Princeton Junction (with the exception of select trains from Washington DC). You will probably need to take Amtrak to Newark or Trenton and then switch to New Jersey Transit, as above, to arrive to Princeton Station on campus.
+If you are coming on Amtrak, most trains do not stop at Princeton Junction (with only a few exceptions, see the [Amtrak website](http://amtrak.com)). You will probably need to take Amtrak to Newark or Trenton and then switch to New Jersey Transit, as above, to arrive to Princeton Station on campus.
 
 ### Travel by Air
 
