@@ -48,6 +48,8 @@ Note that linen and towels will be provided at Scully Hall, but participants sho
 
 Parking is possible on the Princeton campus. The best place to park is in Lot 20, which is a 5 minute walk from Scully Hall (the dorm) and Jadwin Hall (the buildings where the school will take place) as indicated on this [campus map](/images/Princeton-University-Map-CoDaS-HEP-2017.gif). An overnight parking pass for Lot 20 will be given to participants staying in Scully Hall along with the room key.
 
+In general a car is not useful within Princeton itself, however. All of the venues for the school (dorm, lecture venue, receptions, etc.) and relevant local businesses (see below) are within walking distance of one another once one has arrived on campus.
+
 ### Restaurants, Coffeeshops, Bars and Stores
 
 There are a number of restaurants, coffeeships, bars and stores along Nassau
