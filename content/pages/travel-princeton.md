@@ -1,6 +1,6 @@
 Title: Travel to Princeton
 date: 2017-05-16 07:51
-slug: application.html
+slug: travel-princeton.html
 Authors: Peter Elmer
 Summary: Travel to Princeton
 Template: page
