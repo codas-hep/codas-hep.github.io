@@ -5,7 +5,7 @@ Authors: Peter Elmer
 Summary: Travel to Princeton and Local Princeton Information
 Template: page
 
-## Travel to Princeton
+### General Notes
 
 General information about traveling to and visiting Princeton University can be found on the ["visiting campus" webpages](http://www.princeton.edu/main/visiting/). 
 
