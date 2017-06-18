@@ -15,6 +15,7 @@ Template: page
   * only the participant can be directly reimbursed (not the participant's research group)
   * reimbursed travel should use the least expensive options possible, which reasonably meet normal travel time constraints
   * reimbursed travel should be booked in regular, economy fares (no business class or paid economy class upgrades can be reimbursed)
+  * for participants flying from outside the U.S., air flights can only be reimbursed if the carrier is allowed by the Fly America Act and U.S. Open Skies agreements and normally reimbursable with U.S. government (NSF) sponsored research funds
   * for long distance ground travel, mass transportation (train, bus) is preferred to long distance taxi. If necessary, a taxi (uber, lyft) can be used from Princeton Junction to Princeton for late arrivals in place of the Dinky.
   * car rentals will not be reimbursed unless specifically authorized by the school organization.
   * Non-Princeton participants coming from locations within reasonable driving distance of Princeton University may choose to drive their personal automobile. Reimbursement will be provided based on mileage using the University rates. An itinerary map (e.g. from Google Maps) should be provided in lieu of a receipt.
