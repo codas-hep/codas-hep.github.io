@@ -14,7 +14,7 @@ Template: page
   * the reimbursement can be done by check or bank transfer
   * only the participant can be directly reimbursed (not the participant's research group)
   * reimbursed travel should use the least expensive options possible, which reasonably meet normal travel time constraints
-  * reimbursed travel should be booked in regular, economy fares (no business class or paid economy class upgrades can be reimbursed)
+  * reimbursed travel should be booked in regular, economy fares. No business class or paid economy class upgrades can be reimbursed. In cases where airlines offer "economy basic" or similar discounted fares, with limitations on carry-on baggage or similar, it is fine to choose the "regular" economy fare permitting baggage.
   * for participants flying from outside the U.S., air flights can only be reimbursed if the carrier is allowed by the Fly America Act and U.S. Open Skies agreements and normally reimbursable with U.S. government (NSF) sponsored research funds
   * for long distance ground travel, mass transportation (train, bus) is preferred to long distance taxi. If necessary, a taxi (uber, lyft) can be used from Princeton Junction to Princeton for late arrivals in place of the Dinky.
   * car rentals will not be reimbursed unless specifically authorized by the school organization.
