@@ -10,8 +10,6 @@ Template: homepage
 Advanced software is a critical ingredient to scientific research. Training young researchers in the latest tools and techniques is an essential part of developing the skills required for a successful career both in research and in industry.
 
 The CoDaS-HEP school aims to provide a broad introduction to these critical skills as well as an overview of applications High Energy Physics. Specific topics to be covered at the school include:
- 
-  Specific Topics to be covered at the school include:
 
   * Parallel Programming 
   * Big Data Tools and Techniques
