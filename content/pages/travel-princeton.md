@@ -26,9 +26,9 @@ If you are coming on Amtrak, most trains do not stop at Princeton Junction (with
 
 ### Travel by Air
 
-The closest and most convenient airport to come to Princeton is Newark Liberty International (EWR). Most participants will find that the simplest solution for domestic flights within the US. This is the recommended solution unless the cost is significantly higher than other solutions. From there it is possible to take the train as described above. 
+The closest and most convenient airport to come to Princeton is Newark Liberty International (EWR). Most participants will find that the best solution for domestic flights within the US. This is the recommended airport unless the cost is significantly higher than other alternatives. From there it is convenient to take the train as described above. 
 
-Alternatively, flying to John F. Kennedy International Airport (JFK) or LaGuardia International Airport (LGA) at the cost of additional travel time. From JFK, the easiest is probably to the Airtrain to Jamaica Station and then take the [Long Island Rail Road (LIRR)](https://www.google.nl/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjp7enVi8LUAhVJbVAKHQzpBukQFggmMAA&url=http%3A%2F%2Fwww.mta.info%2Flirr&usg=AFQjCNFkOvv1hHfiREn_00NkjelXSbfiYQ) or to New York Penn Station. Alternatively there is the [subway](http://www.nysubway.com/airport/jfk.html) or a bus ([NYC Airporter](https://www.nycairporter.com) with service from JFK to NYC Penn Station. From NYC Penn Station, you can take the train to Princeton as described above.
+Another option is flying into John F. Kennedy International Airport (JFK) or LaGuardia International Airport (LGA) at the cost of additional travel time. From JFK, the easiest is probably to the Airtrain to Jamaica Station and then take the [Long Island Rail Road (LIRR)](https://www.google.nl/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjp7enVi8LUAhVJbVAKHQzpBukQFggmMAA&url=http%3A%2F%2Fwww.mta.info%2Flirr&usg=AFQjCNFkOvv1hHfiREn_00NkjelXSbfiYQ) or to New York Penn Station. Alternatively there is the [subway](http://www.nysubway.com/airport/jfk.html) or a bus ([NYC Airporter](https://www.nycairporter.com) with service from JFK to NYC Penn Station. From NYC Penn Station, you can take the train to Princeton as described above.
 
 From [a small number of locations](http://www.mercercounty.org/departments/transportation-and-infrastructure/trenton-mercer-airport/airlines) it may also be possible to fly to [Trenton-Mercer Airport](http://www.mercercounty.org/departments/transportation-and-infrastructure/trenton-mercer-airport). Getting from there to the Princeton campus is more complicated and involves buses and/or going to the train station in Trenton and taking New Jersey Transit trains, as above.
 
@@ -48,11 +48,11 @@ Note that linen and towels will be provided at Scully Hall, but participants sho
 
 Parking is possible on the Princeton campus. The best place to park is in Lot 20, which is a 5 minute walk from Scully Hall (the dorm) and Jadwin Hall (the buildings where the school will take place) as indicated on this [campus map](/images/Princeton-University-Map-CoDaS-HEP-2017.gif). An overnight parking pass for Lot 20 will be given to participants staying in Scully Hall along with the room key.
 
-In general a car is not useful within Princeton itself, however. All of the venues for the school (dorm, lecture venue, receptions, etc.) and relevant local businesses (see below) are within walking distance of one another once one has arrived on campus.
+In general a car is not needed within Princeton itself, since all of the venues for the school (dorm, lecture venue, receptions, etc.) and relevant local businesses (see below) are within walking distance of one another once one has arrived on campus.
 
 ### Restaurants, Coffeeshops, Bars and Stores
 
-There are a number of restaurants, coffeeships, bars and stores along Nassau
+There are a number of restaurants, coffeeshops, bars and stores along Nassau
 St. or along the streets on the other side of Nassau St. from campus.
 
 ### General information
