@@ -44,6 +44,11 @@ Keys to the dorm rooms can be picked up in a 2 hour window from 14:00-16:00 on S
 
 Note that linen and towels will be provided at Scully Hall, but participants should bring their own toiletries (shampoo, soap, etc.).
 
+### WiFi on Campus
+
+You should be able to connect to "eduroam" from most places on campus. There
+is also a "PUVisitor" network which should be openly accesssible.
+
 ### Parking on campus
 
 Parking is possible on the Princeton campus. The best place to park is in Lot 20, which is a 5 minute walk from Scully Hall (the dorm) and Jadwin Hall (the buildings where the school will take place) as indicated on this [campus map](/images/Princeton-University-Map-CoDaS-HEP-2017.gif). An overnight parking pass for Lot 20 will be given to participants staying in Scully Hall along with the room key.
