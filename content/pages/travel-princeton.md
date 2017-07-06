@@ -40,7 +40,7 @@ In general long distance taxis will be costly and should be avoided. Uber and Ly
 
 [Scully Hall](https://hres.princeton.edu/undergraduates/explore/upperclass-dormitories/scully-hall) is an upperclass dormitory on the Princeton Campus. It is a 5-10 minute walk from the Princeton train station and a 5 minute walk from Jadwin Hall, where the school lectures will take place.
 
-Keys to the dorm rooms can be picked up in a 2 hour window on 9 July (exact times will be defined and announced before that date). If you arrive outside that time window, the keys can be picked up at Public Safety, located at 200 Elm Drive and labeled "Guard Booth" on the [campus map](/images/Princeton-University-Map-CoDaS-HEP-2017.gif), very close to Scully Hall.
+Keys to the dorm rooms can be picked up in a 2 hour window from 14:00-16:00 on Sunday, 9 July, 2017 at Scully Hall. (In the arch closest to the driveway passing by Carl Icahn Laboratory, see [map](/images/Princeton-University-Map-CoDaS-HEP-2017.gif).) If you arrive outside that time window, the keys can be picked up at Public Safety, located at 200 Elm Drive and labeled "Guard Booth" on the [campus map](/images/Princeton-University-Map-CoDaS-HEP-2017.gif), very close to Scully Hall.
 
 Note that linen and towels will be provided at Scully Hall, but participants should bring their own toiletries (shampoo, soap, etc.).
 
