@@ -50,7 +50,7 @@ Please note the following:
     * Add your name, date and signature at the bottom of the form.
   * Make a readable scan or clear photo of all relevant receipts.
   * Combine the forms and scanned receipt images into a single pdf in the following order:
-    * Guest Reimbursement Request
+    * Guest Reimbursement Request Form
     * Supplier Onboarding Form (if relevant)
     * Scans of relevant receipts
   * Please name the file codas-hep-2017-your-name.pdf
