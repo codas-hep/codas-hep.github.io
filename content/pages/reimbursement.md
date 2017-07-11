@@ -35,7 +35,8 @@ There are two relevant forms for travel reimbursement:
   * [Guest Reimbursement Request](/downloads/guest_reimbursement_request_2017.pdf) - Everyone requesting travel reimbursement must fill out this form
   * [Supplier Onboarding Form](/downloads/supplier_onboarding_2017.pdf) - Only people requesting reimbursement via wire transfer need to fill out this form. If you would like to receive a check, this form is not needed.
 
-Notes:
+Please note the following:
+
   * The form can be filled out electronically, e.g. in Acrobat Reader. This is the preferred method in order to insure legibility.
   * You can either sign the pdf electronically (e.g. in Acrobat Reader) or fill it out electronically, print the result, sign it and scan the result.
   * Please make a clear scan image of all relevant receipts.
