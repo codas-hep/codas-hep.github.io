@@ -20,10 +20,34 @@ Template: page
   * Car rentals will not be reimbursed unless specifically authorized by the school organization.
   * Non-Princeton participants coming from locations within reasonable driving distance of Princeton University may choose to drive their personal automobile. Reimbursement will be provided based on mileage using the University rates. An itinerary map (e.g. from Google Maps) should be provided in lieu of a receipt.
   * Receipts should be provided in electronic form (scanned or clear photos), preferably grouped together into a single pdf file with name "codas-hep-<yourlastname>.pdf"
-  * An electronic form will be provided to you on the first day of the school to provide information for reimbursement. This should in general be filled out by one week after the end of the school week itself (i.e. Friday, 21 July) and submitted along with the electronic copy of the receipts described above.
+  * The form(s) for reimbursement are linked below. This should in general be filled out by one week after the end of the school week itself (i.e. Friday, 21 July) and submitted along with the electronic copy of the receipts described above.
 
   When planning your travel, please remember to take into account not only
 any relevant flight to the NJ/NYC area, but also train or other travel to 
 arrive at the Princeton campus. Please see the [Travel to Princeton webpage](http://codas-hep.org/pages/travel-princeton.html) for more information.
 
   If you have any questions or doubts about travel reimbursement please send an email with your travel plan to [codas-hep@googlegroups.com](codas-hep@googlegroups.com) before booking to get confirmation on reimbursement.
+
+### Forms for reimbursement
+
+There are two relevant forms for travel reimbursement:
+
+  * [Guest Reimbursement Request](/downloads/guest_reimbursement_request_2017.pdf) - Everyone requesting travel reimbursement must fill out this form
+  * [Supplier Onboarding Form](/downloads/supplier_onboarding_2017.pdf) - Only people requesting reimbursement via wire transfer need to fill out this form. If you would like to receive a check, this form is not needed.
+
+Notes:
+  * The form can be filled out electronically, e.g. in Acrobat Reader. This is the preferred method in order to insure legibility.
+  * You can either sign the pdf electronically (e.g. in Acrobat Reader) or fill it out electronically, print the result, sign it and scan the result.
+  * Please make a clear scan image of all relevant receipts.
+  * Please combine the forms and scanned images into a single pdf in the following order:
+    * Guest Reimbursement Request
+    * Supplier Onboarding Form (if relevant)
+    * Scans of relevant receipts
+  * Please name the file codas-hep-2017-your-name.pdf
+  * Send the single pdf as an attachment in email to [codas-hep@googlegroups.com](codas-hep@googlegroups.com) 
+
+
+
+
+
+
