@@ -25,6 +25,7 @@ MENUITEMS = (
 
 LINKS =  ( ('School Program','https://indico.cern.ch/event/625333/timetable/'),
            ('Travel to Princeton','/pages/travel-princeton.html'),
+           ('Participants 2017','/pages/participants-2017.html'),
 	  )
 
 

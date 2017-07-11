@@ -51,9 +51,21 @@ Template: page
   * Uzziel Perez - The University of Alabama
   * Wei Wei - University of Illinois at Urbana-Champaign
 
+### Lecturer List
 
+  * Peter Elmer - Princeton University
+  * Matthieu Lefebvre - Princeton University
+  * David Luet - Princeton University
+  * Dan Riley - Cornell University
+  * Jim Pivarski - Princeton University
+  * Tim Mattson - Intel
+  * Alexey Svyatkovskiy - Princeton University
+  * Ian Cosden - Princeton University
+  * Steve Lantz - Cornell University
+  * Matevz Tadel - University of California San Diego
 
+### Guest Seminars 
 
-
-
+  * Peter Wittich - Cornell University
+  * Kazuhiro Terão - Columbia University
 
