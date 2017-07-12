@@ -67,5 +67,5 @@ Template: page
 ### Guest Seminars 
 
   * Peter Wittich - Cornell University
-  * Kazuhiro Terão - Columbia University
+  * Kazuhiro Terão - Columbia University/SLAC
 

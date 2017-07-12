@@ -46,7 +46,7 @@ Please note the following:
     * Use "Princeton, NJ, USA" for the "Destination"
     * For "Business Purpose", specify "Participation in CoDaS-HEP 2017 school"
     * Fill out the list of expenses as appropriate. Include the date (in MM/DD/YY format), a short description of the type of expense and the amount in U.S. Dollars. 
-    * If you paid an expense in something other than U.S. Dollars, look up the exchange rate on some online service, make a screenshot of the rate on the relevant date and include the screenshot in the pdf with the receipt. Put the equivalent U.S. Dollar cost in the form.
+    * If you paid an expense in something other than U.S. Dollars, look up the exchange rate on some online service, make a screenshot of the rate on the relevant date and include the screenshot in the pdf with the receipt. Put the equivalent U.S. Dollar cost in the form in the "Amount" column and include the amount in the foreign currency (with label such as CHF, EUR) in parentheses in the item "Description". (Note that the administration may adjust the conversion amount if the wrong rate or date is used.)
     * Add your name, date and signature at the bottom of the form.
   * Make a readable scan or clear photo of all relevant receipts.
   * Combine the forms and scanned receipt images into a single pdf in the following order:
