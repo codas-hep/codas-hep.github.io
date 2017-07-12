@@ -37,9 +37,9 @@ There are two relevant forms for travel reimbursement:
 
 Please note the following:
 
-  * The form can be filled out electronically, e.g. in Acrobat Reader. This is the preferred method in order to insure legibility.
+  * The form can be filled out electronically (e.g. in Acrobat Reader). This is the preferred method in order to guarantee legibility.
   * You can either sign the pdf electronically (e.g. in Acrobat Reader) or fill it out electronically, print the result, sign it and scan the result.
-  * If you can fill the form out electronically, print the form and fill it out using clear block letters. Sign it and make a clear scan of the completed form.
+  * If you cannot fill the form out electronically, print the form and fill it out using clear block letters. Sign it and make a clear scan of the completed form.
   * On the form:
     * Fill out your name, address and business phone
     * Specify the departure and return date from your trip to the school (please use MM/DD/YY format)
@@ -48,7 +48,7 @@ Please note the following:
     * Fill out the list of expenses as appropriate. Include the date (in MM/DD/YY format), a short description of the type of expense and the amount in U.S. Dollars. 
     * If you paid an expense in something other than U.S. Dollars, look up the exchange rate on some online service, make a screenshot of the rate on the relevant date and include the screenshot in the pdf with the receipt. Put the equivalent U.S. Dollar cost in the form in the "Amount" column and include the amount in the foreign currency (with label such as CHF, EUR) in parentheses in the item "Description". (Note that the administration may adjust the conversion amount if the wrong rate or date is used.)
     * Add your name, date and signature at the bottom of the form.
-  * Make a readable scan or clear photo of all relevant receipts.
+  * Make a readable scan or clear photo of all relevant receipts for the expenses to be reimbursed.
   * Combine the forms and scanned receipt images into a single pdf in the following order:
     * Guest Reimbursement Request Form
     * Supplier Onboarding Form (if relevant)
