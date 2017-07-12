@@ -87,8 +87,34 @@ the participants, however certain tools (compilers, etc.) must be
 installed in advance. This page describes how to install appropriate
 versions as well as simple tests to </p>
 <h2>MacOSX</h2>
+<p>Install ROOT from https://root.cern.ch/content/release-61002</p>
+<p>Install GNU c++ compiler &gt;= 4.8. If you already use MacPorts or Homebrew, use that.</p>
+<p>Otherwise installing Homebrew seems easier, see https://brew.sh/.</p>
+<p>Apparently (maybe g++):
+    /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+    brew install gcc</p>
 <h2>Linux</h2>
+<p>Install ROOT from https://root.cern.ch/content/release-61002</p>
+<p>Make sure you have GNU c++ compiler &gt;= 4.8 installed.</p>
 <h2>Windows</h2>
+<p>Windows10 -- setup Linux shell, then follow Linux instructions.</p>
+<h2>Testing ROOT Installation</h2>
+<div class="highlight"><pre><span></span># Setup root environment
+# e.g. for bash: . path-to-root/bin/thisroot.sh
+cd $ROOTSYS/tutorials
+root -l hsimple.C
+</pre></div>
+
+
+<h2>Testing gcc / make for Thursday session on vectorization</h2>
+<div class="highlight"><pre><span></span>git clone git@github.com:osschar/mtorture.git
+cd mtorture
+# For osx, modify Makefile to set CXX to your gcc
+# In principle, this should be enough: CXX := c++-mp-5
+make t1
+./t1
+# should print out about 30 lines of numbers
+</pre></div>
         </div>
     </section>
         </div>
