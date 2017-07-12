@@ -41,6 +41,7 @@ Please note the following:
   * You can either sign the pdf electronically (e.g. in Acrobat Reader) or fill it out electronically, print the result, sign it and scan the result.
   * If you cannot fill the form out electronically, print the form and fill it out using clear block letters. Sign it and make a clear scan of the completed form.
   * On the form:
+    * Fill out "Today's date" in the upper right hand corner of the form
     * Fill out your name, address and business phone
     * Specify the departure and return date from your trip to the school (please use MM/DD/YY format)
     * Use "Princeton, NJ, USA" for the "Destination"
