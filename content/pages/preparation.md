@@ -25,6 +25,7 @@ Install GNU c++ compiler >= 4.8. If you already use MacPorts or Homebrew, use th
 Otherwise installing Homebrew seems easier, see https://brew.sh/.
 
 Apparently (maybe g++):
+
     /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
     brew install gcc
 
