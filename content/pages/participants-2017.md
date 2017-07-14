@@ -9,6 +9,10 @@ Template: page
 
 [![Group photo thumbnail](/downloads/codas-hep-2017-group-photo-thumbnail.jpg)](/downloads/codas-hep-2017-group-photo.jpg)
 
+### Participant "introduction" slides:
+
+[slide deck (click for pdf, one slide per participant)](/downloads/CoDaS-HEP-2017-introduction-slides.pdf)
+
 ### Participant List
 
   * Abderrezak Mekkaoui 
