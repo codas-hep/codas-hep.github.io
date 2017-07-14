@@ -55,7 +55,7 @@ Please note the following:
     * Supplier Onboarding Form (if relevant)
     * Scans of relevant receipts
   * Please name the file codas-hep-2017-your-name.pdf
-  * Send the single pdf as an attachment in email to [codas-hep@googlegroups.com](codas-hep@googlegroups.com) 
+  * Send the single pdf as an attachment in email to [codas-hep@googlegroups.com](codas-hep@googlegroups.com) with an email subject line including your name and the word "reimbursement".
 
 
 
