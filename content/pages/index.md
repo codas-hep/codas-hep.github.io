@@ -16,12 +16,12 @@ The CoDaS-HEP school aims to provide a broad introduction to these critical skil
   * Machine Learning - Technology and Methods
   * Practical skills: performance evaluation, use of git for version control
 
-The program will include both lectures and practical hands-on exercises.
+The program includes both lectures and practical hands-on exercises.
 
 The school offers a limited number of young researchers an opportunity to learn these skills from experienced scientists and instructors. Successful applicants will receive travel and lodging support to attend the school. Both Ph.D. students and postdoctoral researchers are encouraged to apply. Financial support for participants will be limited to those associated to U.S. academic institutions.
 
-The school lectures will take place at the [Princeton Center for Theoretical Science (PCTS)](http://pcts.princeton.edu/pcts/index.html) in [Jadwin Hall](https://goo.gl/maps/x1tAczDvWFB2) on the Princeton University campus.
+The CoDaS-HEP 2017 school took place at the [Princeton Center for Theoretical Science (PCTS)](http://pcts.princeton.edu/pcts/index.html) in [Jadwin Hall](https://goo.gl/maps/x1tAczDvWFB2) on the Princeton University campus.
 
-Applications for the CoDaS-HEP 2017 school are no longer being accepted. The deadline was 6 June, 2017. A second edition of the school is planned for summer, 2018. Further information will be made available about CoDaS-HEP 2018 in early 2018.
+**A second edition of the school is planned for summer, 2018. Further information will be made available about CoDaS-HEP 2018 in early 2018.**
 
 Questions can be sent to [codas-hep@googlegroups.com](codas-hep@googlegroups.com).
