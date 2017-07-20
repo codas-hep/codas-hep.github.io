@@ -13,11 +13,15 @@ Template: page
 
   * [Steve Lantz](http://www.cac.cornell.edu/slantz/) - Cornell University, Center for Advanced Computing
 
+  * Matthieu Lefebvre - Princeton Institute for Computational Science and Engineering, Princeton University
+
   * David Luet - Princeton Institute for Computational Science and Engineering, Princeton University
 
   * Tim Mattson - Intel
 
   * Jim Pivarski - Physics Department, Princeton University
+
+  * Dan Riley - Physics Department, Cornell University
 
   * Alexey Svyatkovskiy - Princeton Institute for Computational Science and Engineering, Princeton University
 
