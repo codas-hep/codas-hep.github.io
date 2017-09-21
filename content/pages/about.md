@@ -9,7 +9,7 @@ Template: page
 
   * Ian Cosden - Princeton Institute for Computational Science and Engineering, Princeton University
 
-  * [Peter Elmer](http://www.princeton.edu/physics/people/display_person.xml?netid=gelmer) - Physics Department, Princeton University
+  * [Peter Elmer](https://phy.princeton.edu/people/g-j-peter-elmer) - Physics Department, Princeton University
 
   * [Steve Lantz](http://www.cac.cornell.edu/slantz/) - Cornell University, Center for Advanced Computing
 
