@@ -5,7 +5,7 @@ Authors: Peter Elmer
 Summary: Computation and Data Science for High Energy Physics
 Template: homepage
 
-#### The first school on tools, techniques and methods for Computational and Data Science for High Energy Physics (CoDaS-HEP) took place on 10-13 July, 2017, at Princeton University.
+#### The second school on tools, techniques and methods for Computational and Data Science for High Energy Physics (CoDaS-HEP) is tentatively scheduled for 23-27 July, 2018, at Princeton University.
 
 Advanced software is a critical ingredient to scientific research. Training young researchers in the latest tools and techniques is an essential part of developing the skills required for a successful career both in research and in industry.
 
@@ -20,8 +20,8 @@ The program includes both lectures and practical hands-on exercises.
 
 The school offers a limited number of young researchers an opportunity to learn these skills from experienced scientists and instructors. Successful applicants will receive travel and lodging support to attend the school. Both Ph.D. students and postdoctoral researchers are encouraged to apply. Financial support for participants will be limited to those associated to U.S. academic institutions.
 
-The CoDaS-HEP 2017 school took place at the [Princeton Center for Theoretical Science (PCTS)](http://pcts.princeton.edu/pcts/index.html) in [Jadwin Hall](https://goo.gl/maps/x1tAczDvWFB2) on the Princeton University campus.
+The CoDaS-HEP 2018 school will take place at the [Princeton Center for Theoretical Science (PCTS)](http://pcts.princeton.edu/pcts/index.html) in [Jadwin Hall](https://goo.gl/maps/x1tAczDvWFB2) on the Princeton University campus.
 
-**A second edition of the school is planned for summer, 2018. Further information will be made available about CoDaS-HEP 2018 in early 2018.**
+**20 Feb 2018: Further information will be made available shortly regarding application to attend CoDaS-HEP 2018.**
 
 Questions can be sent to [codas-hep@googlegroups.com](codas-hep@googlegroups.com).
