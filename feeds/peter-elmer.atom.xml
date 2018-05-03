@@ -1,2 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>CoDaS-HEP - Peter Elmer</title><link href="/" rel="alternate"></link><link href="/feeds/peter-elmer.atom.xml" rel="self"></link><id>/</id><updated>2017-03-21T10:37:00+01:00</updated><entry><title>Announcing the Princeton IPCC ROOT project</title><link href="/Announcing_CoDaS_School.html" rel="alternate"></link><published>2017-03-21T10:37:00+01:00</published><updated>2017-03-21T10:37:00+01:00</updated><author><name>Peter Elmer</name></author><id>tag:None,2017-03-21:/Announcing_CoDaS_School.html</id><summary type="html">&lt;p&gt;Coming soon....&lt;/p&gt;</summary><content type="html">&lt;p&gt;Coming soon....&lt;/p&gt;</content><category term="news"></category></entry></feed>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>CoDaS-HEP - Peter Elmer</title><link href="/" rel="alternate"></link><link href="/feeds/peter-elmer.atom.xml" rel="self"></link><id>/</id><updated>2018-05-03T10:37:00+02:00</updated><entry><title>Applications open for CoDaS-HEP 2018</title><link href="/Announcing_CoDaS_School_2018.html" rel="alternate"></link><published>2018-05-03T10:37:00+02:00</published><updated>2018-05-03T10:37:00+02:00</updated><author><name>Peter Elmer</name></author><id>tag:None,2018-05-03:/Announcing_CoDaS_School_2018.html</id><summary type="html">&lt;p&gt;The second school on tools, techniques and methods for Computational
+and Data Science for High Energy Physics (CoDaS-HEP) will take place
+on 23-27 July, 2018, at Princeton University.&lt;/p&gt;
+&lt;p&gt;Advanced software is a critical ingredient to scientific research.
+Training young researchers in the latest tools and techniques is
+an essential part …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The second school on tools, techniques and methods for Computational
+and Data Science for High Energy Physics (CoDaS-HEP) will take place
+on 23-27 July, 2018, at Princeton University.&lt;/p&gt;
+&lt;p&gt;Advanced software is a critical ingredient to scientific research.
+Training young researchers in the latest tools and techniques is
+an essential part of developing the skills required for a successful
+career both in research and in industry. The CoDaS-HEP school aims
+to provide a broad introduction to these critical skills as well
+as an overview of applications High Energy Physics. Specific topics
+to be covered at the school include:&lt;/p&gt;
+&lt;p&gt;Specific Topics to be covered at the school include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Parallel Programming&lt;/li&gt;
+&lt;li&gt;Big Data Tools and Techniques&lt;/li&gt;
+&lt;li&gt;Machine Learning - Technology and Methods&lt;/li&gt;
+&lt;li&gt;Practical skills: performance evaluation, use of git for version control&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The program will include both lectures and practical hands-on exercises.&lt;/p&gt;
+&lt;p&gt;The 4.5 day school offers a limited number of young researchers an
+opportunity to learn these skills from experienced scientists and instructors.
+Successful applicants will receive lodging and some level of travel support
+to attend the school. Both Ph.D. students and postdoctoral researchers
+are encouraged to apply. Financial support for participants will
+be limited to those associated to U.S. academic institutions.&lt;/p&gt;
+&lt;p&gt;Applications for the CoDaS-HEP school are now being accepted. The
+deadline for application is 18 May, 2018. Applicants will be notified
+regarding acceptance and available travel support by 25 May.&lt;/p&gt;
+&lt;p&gt;School website: &lt;a href="http://codas-hep.org"&gt;http://codas-hep.org&lt;/a&gt;
+  Information for applications: &lt;a href="http://codas-hep.org/pages/application.html"&gt;http://codas-hep.org/pages/application.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A draft version of the school agenda is online at:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;[https://indico.cern.ch/event/707498/timetable/](https://indico.cern.ch/event/707498/timetable/)
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Further details will be added in the next weeks.&lt;/p&gt;
+&lt;p&gt;For further information, please write [codas-hep@googlegroups.com](codas-hep@googlegroups.com]&lt;/p&gt;</content><category term="news"></category></entry></feed>
