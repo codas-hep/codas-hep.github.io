@@ -18,10 +18,11 @@ The CoDaS-HEP school aims to provide a broad introduction to these critical skil
 
 The program includes both lectures and practical hands-on exercises.
 
-The school offers a limited number of young researchers an opportunity to learn these skills from experienced scientists and instructors. Successful applicants will receive travel and lodging support to attend the school. Both Ph.D. students and postdoctoral researchers are encouraged to apply. Financial support for participants will be limited to those associated to U.S. academic institutions.
+The school offers a limited number of young researchers an opportunity to learn these skills from experienced scientists and instructors. Successful applicants will receive lodging and some level of travel support to attend the school. Both Ph.D. students and postdoctoral researchers are encouraged to apply. Financial support for participants will be limited to those associated to U.S. academic institutions.
 
 The CoDaS-HEP 2018 school will take place at the [Princeton Center for Theoretical Science (PCTS)](http://pcts.princeton.edu/pcts/index.html) in [Jadwin Hall](https://goo.gl/maps/x1tAczDvWFB2) on the Princeton University campus.
 
-**20 Feb 2018: Further information will be made available shortly regarding application to attend CoDaS-HEP 2018.**
+**3 May 2018: Applications are now open to attend CoDaS-HEP 2018. Please use
+this [Google Form](https://docs.google.com/forms/d/1fn4KU5_oKOVIE912ASrN2evYTy_TfgFYX4_6dneWjO8/edit#responses) to apply. The deadline for application is 18 May, 2018. Applicants will be notified regarding acceptance and available travel support by 25 May.**
 
 Questions can be sent to [codas-hep@googlegroups.com](codas-hep@googlegroups.com).
