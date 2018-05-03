@@ -47,4 +47,4 @@ regarding acceptance and available travel support by 25 May.
 
 Further details will be added in the next weeks.
 
-  For further information, please write [codas-hep@googlegroups.com](codas-hep@googlegroups.com]
+  For further information, please write [codas-hep@googlegroups.com](codas-hep@googlegroups.com)

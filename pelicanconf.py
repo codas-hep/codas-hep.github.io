@@ -25,6 +25,8 @@ MENUITEMS = (
 
 LINKS =  ( 
            ('Travel to Princeton','/pages/travel-princeton.html'),
+           ('CoDaS-HEP 2018 Applications','http://codas-hep.org/pages/application.html'),
+           ('Draft School Program 2018','https://indico.cern.ch/event/707498/timetable/'),
            ('School Program 2017','https://indico.cern.ch/event/625333/timetable/'),
            ('Participants 2017','/pages/participants-2017.html'),
 	  )
