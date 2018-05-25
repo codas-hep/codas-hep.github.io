@@ -1,6 +1,6 @@
-Title: Travel to Princeton (2018 Version)
+Title: Travel to Princeton (2017 Version)
 date: 2017-05-16 07:51
-slug: travel-princeton.html
+slug: travel-princeton-2017.html
 Authors: Peter Elmer
 Summary: Travel to Princeton and Local Princeton Information
 Template: page
@@ -40,9 +40,7 @@ In general long distance taxis will be costly and should be avoided. Uber and Ly
 
 [Scully Hall](https://hres.princeton.edu/undergraduates/explore/upperclass-dormitories/scully-hall) is an upperclass dormitory on the Princeton Campus. It is a 5-10 minute walk from the Princeton train station and a 5 minute walk from Jadwin Hall, where the school lectures will take place.
 
-<!--- Keys to the dorm rooms can be picked up in a 2 hour window from 14:00-16:00 on Sunday, 9 July, 2017 at Scully Hall. (In the arch closest to the driveway passing by Carl Icahn Laboratory, see [map](/images/Princeton-University-Map-CoDaS-HEP-2017.gif).) If you arrive outside that time window, the keys can be picked up at Public Safety, located at 200 Elm Drive on the [campus map](/images/Princeton-University-Map-CoDaS-HEP-2017.gif), very close to Scully Hall. --->
-
-  **Further information on obtaining keys to a dorm room on arrival will be added here soon.**
+Keys to the dorm rooms can be picked up in a 2 hour window from 14:00-16:00 on Sunday, 9 July, 2017 at Scully Hall. (In the arch closest to the driveway passing by Carl Icahn Laboratory, see [map](/images/Princeton-University-Map-CoDaS-HEP-2017.gif).) If you arrive outside that time window, the keys can be picked up at Public Safety, located at 200 Elm Drive on the [campus map](/images/Princeton-University-Map-CoDaS-HEP-2017.gif), very close to Scully Hall.
 
 Note that linen and towels will be provided at Scully Hall, but participants should bring their own toiletries (shampoo, soap, etc.).
 
@@ -53,7 +51,7 @@ is also a "PUVisitor" network which should be openly accesssible.
 
 ### Parking on campus
 
-Parking is possible on the Princeton campus. The best place to park is in Lot 21, which is a 10-15 minute walk from Scully Hall (the dorm) and Jadwin Hall (the buildings where the school will take place) as indicated on this [campus map](/images/Princeton-University-Map-CoDaS-HEP-2017.gif). An overnight parking pass for Lot 21 will be given to participants staying in Scully Hall along with the room key.
+Parking is possible on the Princeton campus. The best place to park is in Lot 20, which is a 5 minute walk from Scully Hall (the dorm) and Jadwin Hall (the buildings where the school will take place) as indicated on this [campus map](/images/Princeton-University-Map-CoDaS-HEP-2017.gif). An overnight parking pass for Lot 20 will be given to participants staying in Scully Hall along with the room key.
 
 In general a car is not needed within Princeton itself, since all of the venues for the school (dorm, lecture venue, receptions, etc.) and relevant local businesses (see below) are within walking distance of one another once one has arrived on campus.
 
