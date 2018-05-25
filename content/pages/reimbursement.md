@@ -18,6 +18,7 @@ Template: page
   * For participants flying from outside the U.S., air flights can only be reimbursed if the carrier is allowed by the Fly America Act and U.S. Open Skies agreements and normally reimbursable with U.S. government (NSF) sponsored research funds
   * For long distance ground travel, mass transportation (train, bus) is preferred to long distance taxi. If necessary, a taxi (uber, lyft) can be used from Princeton Junction to Princeton for late arrivals in place of the Dinky (train station on campus).
   * Car rentals will not be reimbursed unless specifically authorized by the school organization.
+  * Breakfast, lunches and coffee breaks will be provided at no cost to you, as well as a light reception on Monday evening and a "Social Mixer" event (with food) on Tuesday evening. Additional meals costs will not be reimbursed.
   * Non-Princeton participants coming from locations within reasonable driving distance of Princeton University may choose to drive their personal automobile. Reimbursement will be provided based on mileage using the University rates. An itinerary map (e.g. from Google Maps) should be provided in lieu of a receipt.
   * Receipts should be provided in electronic form (scanned or clear photos), preferably grouped together into a single pdf file. 
   * The form(s) for reimbursement are linked below. This should in general be filled out by one week after the end of the school week itself (i.e. Friday, 3 August, 2018) and submitted along with the electronic copy of the receipts described above.
