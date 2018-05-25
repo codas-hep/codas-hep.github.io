@@ -9,7 +9,7 @@ Template: page
 
   Reimbursement will be provided for travel expenses for some school participants, up to a specified limit, upon presentation of valid receipts. The following guidelines apply:
 
-  * Participants should plan on traveling to Princeton on Sunday, 22 July, 2017 and traveling home on Friday, 27 July, 2017
+  * Participants should plan on traveling to Princeton on Sunday, 9 July, 2017 and traveling home on Friday, 14 July, 2017
   * Participants should pay for their travel themselves and will be reimbursed up to the specificed limits after the school has finished 
   * The reimbursement can be done by check or bank transfer, typically within 5-10 business days from submission and approval of the required documentation.
   * Only the participant can be directly reimbursed (not the participant's research group)
@@ -19,8 +19,8 @@ Template: page
   * For long distance ground travel, mass transportation (train, bus) is preferred to long distance taxi. If necessary, a taxi (uber, lyft) can be used from Princeton Junction to Princeton for late arrivals in place of the Dinky (train station on campus).
   * Car rentals will not be reimbursed unless specifically authorized by the school organization.
   * Non-Princeton participants coming from locations within reasonable driving distance of Princeton University may choose to drive their personal automobile. Reimbursement will be provided based on mileage using the University rates. An itinerary map (e.g. from Google Maps) should be provided in lieu of a receipt.
-  * Receipts should be provided in electronic form (scanned or clear photos), preferably grouped together into a single pdf file with name "codas-hep-2018-<yourlastname>.pdf"
-  * The form(s) for reimbursement are linked below. This should in general be filled out by one week after the end of the school week itself (i.e. Friday, 3 August) and submitted along with the electronic copy of the receipts described above.
+  * Receipts should be provided in electronic form (scanned or clear photos), preferably grouped together into a single pdf file with name "codas-hep-<yourlastname>.pdf"
+  * The form(s) for reimbursement are linked below. This should in general be filled out by one week after the end of the school week itself (i.e. Friday, 21 July) and submitted along with the electronic copy of the receipts described above.
 
   When planning your travel, please remember to take into account not only
 any relevant flight to the NJ/NYC area, but also train or other travel to 
@@ -28,9 +28,7 @@ arrive at the Princeton campus. Please see the [Travel to Princeton webpage](htt
 
   If you have any questions or doubts about travel reimbursement please send an email with your travel plan to [codas-hep@googlegroups.com](codas-hep@googlegroups.com) before booking to get confirmation on reimbursement.
 
-### Forms for reimbursement 
-
-  *Please ignore this section. It will be discussed on the last day of the school itself* 
+### Forms for reimbursement
 
 There are two relevant forms for travel reimbursement:
 
@@ -47,7 +45,7 @@ Please note the following:
     * Fill out your name, address and business phone
     * Specify the departure and return date from your trip to the school (please use MM/DD/YY format)
     * Use "Princeton, NJ, USA" for the "Destination"
-    * For "Business Purpose", specify "Participation in CoDaS-HEP 2018 school"
+    * For "Business Purpose", specify "Participation in CoDaS-HEP 2017 school"
     * Fill out the list of expenses as appropriate. Include the date (in MM/DD/YY format), a short description of the type of expense and the amount in U.S. Dollars. 
     * If you paid an expense in something other than U.S. Dollars, look up the exchange rate (corresponding to the date of the expense!) on some online service and make a screenshot of the rate (including the date). Include the screenshot in the pdf with the receipt. Put the equivalent U.S. Dollar cost in the form in the "Amount" column and include the amount in the foreign currency (with label such as CHF, EUR) in parentheses in the item "Description". (Note that the administration may adjust the conversion amount if the wrong rate or date is used.)
     * Add your name, date and signature at the bottom of the form.
@@ -56,7 +54,7 @@ Please note the following:
     * Guest Reimbursement Request Form
     * Supplier Onboarding Form (if relevant)
     * Scans of relevant receipts
-  * Please name the file codas-hep-2018-yourlastname.pdf
+  * Please name the file codas-hep-2017-your-name.pdf
   * Send the single pdf as an attachment in email to [codas-hep@googlegroups.com](codas-hep@googlegroups.com) with an email subject line including your name and the word "reimbursement".
 
 
