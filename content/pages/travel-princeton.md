@@ -44,7 +44,7 @@ Bloomberg Hall is a dormitory on the Princeton Campus. It is a 5-10 minute walk 
 
   **Further information on obtaining keys to a dorm room on arrival will be added here soon.**
 
-Note that linen and towels will be provided at Scully Hall, but participants should bring their own toiletries (shampoo, soap, etc.).
+Note that linen and towels will be provided at Bloomberg Hall, but participants should bring their own toiletries (shampoo, soap, etc.).
 
 ### WiFi on Campus
 
