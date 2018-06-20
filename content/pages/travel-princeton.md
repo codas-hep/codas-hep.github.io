@@ -53,7 +53,7 @@ is also a "PUVisitor" network which should be openly accesssible.
 
 ### Parking on campus
 
-Parking is possible on the Princeton campus. The best place to park is in Lot 21, which is a 10-15 minute walk from Scully Hall (the dorm) and Jadwin Hall (the buildings where the school will take place) as indicated on this [campus map](/images/Princeton-University-Map-CoDaS-HEP-2017.gif). An overnight parking pass for Lot 21 will be given to participants staying in Scully Hall along with the room key.
+Parking is possible on the Princeton campus. The best place to park is in Lot 21, which is a 10-15 minute walk from Bloomberg Hall (the dorm) and Jadwin Hall (the buildings where the school will take place) as indicated on this [campus map](/images/Princeton-University-Map-CoDaS-HEP-2017.gif). An overnight parking pass for Lot 21 will be given to participants staying in Bloomberg Hall along with the room key.
 
 In general a car is not needed within Princeton itself, since all of the venues for the school (dorm, lecture venue, receptions, etc.) and relevant local businesses (see below) are within walking distance of one another once one has arrived on campus.
 
