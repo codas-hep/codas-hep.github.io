@@ -9,7 +9,7 @@ Template: page
 
   In order to perform the exercises during the school, we will provide 
 login access for school participants on machines in one of the Princeton 
-cluters as well as in the Microsoft Azure Cloud.
+clusters as well as in the Microsoft Azure Cloud.
 
   Some exercises can also be easily executed on the personal laptop of
 the participants, however certain tools (compilers, etc.) must be 
