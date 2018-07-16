@@ -38,11 +38,12 @@ In general long distance taxis will be costly and should be avoided. Uber and Ly
 
 ### Bloomberg Hall
 
-Participants will reside in Bloomberg Hall, air conditioned dormitory, on the Princeton University campus. It is a 5-10 minute walk from the Princeton train station and a 5 minute walk from Jadwin Hall, where the school lectures will take place. Keys are available for pick up at our office of Public Safety, 200 Elm Drive, open 24 hours, seven days a week. Participants will received a hotel style key in a packet with the room number at Public Safety. To enter the building, hold the key up to the black box on the building. To enter the room, hold the key in front of the key pad on your room door.
+Participants will reside in Bloomberg Hall, an air conditioned dormitory on the Princeton University campus. It is a 5-10 minute walk from the Princeton train station and a 5 minute walk from Jadwin Hall, where the school lectures will take place. Keys are available for pick up at our office of Public Safety, 200 Elm Drive, open 24 hours, seven days a week. Participants will received a hotel style key in a packet with the room number at Public Safety. To enter the building, hold the key up to the black box on the building. To enter the room, hold the key in front of the key pad on your room door.
 
 A linen packet is provided in the room and includes sheets, towels, a pillow and blanket. Bedrooms are private, though bathrooms are shared with one other person. Guests should plan to bring toiletries. There are free laundry machines available in the building. For extra linens, blankets, etc. or other questions or issues regarding the dorms, please feel free to reach out Monday - Friday, 8:30 - 4:30 to Michelle, Frank or Wilmary at 71 University Place, Princeton, NJ 08544-2088, (609) 258-6116, [horgan@princeton.edu](horgan@princeton.edu). Outside of those hours, Public Safety can help with lockouts, emergencies or other immediate issues.
 
-Participants can park temporarily in North Garage (if on a weekend) to walk to Public Safety and pick up their keys.  After moving in, we would ask that participants move cars to their assigned lot, the Lakeside Garage. Lot 21 is available for those just driving in for the day.
+Participants can park temporarily in North Garage (if on a weekend) to walk to Public Safety and pick up their keys. See below for parking notes during the
+school itself.
 
 ### Emergency Contact
 
@@ -50,7 +51,7 @@ For emergencies, please dial Princeton University Public Safety (609) 258-1000 o
 
 ### Parking on campus
 
-Parking is possible on the Princeton campus. The best place to park is in Lot 21, which is a 10-15 minute walk from Bloomberg Hall (the dorm) and Jadwin Hall (the buildings where the school will take place) as indicated on this [campus map](/images/Princeton-University-Map-CoDaS-HEP-2017.gif). An overnight parking pass for Lot 21 will be given to participants staying in Bloomberg Hall along with the room key.
+Parking is possible on the Princeton campus. As noted above, participants can park temporarily in North Garage (if on a weekend) to walk to Public Safety and pick up their keys. After moving in, we would ask that participants move cars to their assigned lot, the Lakeside Garage. Lot 21 is available for those just driving in for the day.
 
 In general a car is not needed within Princeton itself, since all of the venues for the school (dorm, lecture venue, receptions, etc.) and relevant local businesses (see below) are within walking distance of one another once one has arrived on campus.
 
@@ -70,7 +71,7 @@ St. or along the streets on the other side of Nassau St. from campus.
 
 ### General information
 
-  * Campus Map: [pdf format](http://www.princeton.edu/main/visiting/aroundcampus/maps/princeton_map.pdf), [gif format](/images/Princeton-University-Map-CoDaS-HEP-2017.gif)
+  * Campus Map: [pdf format](http://www.princeton.edu/main/visiting/aroundcampus/maps/princeton_map.pdf), [gif format](/images/Princeton-University-Map-CoDaS-HEP-2018.gif)
   * Princeton mobile phone apps: [iOS App](https://itunes.apple.com/us/app/princeton-mobile/id388821195?mt=8), [Android App](https://play.google.com/store/apps/details?id=edu.princeton.mobile&hl=en)
   * [Princeton Area Airports](https://www.princeton.edu/main/visiting/travel/airports/)
 
