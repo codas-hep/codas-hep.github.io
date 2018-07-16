@@ -38,24 +38,30 @@ In general long distance taxis will be costly and should be avoided. Uber and Ly
 
 ### Bloomberg Hall
 
-Bloomberg Hall is a dormitory on the Princeton Campus. It is a 5-10 minute walk from the Princeton train station and a 5 minute walk from Jadwin Hall, where the school lectures will take place.
+Participants will reside in Bloomberg Hall, air conditioned dormitory, on the Princeton University campus. It is a 5-10 minute walk from the Princeton train station and a 5 minute walk from Jadwin Hall, where the school lectures will take place. Keys are available for pick up at our office of Public Safety, 200 Elm Drive, open 24 hours, seven days a week. Participants will received a hotel style key in a packet with the room number at Public Safety. To enter the building, hold the key up to the black box on the building. To enter the room, hold the key in front of the key pad on your room door.
 
-<!--- Keys to the dorm rooms can be picked up in a 2 hour window from 14:00-16:00 on Sunday, 9 July, 2017 at Scully Hall. (In the arch closest to the driveway passing by Carl Icahn Laboratory, see [map](/images/Princeton-University-Map-CoDaS-HEP-2017.gif).) If you arrive outside that time window, the keys can be picked up at Public Safety, located at 200 Elm Drive on the [campus map](/images/Princeton-University-Map-CoDaS-HEP-2017.gif), very close to Scully Hall. --->
+A linen packet is provided in the room and includes sheets, towels, a pillow and blanket. Bedrooms are private, though bathrooms are shared with one other person. Guests should plan to bring toiletries. There are free laundry machines available in the building. For extra linens, blankets, etc. or other questions or issues regarding the dorms, please feel free to reach out Monday - Friday, 8:30 - 4:30 to Michelle, Frank or Wilmary at 71 University Place, Princeton, NJ 08544-2088, (609) 258-6116, [horgan@princeton.edu](horgan@princeton.edu). Outside of those hours, Public Safety can help with lockouts, emergencies or other immediate issues.
 
-  **Further information on obtaining keys to a dorm room on arrival will be added here soon.**
+Participants can park temporarily in North Garage (if on a weekend) to walk to Public Safety and pick up their keys.  After moving in, we would ask that participants move cars to their assigned lot, the Lakeside Garage. Lot 21 is available for those just driving in for the day.
 
-Note that linen and towels will be provided at Bloomberg Hall, but participants should bring their own toiletries (shampoo, soap, etc.).
+### Emergency Contact
 
-### WiFi on Campus
-
-You should be able to connect to "eduroam" from most places on campus. There
-is also a "PUVisitor" network which should be openly accesssible.
+For emergencies, please dial Princeton University Public Safety (609) 258-1000 or dial 911 to reach the Public Safety dispatcher from a campus phone.
 
 ### Parking on campus
 
 Parking is possible on the Princeton campus. The best place to park is in Lot 21, which is a 10-15 minute walk from Bloomberg Hall (the dorm) and Jadwin Hall (the buildings where the school will take place) as indicated on this [campus map](/images/Princeton-University-Map-CoDaS-HEP-2017.gif). An overnight parking pass for Lot 21 will be given to participants staying in Bloomberg Hall along with the room key.
 
 In general a car is not needed within Princeton itself, since all of the venues for the school (dorm, lecture venue, receptions, etc.) and relevant local businesses (see below) are within walking distance of one another once one has arrived on campus.
+
+### WiFi on Campus
+
+You should be able to connect to "eduroam" from most places on campus. There
+is also a "PUVisitor" network which should be openly accesssible.
+
+### On-Campus Food
+
+There are many nearby locations where food is available with the closest being WAWA, located next to the Princeton Train Station and open 24 hours, and University Store, located 36 University Place, which features snacks, souvenirs, laundry detergent, toiletries and a pharmacy and open from 9 AM - 9 PM. Both are within five minutes walking distance from the dorm.
 
 ### Restaurants, Coffeeshops, Bars and Stores
 
