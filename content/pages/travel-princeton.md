@@ -42,7 +42,7 @@ Participants will reside in Bloomberg Hall, an air conditioned dormitory on the 
 
 A linen packet is provided in the room and includes sheets, towels, a pillow and blanket. Bedrooms are private, though bathrooms are shared with one other person. Guests should plan to bring toiletries. There are free laundry machines available in the building. For extra linens, blankets, etc. or other questions or issues regarding the dorms, please feel free to reach out Monday - Friday, 8:30 - 4:30 to Michelle, Frank or Wilmary at 71 University Place, Princeton, NJ 08544-2088, (609) 258-6116, [horgan@princeton.edu](horgan@princeton.edu). Outside of those hours, Public Safety can help with lockouts, emergencies or other immediate issues.
 
-Participants can park temporarily in North Garage (if on a weekend) to walk to Public Safety, 200 Elm Drive, and pick up their keys. See below for parking notes during the school itself.
+Participants can park temporarily in West Garage (if on a weekend) to walk to Public Safety, 200 Elm Drive, and pick up their keys. (The side of the garage closest to Lot 20 will be closed on the weekend before the school for construction, but entry is available on the Lewis Arts Complex side to that garage.) See below for parking notes during the school itself.
 
 ### Emergency Contact
 
