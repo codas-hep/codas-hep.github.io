@@ -70,7 +70,7 @@ St. or along the streets on the other side of Nassau St. from campus.
 
 ### General information
 
-  * Campus Map: [pdf format](http://www.princeton.edu/main/visiting/aroundcampus/maps/princeton_map.pdf), [gif format](/images/Princeton-University-Map-CoDaS-HEP-2018.gif)
+  * Campus Map: [pdf format](http://www.princeton.edu/main/visiting/aroundcampus/maps/princeton_map.pdf), [png format, with CoDaS-HEP labels](/images/Princeton-University-Map-CoDaS-HEP-2018.png)
   * Princeton mobile phone apps: [iOS App](https://itunes.apple.com/us/app/princeton-mobile/id388821195?mt=8), [Android App](https://play.google.com/store/apps/details?id=edu.princeton.mobile&hl=en)
   * [Princeton Area Airports](https://www.princeton.edu/main/visiting/travel/airports/)
 
