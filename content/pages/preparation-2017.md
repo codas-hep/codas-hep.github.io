@@ -9,7 +9,7 @@ Template: page
 
   In order to perform the exercises during the school, we will provide 
 login access for school participants on machines in one of the Princeton 
-clusters as well as other resources
+clusters as well as in the Microsoft Azure Cloud.
 
   Some exercises can also be easily executed on the personal laptop of
 the participants, however certain tools (compilers, etc.) must be 
@@ -18,11 +18,9 @@ versions as well as simple tests to
 
 ## MacOSX
 
-Install a recent version of ROOT, for example from [https://root.cern.ch/content/release-61400](https://root.cern.ch/content/release-61400)
+Install ROOT from https://root.cern.ch/content/release-61002
 
-In general you will want to install XCode.
-
-The Apple system compiler (from XCode) does not support OpenMP, which is used in some lectures, so please install also GNU c++ compiler >= 4.8. If you already use MacPorts or Homebrew, use that.
+Install GNU c++ compiler >= 4.8. If you already use MacPorts or Homebrew, use that.
 
 Otherwise installing Homebrew seems easier, see https://brew.sh/.
 
@@ -33,7 +31,7 @@ Apparently (maybe g++):
 
 ## Linux
 
-Install a recent version of ROOT, for example from [https://root.cern.ch/content/release-61400](https://root.cern.ch/content/release-61400)
+Install ROOT from https://root.cern.ch/content/release-61002
 
 Make sure you have GNU c++ compiler >= 4.8 installed.
 
