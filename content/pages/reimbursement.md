@@ -10,7 +10,7 @@ Template: page
   Reimbursement will be provided for travel expenses for some school participants, up to a specified limit, upon presentation of valid receipts. The following guidelines apply:
 
   * Participants should plan on traveling to Princeton on Sunday, 22 July, 2018, and traveling home on Friday, 27 July, 2018
-  * Participants should pay for their travel themselves and will be reimbursed up to the specificed limits after the school has finished 
+  * Participants should pay for their travel themselves and will be reimbursed up to the specified limits after the school has finished 
   * The reimbursement can be done by check or bank transfer, typically within 5-10 business days from submission and approval of the required documentation.
   * Only the participant can be directly reimbursed (not the participant's research group)
   * Reimbursed travel should use the least expensive options possible, which reasonably meet normal travel time constraints
@@ -59,9 +59,6 @@ Please note the following:
     * Scans of relevant receipts
   * Please name the file codas-hep-2018-yourlastname.pdf
   * Send the single pdf as an attachment in email to [codas-hep@googlegroups.com](codas-hep@googlegroups.com) with an email subject line including your name and the word "reimbursement".
-
-
-
 
 
 
