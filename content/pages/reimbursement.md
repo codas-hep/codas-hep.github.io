@@ -57,7 +57,7 @@ Please note the following:
     * Guest Reimbursement Request Form
     * Supplier Onboarding Form (if relevant)
     * Scans of relevant receipts
-  * Please name the file codas-hep-2018-yourlastname.pdf
+  * Please name the file codas-hep-2018-yourfirstname-yourlastname.pdf
   * Send the single pdf as an attachment in email to [codas-hep@googlegroups.com](codas-hep@googlegroups.com) with an email subject line including your name and the word "reimbursement".
 
 
