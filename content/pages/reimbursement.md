@@ -7,7 +7,7 @@ Template: page
 
 ### Guidelines for Reimbursement of Travel Expenses
 
-  Reimbursement will be provided for travel expenses for some school participants, up to a specified limit, upon presentation of valid receipts. The following guidelines apply:
+  Reimbursement will be provided for travel expenses for some school participants, up to a specified limit, upon presentation of valid receipts. The following guidelines apply: 
 
   * Participants should plan on traveling to Princeton on Sunday, 22 July, 2018, and traveling home on Friday, 27 July, 2018
   * Participants should pay for their travel themselves and will be reimbursed up to the specified limits after the school has finished 
