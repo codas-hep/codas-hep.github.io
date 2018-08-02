@@ -2,31 +2,48 @@ Title: CoDaS-HEP Overview
 date: 2017-03-21 07:51
 slug: about.html
 Authors: Peter Elmer
-Summary: Computation and Data Science for High Energy Physics
+Summary: Computational and Data Science for High Energy Physics
 Template: page
 
-### Lecturers
+  The school on Computational and Data Science for High Energy Physics 
+(CoDaS-HEP) was created to fill a void in the training of graduate students
+and postdocs working in HEP. Training young researchers in the latest 
+computational tools and techniques is essential to their future careers in 
+both research and industry. To be successful today’s grad students require a 
+mix of particle physics domain knowledge and advanced software skills. 
+Relevant computing topics are however often missing from traditional physics 
+coursework and, as young researchers begin their active research careers, 
+they discover the need for these skills, but are no longer in a position to 
+follow such courses.
 
-  * Ian Cosden - Princeton Institute for Computational Science and Engineering, Princeton University
+  The school was intially developed as part of the NSF-funded [Parallel Kalman 
+Filter Tracking project](http://trackreco.github.io), in partnership
+with the [Princeton Institute for Computational Science and Engineering (PICSciE)](https://researchcomputing.princeton.edu). Building on the success of the
+first iterations of the school, additional collaborations and funding sources
+have been added (see list below).
 
-  * [Peter Elmer](https://phy.princeton.edu/people/g-j-peter-elmer) - Physics Department, Princeton University
+  A dedicated compute platform (the CoDaS-HEP Platform) is also being 
+developed by the [Enrico Fermi Institute](https://efi.uchicago.edu) at the 
+University of Chicago to support the exercises portion of these training 
+activities.
 
-  * [Steve Lantz](http://www.cac.cornell.edu/slantz/) - Cornell University, Center for Advanced Computing
+### Collaborating Research Projects
 
-  * Matthieu Lefebvre - Princeton Institute for Computational Science and Engineering, Princeton University
+  * [The DIANA/HEP project](http://diana-hep.org/)
 
-  * David Luet - Princeton Institute for Computational Science and Engineering, Princeton University
+  * [The FIRST-HEP project](http://first-hep.org/)
 
-  * Tim Mattson - Intel
+  * [The Parallel Kalman Filter Tracking project](http://trackreco.github.io)
 
-  * Jim Pivarski - Physics Department, Princeton University
+  * [SLATE: Services Layer at the Edge](http://slateci.io/)
 
-  * Dan Riley - Physics Department, Cornell University
+  * [Pacific Research Platform]http://pacificresearchplatform.org/)
 
-  * Alexey Svyatkovskiy - Princeton Institute for Computational Science and Engineering, Princeton University
+  * [CHASE-CI](https://nsf.gov/awardsearch/showAward?AWD_ID=1730158)
 
-  * [Matevz Tadel](http://profiles.ucsd.edu/matevz.tadel) - University of California San Diego, Department of Physics
+  * [VC3](https://virtualclusters.org)
 
+  * [GitHub (CoDaS-HEP platform portal software)](https://github.com/ssl-hep/mlfront)
 
 ### Scientific Advisory Committee
 
@@ -41,14 +58,6 @@ Template: page
   * [Avi Yagil](http://physics.ucsd.edu/fac_staff/fac_profile/faculty_description.php?person_id=688) - University of California, San Diego, Department of Physics
 
   * [Peter Wittich](http://physics.cornell.edu/peter-wittich) - Cornell University, Department of Physics
-
-
-### Collaborating Research Projects
-
-  * [The DIANA/HEP project](http://diana-hep.org/)
-
-  * [The Parallel Kalman Filter Tracking project](http://trackreco.github.io)
-
 
 
 
