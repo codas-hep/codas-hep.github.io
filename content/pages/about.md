@@ -41,7 +41,7 @@ activities.
 
   * [CHASE-CI](https://nsf.gov/awardsearch/showAward?AWD_ID=1730158)
 
-  * [VC3](https://virtualclusters.org)
+  * [VC3](https://www.virtualclusters.org)
 
   * [GitHub (CoDaS-HEP platform portal software)](https://github.com/ssl-hep/mlfront)
 
