@@ -37,7 +37,7 @@ activities.
 
   * [SLATE: Services Layer at the Edge](http://slateci.io/)
 
-  * [Pacific Research Platform]http://pacificresearchplatform.org/)
+  * [Pacific Research Platform (PRP)](http://pacificresearchplatform.org/)
 
   * [CHASE-CI](https://nsf.gov/awardsearch/showAward?AWD_ID=1730158)
 
