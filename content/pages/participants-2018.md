@@ -91,6 +91,6 @@ Template: page
   * Dan Riley - Cornell University
   * Jim Pivarski - Princeton University
   * Elizabeth Sexton-Kennedy - Fermi National Accelerator Laboratory 
-  * Alexey Svyatkovskiy - Princeton University
+  * Alexey Svyatkovskiy - Microsoft
 
 
