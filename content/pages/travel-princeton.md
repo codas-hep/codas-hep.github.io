@@ -63,6 +63,13 @@ is also a "PUVisitor" network which should be openly accesssible.
 
 There are many nearby locations where food is available with the closest being WAWA, located next to the Princeton Train Station and open 24 hours, and University Store, located 36 University Place, which features snacks, souvenirs, laundry detergent, toiletries and a pharmacy and open from 9 AM - 9 PM. Both are within five minutes walking distance from the dorm.
 
+### Access to Campus Gym Facilities
+
+Access by visitors to campus gym facilities is possible. Gym passes are
+available for $5 each (at the participant's own expense) at the office
+of the Princeton Conference and Event Services at 71 University Place. The
+office is open from 8:00am through 4:30pm, Monday through Friday.
+
 ### Restaurants, Coffeeshops, Bars and Stores
 
 There are a number of restaurants, coffeeshops, bars and stores along Nassau
