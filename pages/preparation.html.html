@@ -35,6 +35,16 @@
 
 
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-127257599-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-127257599-1');
+</script>
+
 </head>
 <body>
 
@@ -118,7 +128,7 @@ minor variant of clang, while c++ is a symlink to clang++.)</p>
 <p>Windows10 -- setup Linux shell, then follow Linux instructions.</p>
 <h2>Testing ROOT Installation</h2>
 <div class="highlight"><pre><span></span># Setup root environment in bash shell
-source &lt;path-to-root&gt;/bin/thisroot.sh
+source &amp;lt;path-to-root&amp;gt;/bin/thisroot.sh
 # Run a quick test
 root -l $ROOTSYS/tutorials/hsimple.C
 </pre></div>
