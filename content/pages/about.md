@@ -19,8 +19,10 @@ follow such courses.
   The school was intially developed as part of the NSF-funded [Parallel Kalman 
 Filter Tracking project](http://trackreco.github.io), in partnership
 with the [Princeton Institute for Computational Science and Engineering (PICSciE)](https://researchcomputing.princeton.edu). Building on the success of the
-first iterations of the school, additional collaborations and funding sources
-have been added (see list below).
+first iterations of the school, direct support will continue in the coming years
+through two other NSF-funded projects: [FIRST-HEP](http://first-hep.org)
+and [IRIS-HEP](http://iris-hep.org). Additional collaborations 
+have also been added (see list below).
 
   A dedicated compute platform (the CoDaS-HEP Platform) is also being 
 developed by the [Enrico Fermi Institute](https://efi.uchicago.edu) at the 
