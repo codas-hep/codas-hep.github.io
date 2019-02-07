@@ -5,9 +5,9 @@ Authors: Peter Elmer
 Summary: Computational and Data Science Training for High Energy Physics
 Template: homepage
 
-#### The second school on tools, techniques and methods for Computational and Data Science for High Energy Physics (CoDaS-HEP) took place on 23-27 July, 2018, at Princeton University.
+#### The third school on tools, techniques and methods for Computational and Data Science for High Energy Physics (CoDaS-HEP) is tentatively planned for 22-26 July, 2019, at Princeton University.
 
-#### A third edition of the school is currently being planned for summer, 2019.
+#### Additional information about applying to attend the third school will be forthcoming.
 
 Advanced software is a critical ingredient to scientific research. Training young researchers in the latest tools and techniques is an essential part of developing the skills required for a successful career both in research and in industry.
 
