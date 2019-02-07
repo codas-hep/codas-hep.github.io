@@ -22,6 +22,6 @@ The program includes both lectures and practical hands-on exercises.
 
 The school offers a limited number of young researchers an opportunity to learn these skills from experienced scientists and instructors. Successful applicants will receive lodging and some level of travel support to attend the school. Both Ph.D. students and postdoctoral researchers are encouraged to apply. Financial support for participants will be limited to those associated to U.S. academic institutions.
 
-Applications for the CoDaS-HEP 2019 school are not yet being accepted. Please watch this webpage in 2019 for announcements and information about applying.
+Applications for the CoDaS-HEP 2019 school are not yet being accepted. Please watch this webpage for announcements and information about applying.
 
 Questions can be sent to [codas-hep@googlegroups.com](codas-hep@googlegroups.com).
