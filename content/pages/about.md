@@ -53,6 +53,8 @@ activities.
 
   * [Peter Elmer](http://www.princeton.edu/physics/people/display_person.xml?netid=gelmer&display=Research%20Staff) (Chair) - Princeton University, Department of Physics
 
+  * [Ian Cosden](https://researchcomputing.princeton.edu/people/ian-cosden-0) - Princeton University, Research Computing
+
   * [Kyle Cranmer](http://theoryandpractice.org) - New York University, Department of Physics & Center for Data Science
 
   * [Oliver Gutsche](http://home.fnal.gov/~gutsche) - Fermi National Accelerator Laboratory
