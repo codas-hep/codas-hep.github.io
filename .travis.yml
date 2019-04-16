@@ -14,7 +14,7 @@ install:
 - ls
 - wget http://www.tipue.com/search/tipuesearch.zip
 - unzip tipuesearch.zip
-- cp -r Tipue\ Search\ 7.0/tipuesearch pelican-themes/static/
+- cp -r Tipue\ Search\ 7.1/tipuesearch pelican-themes/static/
 notifications:
   email:
     on_success: always
