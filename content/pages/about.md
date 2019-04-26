@@ -20,11 +20,13 @@ follow such courses.
 [Parallel Kalman Filter Tracking project](http://trackreco.github.io), 
 in particular through grants PHY-1520942, PHY-1520969, PHY-1521042 and 
 ACI-1450377. The school is realized in partnership with the [Princeton 
-Institute for Computational Science and Engineering (PICSciE)](https://researchcomputing.princeton.edu). Building on the success of the
+Institute for Computational Science and Engineering (PICSciE)](https://researchcomputing.princeton.edu). 
+
+Building on the success of the
 first iterations of the school, direct support will continue from 2019
 through two other NSF-funded projects: [FIRST-HEP](http://first-hep.org)
 and [IRIS-HEP](http://iris-hep.org). Additional collaborations 
-have also been added (see list below).
+have also been added (see full list below).
 
   A dedicated compute platform (the CoDaS-HEP Platform) is also being 
 developed by the [Enrico Fermi Institute](https://efi.uchicago.edu) at the 
@@ -33,9 +35,11 @@ activities.
 
 ### Collaborating Research Projects
 
-  * [The DIANA/HEP project](http://diana-hep.org/)
-
   * [The FIRST-HEP project](http://first-hep.org/)
+
+  * [The IRIS-HEP Software Institute](http://iris-hep.org/)
+
+  * [The DIANA/HEP project](http://diana-hep.org/)
 
   * [The Parallel Kalman Filter Tracking project](http://trackreco.github.io)
 
