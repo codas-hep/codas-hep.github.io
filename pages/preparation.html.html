@@ -109,8 +109,8 @@ used in some lectures, so please also install the GNU Compiler Collection
 use that to install GCC. Otherwise, getting started with Homebrew seems
 easiest; see <a href="https://brew.sh/">https://brew.sh/</a>.</p>
 <p>In Terminal, these are the commands to install Homebrew, then GCC:</p>
-<div class="highlight"><pre><span></span>/usr/bin/ruby -e &quot;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)&quot;
-brew install gcc
+<div class="highlight"><pre><span></span><span class="o">/</span><span class="n">usr</span><span class="o">/</span><span class="n">bin</span><span class="o">/</span><span class="n">ruby</span> <span class="o">-</span><span class="n">e</span> <span class="ss">&quot;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)&quot;</span>
+<span class="n">brew</span> <span class="n">install</span> <span class="n">gcc</span>
 </pre></div>
 
 
@@ -127,21 +127,21 @@ minor variant of clang, while c++ is a symlink to clang++.)</p>
 <h2>Windows</h2>
 <p>Windows10 -- setup Linux shell, then follow Linux instructions.</p>
 <h2>Testing ROOT Installation</h2>
-<div class="highlight"><pre><span></span># Setup root environment in bash shell
-source &lt;path-to-root&gt;/bin/thisroot.sh
-# Run a quick test
-root -l $ROOTSYS/tutorials/hsimple.C
+<div class="highlight"><pre><span></span><span class="o">#</span> <span class="n">Setup</span> <span class="n">root</span> <span class="n">environment</span> <span class="k">in</span> <span class="n">bash</span> <span class="n">shell</span>
+<span class="k">source</span> <span class="o">&lt;</span><span class="n">path</span><span class="o">-</span><span class="k">to</span><span class="o">-</span><span class="n">root</span><span class="o">&gt;/</span><span class="n">bin</span><span class="o">/</span><span class="n">thisroot</span><span class="p">.</span><span class="n">sh</span>
+<span class="o">#</span> <span class="n">Run</span> <span class="n">a</span> <span class="n">quick</span> <span class="n">test</span>
+<span class="n">root</span> <span class="o">-</span><span class="n">l</span> <span class="err">$</span><span class="n">ROOTSYS</span><span class="o">/</span><span class="n">tutorials</span><span class="o">/</span><span class="n">hsimple</span><span class="p">.</span><span class="k">C</span>
 </pre></div>
 
 
 <h2>Testing gcc / make for Thursday session on vectorization</h2>
-<div class="highlight"><pre><span></span>git clone https://github.com/osschar/mtorture.git
-cd mtorture
-# For macOS, modify Makefile to set CXX to your c++
-# e.g., for Homebrew, this should be enough: CXX := c++-8
-make t1
-./t1
-# should print out about 30 lines of numbers
+<div class="highlight"><pre><span></span><span class="nv">git</span> <span class="nv">clone</span> <span class="nv">https</span>:<span class="o">//</span><span class="nv">github</span>.<span class="nv">com</span><span class="o">/</span><span class="nv">osschar</span><span class="o">/</span><span class="nv">mtorture</span>.<span class="nv">git</span>
+<span class="nv">cd</span> <span class="nv">mtorture</span>
+# <span class="k">For</span> <span class="nv">macOS</span>, <span class="nv">modify</span> <span class="nv">Makefile</span> <span class="nv">to</span> <span class="nv">set</span> <span class="nv">CXX</span> <span class="nv">to</span> <span class="nv">your</span> <span class="nv">c</span><span class="o">++</span>
+# <span class="nv">e</span>.<span class="nv">g</span>., <span class="k">for</span> <span class="nv">Homebrew</span>, <span class="nv">this</span> <span class="nv">should</span> <span class="nv">be</span> <span class="nv">enough</span>: <span class="nv">CXX</span> :<span class="o">=</span> <span class="nv">c</span><span class="o">++-</span><span class="mi">8</span>
+<span class="nv">make</span> <span class="nv">t1</span>
+.<span class="o">/</span><span class="nv">t1</span>
+# <span class="nv">should</span> <span class="nv">print</span> <span class="nv">out</span> <span class="nv">about</span> <span class="mi">30</span> <span class="nv">lines</span> <span class="nv">of</span> <span class="nv">numbers</span>
 </pre></div>
         </div>
     </section>

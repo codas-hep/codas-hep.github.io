@@ -101,8 +101,8 @@ versions as well as simple tests to </p>
 <p>Install GNU c++ compiler &gt;= 4.8. If you already use MacPorts or Homebrew, use that.</p>
 <p>Otherwise installing Homebrew seems easier, see https://brew.sh/.</p>
 <p>Apparently (maybe g++):</p>
-<div class="highlight"><pre><span></span>/usr/bin/ruby -e &quot;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)&quot;
-brew install gcc
+<div class="highlight"><pre><span></span><span class="o">/</span><span class="n">usr</span><span class="o">/</span><span class="n">bin</span><span class="o">/</span><span class="n">ruby</span> <span class="o">-</span><span class="n">e</span> <span class="ss">&quot;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)&quot;</span>
+<span class="n">brew</span> <span class="n">install</span> <span class="n">gcc</span>
 </pre></div>
 
 
@@ -112,21 +112,21 @@ brew install gcc
 <h2>Windows</h2>
 <p>Windows10 -- setup Linux shell, then follow Linux instructions.</p>
 <h2>Testing ROOT Installation</h2>
-<div class="highlight"><pre><span></span># Setup root environment
-# e.g. for bash: . path-to-root/bin/thisroot.sh
-cd $ROOTSYS/tutorials
-root -l hsimple.C
+<div class="highlight"><pre><span></span># <span class="nv">Setup</span> <span class="nv">root</span> <span class="nv">environment</span>
+# <span class="nv">e</span>.<span class="nv">g</span>. <span class="k">for</span> <span class="nv">bash</span>: . <span class="nv">path</span><span class="o">-</span><span class="nv">to</span><span class="o">-</span><span class="nv">root</span><span class="o">/</span><span class="nv">bin</span><span class="o">/</span><span class="nv">thisroot</span>.<span class="nv">sh</span>
+<span class="nv">cd</span> $<span class="nv">ROOTSYS</span><span class="o">/</span><span class="nv">tutorials</span>
+<span class="nv">root</span> <span class="o">-</span><span class="nv">l</span> <span class="nv">hsimple</span>.<span class="nv">C</span>
 </pre></div>
 
 
 <h2>Testing gcc / make for Thursday session on vectorization</h2>
-<div class="highlight"><pre><span></span>git clone git@github.com:osschar/mtorture.git
-cd mtorture
-# For osx, modify Makefile to set CXX to your gcc
-# In principle, this should be enough: CXX := c++-mp-5
-make t1
-./t1
-# should print out about 30 lines of numbers
+<div class="highlight"><pre><span></span><span class="nv">git</span> <span class="nv">clone</span> <span class="nv">git</span>@<span class="nv">github</span>.<span class="nv">com</span>:<span class="nv">osschar</span><span class="o">/</span><span class="nv">mtorture</span>.<span class="nv">git</span>
+<span class="nv">cd</span> <span class="nv">mtorture</span>
+# <span class="k">For</span> <span class="nv">osx</span>, <span class="nv">modify</span> <span class="nv">Makefile</span> <span class="nv">to</span> <span class="nv">set</span> <span class="nv">CXX</span> <span class="nv">to</span> <span class="nv">your</span> <span class="nv">gcc</span>
+# <span class="nv">In</span> <span class="nv">principle</span>, <span class="nv">this</span> <span class="nv">should</span> <span class="nv">be</span> <span class="nv">enough</span>: <span class="nv">CXX</span> :<span class="o">=</span> <span class="nv">c</span><span class="o">++-</span><span class="nv">mp</span><span class="o">-</span><span class="mi">5</span>
+<span class="nv">make</span> <span class="nv">t1</span>
+.<span class="o">/</span><span class="nv">t1</span>
+# <span class="nv">should</span> <span class="nv">print</span> <span class="nv">out</span> <span class="nv">about</span> <span class="mi">30</span> <span class="nv">lines</span> <span class="nv">of</span> <span class="nv">numbers</span>
 </pre></div>
         </div>
     </section>
