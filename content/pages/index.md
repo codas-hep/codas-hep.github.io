@@ -22,6 +22,6 @@ The school offers a limited number of young researchers an opportunity to learn 
 
 The CoDaS-HEP 2019 school will take place at the [Princeton Center for Theoretical Science (PCTS)](http://pcts.princeton.edu/pcts/index.html) in [Jadwin Hall](https://goo.gl/maps/x1tAczDvWFB2) on the Princeton University campus.
 
-**The application period for the CoDaS-HEP 2019 school has now closed. The deadline for application was 7 May, 2019. We are in the process of notifying applicants regarding acceptance and available travel support.**
+**The application period for the CoDaS-HEP 2019 school is now over. The deadline for application was 7 May, 2019. We are in the process of notifying applicants regarding acceptance and available travel support.**
 
 Questions can be sent to [codas-hep@googlegroups.com](codas-hep@googlegroups.com).
