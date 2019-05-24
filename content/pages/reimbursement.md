@@ -9,16 +9,16 @@ Template: page
 
   Reimbursement will be provided for travel expenses for some school participants, up to a specified limit, upon presentation of valid receipts. The following guidelines apply: 
 
-  * Participants should plan on traveling to Princeton on Sunday, 21 July, 2019, and traveling home on Friday, 26 July, 2019
-  * Participants should pay for their travel themselves and will be reimbursed up to the specified limits after the school has finished 
+  * Participants should plan on traveling to Princeton on Sunday, 21 July, 2019, and traveling home on Friday, 26 July, 2019.
+  * Participants should pay for their travel themselves and will be reimbursed up to the specified limits after the school has finished.
   * The reimbursement can be done by check or bank transfer, typically within 5-10 business days from submission and approval of the required documentation.
-  * Only the participant can be directly reimbursed (not the participant's research group)
-  * Reimbursed travel should use the least expensive options possible, which reasonably meet normal travel time constraints
+  * Only the participant can be directly reimbursed (not the participant's research group).
+  * Reimbursed travel should use the least expensive options possible, which reasonably meet normal travel time constraints.
   * Reimbursed travel should be booked in regular, economy fares. No business class or paid economy class upgrades can be reimbursed. In cases where airlines offer "economy basic" or similar discounted fares, with limitations on carry-on baggage or similar, it is fine to choose the "regular" economy fare permitting baggage.
-  * For participants flying from outside the U.S., air flights can only be reimbursed if the carrier is allowed by the Fly America Act and U.S. Open Skies agreements and normally reimbursable with U.S. government (NSF) sponsored research funds
+  * For participants flying from outside the U.S., air flights can only be reimbursed if the carrier is allowed by the Fly America Act and U.S. Open Skies agreements and normally reimbursable with U.S. government (NSF) sponsored research funds.
   * For long distance ground travel, mass transportation (train, bus) is preferred to long distance taxi. If necessary, a taxi (uber, lyft) can be used from Princeton Junction to Princeton for late arrivals in place of the Dinky (train station on campus).
   * Car rentals will not be reimbursed unless specifically authorized by the school organization.
-  * Breakfast, lunches and coffee breaks will be provided at no cost to you from Monday to Friday, as well as a light reception on Monday evening and a "Social Mixer" event (with food) on Tuesday evening. Additional meals costs will not be reimbursed.
+  * Breakfast, lunches and coffee breaks will be provided at no cost to you from Monday to Friday, as well as a light reception on Monday evening and a "Social Mixer" event (with food) on Tuesday evening and dinner at a local restaurant on Thursday evening. Dinner on Wednesday is on one's own. Additional meals costs will not be reimbursed.
   * Non-Princeton participants coming from locations within reasonable driving distance of Princeton University may choose to drive their personal automobile. Reimbursement will be provided based on mileage using the University rates. An itinerary map (e.g. from Google Maps) should be provided in lieu of a receipt.
   * Receipts should be provided in electronic form (scanned or clear photos), preferably grouped together into a single pdf file. 
   * The form(s) for reimbursement are linked below. This should in general be filled out by one week after the end of the school week itself (i.e. Friday, 2 August, 2019) and submitted along with the electronic copy of the receipts described above.
@@ -57,7 +57,7 @@ Please note the following:
     * Guest Reimbursement Request Form
     * Supplier Onboarding Form (if relevant)
     * Scans of relevant receipts
-  * Please name the file codas-hep-2018-yourfirstname-yourlastname.pdf
+  * Please name the file codas-hep-2019-yourfirstname-yourlastname.pdf
   * Send the single pdf as an attachment in email to [codas-hep@googlegroups.com](codas-hep@googlegroups.com) with an email subject line including your name and the word "reimbursement".
 
 
