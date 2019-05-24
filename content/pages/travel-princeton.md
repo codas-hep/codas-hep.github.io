@@ -22,7 +22,7 @@ Note that there are two train stations you will need to know:
 
 If you are coming from EWR, Trenton or NYC Penn Station, you should buy a New Jersey Transit ticket through to Princeton Station. You will then need to take a train to Princeton Junction train station (check that your particular train stops there!), get off at Princeton Junction train station and take the "Dinky" from Princeton Junction train station to Princeton train station.
 
-If you are coming on Amtrak, most trains do not stop at Princeton Junction (with only a few exceptions, see the [Amtrak website](http://amtrak.com)). You will probably need to take Amtrak to Newark or Trenton and then switch to New Jersey Transit, as above, to arrive to Princeton Station on campus.
+If you are coming on Amtrak, most trains do not stop at Princeton Junction (with only a few exceptions, see the [Amtrak website](http://amtrak.com)). You will need to take Amtrak to Newark or Trenton and then switch to New Jersey Transit, as above, to arrive to Princeton Station on campus.
 
 ### Travel by Air
 
@@ -36,28 +36,35 @@ In general long distance taxis will be costly and should be avoided. Uber and Ly
 
 ## Local Princeton Information
 
-### Bloomberg Hall
+### Accommodation - Scully and Wilf Hall
 
-Participants will reside in Bloomberg Hall, an air conditioned dormitory on the Princeton University campus. It is a 5-10 minute walk from the Princeton train station and a 5 minute walk from Jadwin Hall, where the school lectures will take place. Keys are available for pick up at our office of Public Safety, 200 Elm Drive, open 24 hours, seven days a week. Participants will received a hotel style key in a packet with the room number at Public Safety. To enter the building, hold the key up to the black box on the building. To enter the room, hold the key in front of the key pad on your room door.
+Participants will reside in either Scully or Wilf Halls, two air conditioned dormitory on the Princeton University campus. They are a 10 minute walk from the Princeton (Dinky) train station and a 5 minute walk from Jadwin Hall, where the school lectures will take place. Keys are available for pick up at our office of Public Safety, 200 Elm Drive, open 24 hours, seven days a week. Participants will receive a hotel style key in a packet with the room number at Public Safety. To enter the building, hold the key up to the black box on the building. To enter the room, hold the key in front of the key pad on your room door.
 
-A linen packet is provided in the room and includes sheets, towels, a pillow and blanket. Bedrooms are private, though bathrooms are shared with one other person. Guests should plan to bring toiletries. There are free laundry machines available in the building. For extra linens, blankets, etc. or other questions or issues regarding the dorms, please feel free to reach out Monday - Friday, 8:30 - 4:30 to Michelle, Frank or Wilmary at 71 University Place, Princeton, NJ 08544-2088, (609) 258-6116, [horgan@princeton.edu](horgan@princeton.edu). Outside of those hours, Public Safety can help with lockouts, emergencies or other immediate issues. Information on how to set the temperature in the dorm room can be found in [this document](/downloads/T-stats-in-dorms-9-2017.docx).
+A linen packet is provided in the room and includes sheets, towels, a pillow and blanket. Bedrooms are private, though bathrooms are shared with one other person. Guests should plan to bring toiletries. There are free laundry machines available in the building. For extra linens, blankets, etc. or other questions or issues regarding the dorms, please feel free to reach out Monday - Friday, 8:30 - 4:30 to Michelle at 71 University Place, Princeton, NJ 08544-2088, (609) 258-6116, [horgan@princeton.edu](horgan@princeton.edu). Outside of those hours, Public Safety can help with lockouts, emergencies or other immediate issues. Information on how to set the temperature in the dorm room can be found in [this document](/downloads/T-stats-in-dorms-9-2017.docx).
 
 Participants can park temporarily in West Garage (if on a weekend) to walk to Public Safety, 200 Elm Drive, and pick up their keys. (The side of the garage closest to Lot 20 will be closed on the weekend before the school for construction, but entry is available on the Lewis Arts Complex side to that garage.) See below for parking notes during the school itself.
 
-### Emergency Contact
+### Important Phone Numbers / Public Safety
 
-For emergencies, please dial Princeton University Public Safety (609) 258-1000 or dial 911 to reach the Public Safety dispatcher from a campus phone.
+For emergencies:
+
+  * From Campus Phone: 911
+  * From Cell Phone: (609) 258-3333
+
+Non-emergencies:
+
+  * (609) 258-1000
 
 ### Parking on campus
 
-Parking is possible on the Princeton campus. As noted above, participants can park temporarily in West Garage (if on a weekend) to walk to Public Safety and pick up their keys. After moving in, we would ask that participants move cars to their assigned lot, the Lakeside Garage. Lot 21 is available for those just driving in for the day.
+Parking is available on the Princeton campus. As noted above, participants can park temporarily in West Garage (if on a weekend) to walk to Public Safety and pick up their keys. After moving in, we would ask that participants move cars to their assigned lot, the Lakeside Garage. Lot 21 is available for those just driving in for the day.
 
 In general a car is not needed within Princeton itself, since all of the venues for the school (dorm, lecture venue, receptions, etc.) and relevant local businesses (see below) are within walking distance of one another once one has arrived on campus.
 
 ### WiFi on Campus
 
 You should be able to connect to "eduroam" from most places on campus. There
-is also a "PUVisitor" network which should be openly accesssible.
+is also a "PUVisitor" network which should be openly accessible.
 
 ### On-Campus Food
 
@@ -65,8 +72,8 @@ There are many nearby locations where food is available with the closest being W
 
 ### Access to Campus Gym Facilities
 
-Access by visitors to campus gym facilities is possible. Gym passes are
-available for $5 each (at the participant's own expense) at the office
+Access by visitors to [campus gym facilities (Dillon Gym)](https://campusrec.princeton.edu/facilities-operations/facility-use-policies) is possible. Gym passes are
+available for $10 each (at the participant's own expense) at the office
 of the Princeton Conference and Event Services at 71 University Place. The
 office is open from 8:00am through 4:30pm, Monday through Friday.
 
