@@ -35,8 +35,8 @@ arrive at the Princeton campus. Please see the [Travel to Princeton webpage](htt
 
 There are two relevant forms for travel reimbursement:
 
-  * [Guest Reimbursement Request](/downloads/guest_reimbursement_2018_request.pdf) - Everyone requesting travel reimbursement must fill out this form
-  * [Supplier Onboarding Form](/downloads/supplier_mgmt_2018.pdf) - Only people requesting reimbursement via wire transfer need to fill out this form. If you would like to receive a check, this form is not needed.
+  * [Guest Reimbursement Request](https://finance.princeton.edu/form-library/reimbursement/guest-reimbursement-reque/guest_reimbursement_request.pdf) - Everyone requesting travel reimbursement must fill out this form
+  * [Supplier Onboarding Form](https://finance.princeton.edu/form-library/buying-paying/supplierpayee-management/supplier_mgmt.pdf) - Only people requesting reimbursement via wire transfer need to fill out this form. If you would like to receive a check, this form is not needed.
 
 Please note the following:
 
