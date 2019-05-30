@@ -17,10 +17,10 @@ Template: page
   * Reimbursed travel should be booked in regular, economy fares. No business class or paid economy class upgrades can be reimbursed. In cases where airlines offer "economy basic" or similar discounted fares, with limitations on carry-on baggage or similar, it is fine to choose the "regular" economy fare permitting baggage.
   * For participants flying from outside the U.S., air flights can only be reimbursed if the carrier is allowed by the Fly America Act and U.S. Open Skies agreements and normally reimbursable with U.S. government (NSF) sponsored research funds.
   * For long distance ground travel, mass transportation (train, bus) is preferred to long distance taxi. If necessary, a taxi (uber, lyft) can be used from Princeton Junction to Princeton for late arrivals in place of the Dinky (train station on campus).
-  * Car rentals will not be reimbursed unless specifically authorized by the school organization.
+  * Car rentals will not be reimbursed unless specifically authorized by the school lead organizer (Peter Elmer)
   * Breakfast, lunches and coffee breaks will be provided at no cost to you from Monday to Friday, as well as a light reception on Monday evening and a "Social Mixer" event (with food) on Tuesday evening and dinner at a local restaurant on Thursday evening. Dinner on Wednesday is on one's own. Additional meals costs will not be reimbursed.
   * Non-Princeton participants coming from locations within reasonable driving distance of Princeton University may choose to drive their personal automobile. Reimbursement will be provided based on mileage using the University rates. An itinerary map (e.g. from Google Maps) should be provided in lieu of a receipt.
-  * Receipts should be provided in electronic form (scanned or clear photos), preferably grouped together into a single pdf file. 
+  * Receipts should be provided in electronic form (scanned or clear photos), and grouped together into a single pdf file. 
   * The form(s) for reimbursement are linked below. This should in general be filled out by one week after the end of the school week itself (i.e. Friday, 2 August, 2019) and submitted along with the electronic copy of the receipts described above.
 
   When planning your travel, please remember to take into account not only
@@ -50,7 +50,7 @@ Please note the following:
     * Use "Princeton, NJ, USA" for the "Destination"
     * For "Business Purpose", specify "Participation in CoDaS-HEP 2019 school"
     * Fill out the list of expenses as appropriate. Include the date (in MM/DD/YY format), a short description of the type of expense and the amount in U.S. Dollars. 
-    * If you paid an expense in something other than U.S. Dollars, look up the exchange rate (corresponding to the date of the expense!) on some online service and make a screenshot of the rate (including the date). Include the screenshot in the pdf with the receipt. Put the equivalent U.S. Dollar cost in the form in the "Amount" column and include the amount in the foreign currency (with label such as CHF, EUR) in parentheses in the item "Description". (Note that the administration may adjust the conversion amount if the wrong rate or date is used.)
+    * If you paid an expense in something other than U.S. Dollars, look up the exchange rate (corresponding to the date of the expense!) on [Oanda](https://www1.oanda.com/currency/converter/) and make a screenshot of the rate (including the date). Include the screenshot in the pdf with the receipt. Put the equivalent U.S. Dollar cost in the form in the "Amount" column and include the amount in the foreign currency (with label such as CHF, EUR) in parentheses in the item "Description". (Note that the administration may adjust the conversion amount if the wrong rate or date is used.)
     * Add your name, date and signature at the bottom of the form.
   * Make a readable scan or clear photo of all relevant receipts for the expenses to be reimbursed.
   * Combine the forms and scanned receipt images into a single pdf in the following order:
