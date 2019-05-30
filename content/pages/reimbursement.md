@@ -20,7 +20,7 @@ Template: page
   * Car rentals will not be reimbursed unless specifically authorized by the school lead organizer (Peter Elmer)
   * Breakfast, lunches and coffee breaks will be provided at no cost to you from Monday to Friday, as well as a light reception on Monday evening and a "Social Mixer" event (with food) on Tuesday evening and dinner at a local restaurant on Thursday evening. Dinner on Wednesday is on one's own. Additional meals costs will not be reimbursed.
   * Non-Princeton participants coming from locations within reasonable driving distance of Princeton University may choose to drive their personal automobile. Reimbursement will be provided based on mileage using the University rates. An itinerary map (e.g. from Google Maps) should be provided in lieu of a receipt.
-  * Receipts should be provided in electronic form (scanned or clear photos), and grouped together into a single pdf file. 
+  * Receipts should be provided in electronic form (scanned or clear photos), and grouped together into a **single pdf file**. 
   * The form(s) for reimbursement are linked below. This should in general be filled out by one week after the end of the school week itself (i.e. Friday, 2 August, 2019) and submitted along with the electronic copy of the receipts described above.
 
   When planning your travel, please remember to take into account not only
