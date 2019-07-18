@@ -28,7 +28,7 @@ Xcode is a free (if slow) download from the App Store.
 
 If you are already familiar with a package manager like MacPorts or Homebrew,
 use that to install the requirements. Otherwise, we highly recommend Homebrew;
-see [https://brew.sh/](https://brew.sh/). To install Homebrew:
+get from [https://brew.sh/](https://brew.sh/), and see the post ["Setup a new Mac"](https://iscinumpy.gitlab.io/post/setup-a-new-mac/). To install Homebrew:
 
 ```bash
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
@@ -38,13 +38,15 @@ see [https://brew.sh/](https://brew.sh/). To install Homebrew:
 If Apple's Xcode Command Line Tools weren't previously installed, then the
 Homebrew installation should have taken care of that for you as well.
 
-Install a recent version of ROOT. The offical ROOT binaries are available from [https://root.cern.ch/content/release-61800](https://root.cern.ch/content/release-61800), but they have some issues, such as being compiled against the system Python 2 and with the minimum C++ standard setting (11). If you use Homebrew, you will get a highest C++ standard setting allowed by your macOS version and Python 3 as well. You [can also use conda](https://github.com/conda-forge/root-feedstock) if you are on a Linux or macOS install of conda (Conda on Windows is 64 bit, and ROOT 6 does not support 64 bit binaries on windows).
+**Install a recent version of ROOT.** The offical ROOT binaries are available from [https://root.cern.ch/content/release-61800](https://root.cern.ch/content/release-61800), but they have some issues, such as being compiled against the system Python 2 and with the minimum C++ standard setting (11). If you use Homebrew to install ROOT, you will get a highest C++ standard setting allowed by your macOS version and Python 3 as well.
+
+Alternatively, you can [use conda to install ROOT](https://github.com/conda-forge/root-feedstock) if you are on a Linux or macOS install of Conda (Conda on Windows is 64 bit, and ROOT 6 does not support 64 bit binaries on windows).
 
 ```bash
 brew install root
 ```
 
-The default Apple system compiler (clang) does not support OpenMP out of the box, which is
+**Install a recent C++ compiler.** The default Apple system compiler (clang) does not support OpenMP out of the box, which is
 used in some lectures, so please also install the GNU Compiler Collection
 (GCC), version >= 4.8.
 
@@ -91,4 +93,7 @@ cd mtorture
 make t1
 ./t1
 ```
-# should print out about 30 lines of numbers 
+
+This should print out about 30 lines of numbers.
+
+
