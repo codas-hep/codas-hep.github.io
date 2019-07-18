@@ -104,19 +104,20 @@ laptop installation works correctly.</p>
 Xcode is a free (if slow) download from the App Store.</p>
 <p>If you are already familiar with a package manager like MacPorts or Homebrew,
 use that to install the requirements. Otherwise, we highly recommend Homebrew;
-see <a href="https://brew.sh/">https://brew.sh/</a>. To install Homebrew:</p>
+get from <a href="https://brew.sh/">https://brew.sh/</a>, and see the post <a href="https://iscinumpy.gitlab.io/post/setup-a-new-mac/">"Setup a new Mac"</a>. To install Homebrew:</p>
 <div class="highlight"><pre><span></span>/usr/bin/ruby -e <span class="s2">&quot;</span><span class="k">$(</span>curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install<span class="k">)</span><span class="s2">&quot;</span>
 </pre></div>
 
 
 <p>If Apple's Xcode Command Line Tools weren't previously installed, then the
 Homebrew installation should have taken care of that for you as well.</p>
-<p>Install a recent version of ROOT. The offical ROOT binaries are available from <a href="https://root.cern.ch/content/release-61800">https://root.cern.ch/content/release-61800</a>, but they have some issues, such as being compiled against the system Python 2 and with the minimum C++ standard setting (11). If you use Homebrew, you will get a highest C++ standard setting allowed by your macOS version and Python 3 as well. You <a href="https://github.com/conda-forge/root-feedstock">can also use conda</a> if you are on a Linux or macOS install of conda (Conda on Windows is 64 bit, and ROOT 6 does not support 64 bit binaries on windows).</p>
+<p><strong>Install a recent version of ROOT.</strong> The offical ROOT binaries are available from <a href="https://root.cern.ch/content/release-61800">https://root.cern.ch/content/release-61800</a>, but they have some issues, such as being compiled against the system Python 2 and with the minimum C++ standard setting (11). If you use Homebrew to install ROOT, you will get a highest C++ standard setting allowed by your macOS version and Python 3 as well.</p>
+<p>Alternatively, you can <a href="https://github.com/conda-forge/root-feedstock">use conda to install ROOT</a> if you are on a Linux or macOS install of Conda (Conda on Windows is 64 bit, and ROOT 6 does not support 64 bit binaries on windows).</p>
 <div class="highlight"><pre><span></span>brew install root
 </pre></div>
 
 
-<p>The default Apple system compiler (clang) does not support OpenMP out of the box, which is
+<p><strong>Install a recent C++ compiler.</strong> The default Apple system compiler (clang) does not support OpenMP out of the box, which is
 used in some lectures, so please also install the GNU Compiler Collection
 (GCC), version &gt;= 4.8.</p>
 <p>In the terminal, these are the commands to install GCC in homebrew:</p>
@@ -154,7 +155,7 @@ make t1
 </pre></div>
 
 
-<h1>should print out about 30 lines of numbers</h1>
+<p>This should print out about 30 lines of numbers.</p>
         </div>
     </section>
         </div>
