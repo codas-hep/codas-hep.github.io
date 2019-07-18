@@ -57,7 +57,7 @@ Non-emergencies:
 
 ### Parking on campus
 
-Parking is available on the Princeton campus. As noted above, participants can park temporarily in West Garage (if on a weekend) to walk to Public Safety and pick up their keys. After moving in, we would ask that participants move cars to their assigned lot, the Lakeside Garage. Lot 21 is available for those just driving in for the day.
+Parking is available on the Princeton campus. As noted above, participants can park temporarily in West Garage (if on a weekend) to walk to Public Safety and pick up their keys. After moving in, we would ask that participants move cars to their assigned lot, the Lakeside Garage. [Lot 21](https://goo.gl/maps/acEt4zZLBKk7jkLs5) is free and available for those just driving in for the day.
 
 In general a car is not needed within Princeton itself, since all of the venues for the school (dorm, lecture venue, receptions, etc.) and relevant local businesses (see below) are within walking distance of one another once one has arrived on campus.
 
