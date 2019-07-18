@@ -92,57 +92,69 @@ CoDaS-HEP            </a>
 <p>In order to perform the exercises during the school, we will provide 
 login access for school participants on machines in one of the Princeton 
 clusters as well as other resources.</p>
-<p>Some exercises can also be easily executed on the personal laptops of
+<p>Most exercises can also be easily executed on the personal laptops of
 the participants, provided that certain tools (compilers, etc.) are 
 installed in advance. This page describes how to install the appropriate
 software versions, as well as how to perform simple tests to verify that a
 laptop installation works correctly.</p>
+<h2>Anaconda</h2>
+<p>The Python and most ROOT portions of the workshop can be run in Conda, which you can obtain here: <a href="https://docs.conda.io/en/latest/miniconda.html">miniconda</a> or here: <a href="https://www.anaconda.com/distribution/#download-section">Anaconda</a>. We will provided suggested environment files, so miniconda is fine unless you already have Anaconda. You can always write <code>conda install anaconda</code> to install the rest of the Anaconda default package collection if you really want to. We will be using the <code>conda-forge</code> and <code>pytorch</code> channels. The ROOT sections will not work on Conda on Windows.</p>
 <h2>macOS</h2>
-<p>Install a recent version of ROOT, for example from <a href="https://root.cern.ch/content/release-61400">https://root.cern.ch/content/release-61400</a>.</p>
-<p>Apple's Xcode is required in order to run ROOT, assuming that you installed
-ROOT from one of CERN's binary distributions for Mac. Xcode is a free (if slow)
-download from the App Store.</p>
-<p>The default Apple system compiler (clang) does not support OpenMP, which is
-used in some lectures, so please also install the GNU Compiler Collection
-(GCC), version &gt;= 4.8.</p>
+<p>Apple's Xcode is required in order to run ROOT and to compile anything on macOS, even if you use conda.
+Xcode is a free (if slow) download from the App Store.</p>
 <p>If you are already familiar with a package manager like MacPorts or Homebrew,
-use that to install GCC. Otherwise, getting started with Homebrew seems
-easiest; see <a href="https://brew.sh/">https://brew.sh/</a>.</p>
-<p>In Terminal, these are the commands to install Homebrew, then GCC:</p>
-<div class="highlight"><pre><span></span><span class="o">/</span><span class="n">usr</span><span class="o">/</span><span class="n">bin</span><span class="o">/</span><span class="n">ruby</span> <span class="o">-</span><span class="n">e</span> <span class="ss">&quot;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)&quot;</span>
-<span class="n">brew</span> <span class="n">install</span> <span class="n">gcc</span>
+use that to install the requirements. Otherwise, we highly recommend Homebrew;
+see <a href="https://brew.sh/">https://brew.sh/</a>. To install Homebrew:</p>
+<div class="highlight"><pre><span></span>/usr/bin/ruby -e <span class="s2">&quot;</span><span class="k">$(</span>curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install<span class="k">)</span><span class="s2">&quot;</span>
 </pre></div>
 
 
 <p>If Apple's Xcode Command Line Tools weren't previously installed, then the
 Homebrew installation should have taken care of that for you as well.</p>
-<p>The default version of gcc installed by Homebrew is currently gcc-8. Thus the
-correct command to use for calling the c++ compiler is c++-8. These commands
+<p>Install a recent version of ROOT. The offical ROOT binaries are available from <a href="https://root.cern.ch/content/release-61800">https://root.cern.ch/content/release-61800</a>, but they have some issues, such as being compiled against the system Python 2 and with the minimum C++ standard setting (11). If you use Homebrew, you will get a highest C++ standard setting allowed by your macOS version and Python 3 as well. You <a href="https://github.com/conda-forge/root-feedstock">can also use conda</a> if you are on a Linux or macOS install of conda (Conda on Windows is 64 bit, and ROOT 6 does not support 64 bit binaries on windows).</p>
+<div class="highlight"><pre><span></span>brew install root
+</pre></div>
+
+
+<p>The default Apple system compiler (clang) does not support OpenMP out of the box, which is
+used in some lectures, so please also install the GNU Compiler Collection
+(GCC), version &gt;= 4.8.</p>
+<p>In the terminal, these are the commands to install GCC in homebrew:</p>
+<div class="highlight"><pre><span></span>brew install gcc
+</pre></div>
+
+
+<p>The default version of gcc installed by Homebrew is currently gcc-9. Thus the
+correct command to use for calling the c++ compiler is c++-9. These commands
 are located in /usr/local/bin, which should be in your PATH. (Be aware that
-macOS has similar commands called gcc and c++ in /usr/bin, but gcc is just a
-minor variant of clang, while c++ is a symlink to clang++.)</p>
+macOS has similar commands called gcc and c++ in /usr/bin, but gcc is just
+clang in a GCC 4.2 emulation mode, while c++ is a symlink to clang++.)</p>
 <h2>Linux</h2>
-<p>Install a recent version of ROOT, for example from <a href="https://root.cern.ch/content/release-61400">https://root.cern.ch/content/release-61400</a></p>
+<p>Install a recent version of ROOT, for example from <a href="https://root.cern.ch/content/release-61800">https://root.cern.ch/content/release-61800</a>. You can use conda and the conda-forge ROOT install as well;
+unlike on macOS, these come with recent GCC compilers instead of LLVM, so you will likely have everything you need.</p>
 <p>Make sure you have GNU c++ compiler &gt;= 4.8 installed.</p>
 <h2>Windows</h2>
 <p>Windows10 -- setup Linux shell, then follow Linux instructions.</p>
 <h2>Testing ROOT Installation</h2>
-<div class="highlight"><pre><span></span><span class="o">#</span> <span class="n">Setup</span> <span class="n">root</span> <span class="n">environment</span> <span class="k">in</span> <span class="n">bash</span> <span class="n">shell</span>
-<span class="k">source</span> <span class="o">&lt;</span><span class="n">path</span><span class="o">-</span><span class="k">to</span><span class="o">-</span><span class="n">root</span><span class="o">&gt;/</span><span class="n">bin</span><span class="o">/</span><span class="n">thisroot</span><span class="p">.</span><span class="n">sh</span>
-<span class="o">#</span> <span class="n">Run</span> <span class="n">a</span> <span class="n">quick</span> <span class="n">test</span>
-<span class="n">root</span> <span class="o">-</span><span class="n">l</span> <span class="err">$</span><span class="n">ROOTSYS</span><span class="o">/</span><span class="n">tutorials</span><span class="o">/</span><span class="n">hsimple</span><span class="p">.</span><span class="k">C</span>
+<div class="highlight"><pre><span></span><span class="c1"># Setup root environment in bash shell (skip this if using conda)</span>
+<span class="nb">source</span> &lt;path-to-root&gt;/bin/thisroot.sh
+
+<span class="c1"># Run a quick test</span>
+root -l <span class="nv">$ROOTSYS</span>/tutorials/hsimple.C
 </pre></div>
 
 
 <h2>Testing gcc / make for Thursday session on vectorization</h2>
-<div class="highlight"><pre><span></span><span class="nv">git</span> <span class="nv">clone</span> <span class="nv">https</span>:<span class="o">//</span><span class="nv">github</span>.<span class="nv">com</span><span class="o">/</span><span class="nv">osschar</span><span class="o">/</span><span class="nv">mtorture</span>.<span class="nv">git</span>
-<span class="nv">cd</span> <span class="nv">mtorture</span>
-# <span class="k">For</span> <span class="nv">macOS</span>, <span class="nv">modify</span> <span class="nv">Makefile</span> <span class="nv">to</span> <span class="nv">set</span> <span class="nv">CXX</span> <span class="nv">to</span> <span class="nv">your</span> <span class="nv">c</span><span class="o">++</span>
-# <span class="nv">e</span>.<span class="nv">g</span>., <span class="k">for</span> <span class="nv">Homebrew</span>, <span class="nv">this</span> <span class="nv">should</span> <span class="nv">be</span> <span class="nv">enough</span>: <span class="nv">CXX</span> :<span class="o">=</span> <span class="nv">c</span><span class="o">++-</span><span class="mi">8</span>
-<span class="nv">make</span> <span class="nv">t1</span>
-.<span class="o">/</span><span class="nv">t1</span>
-# <span class="nv">should</span> <span class="nv">print</span> <span class="nv">out</span> <span class="nv">about</span> <span class="mi">30</span> <span class="nv">lines</span> <span class="nv">of</span> <span class="nv">numbers</span>
+<div class="highlight"><pre><span></span>git clone https://github.com/osschar/mtorture.git
+<span class="nb">cd</span> mtorture
+<span class="c1"># For macOS, modify Makefile to set CXX to your c++</span>
+<span class="c1"># e.g., for Homebrew, this should be enough: CXX := c++-9</span>
+make t1
+./t1
 </pre></div>
+
+
+<h1>should print out about 30 lines of numbers</h1>
         </div>
     </section>
         </div>
