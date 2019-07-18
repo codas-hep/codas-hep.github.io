@@ -5,8 +5,6 @@ Authors: Peter Elmer
 Summary: Advance preparation for laptops
 Template: page
 
-### Advance preparation for laptops
-
 In order to perform the exercises during the school, we will provide 
 login access for school participants on machines in one of the Princeton 
 clusters as well as other resources.
@@ -64,10 +62,10 @@ clang in a GCC 4.2 emulation mode, while c++ is a symlink to clang++.)
 
 ## Linux
 
-Install a recent version of ROOT, for example from [https://root.cern.ch/content/release-61800](https://root.cern.ch/content/release-61800). You can use conda and the conda-forge ROOT install as well;
+**Install a recent version of ROOT**, for example from [https://root.cern.ch/content/release-61800](https://root.cern.ch/content/release-61800). You can use conda and the conda-forge ROOT install as well;
 unlike on macOS, these come with recent GCC compilers instead of LLVM, so you will likely have everything you need.
 
-Make sure you have GNU c++ compiler >= 4.8 installed.
+**Make sure you have GNU c++ compiler** >= 4.8 installed.
 
 ## Windows
 
