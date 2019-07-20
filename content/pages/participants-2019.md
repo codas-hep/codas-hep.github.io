@@ -12,7 +12,6 @@ Template: page
   * Ayman Ahmad Al-bataineh - University of Kansas
   * Rui An - Illinois Institute of Technology/Fermilab
   * Justin Anguiano - University of Kansas
-  * Amit Bashyal - Oregon State University
   * Austin Baty - Rice University
   * Jason Bono - Fermilab
   * Emma Castiglia - Yale University
@@ -38,7 +37,6 @@ Template: page
   * Manolis Kargiantoulakis - Fermilab
   * Stephanie Kwan - Princeton University
   * Sicong Lu - University of Pennsylvania
-  * Atanu Modak - Kansas State University
   * Sara Nabili - University of Maryland
   * Panchali Nag - Duke University
   * Gregory (Greg) Ottino - UC Berkeley/LBNL
