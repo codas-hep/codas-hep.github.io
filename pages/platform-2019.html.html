@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns# fb: https://www.facebook.com/2008/fbml">
+<head>
+    <title>Platform Setup Instructions - CoDaS-HEP</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+    <link href="/images/favicon.ico" rel="icon">
+
+<link rel="canonical" href="/pages/platform-2019.html.html">
+
+        <meta name="author" content="Savannah Thais" />
+        <meta name="description" content="Instructions for setting up the remote CoDaS platform with conda image" />
+
+    <meta property="og:site_name" content="CoDaS-HEP" />
+    <meta property="og:type" content="article"/>
+    <meta property="og:title" content="Platform Setup Instructions"/>
+    <meta property="og:url" content="/pages/platform-2019.html.html"/>
+    <meta property="og:description" content="Instructions for setting up the remote CoDaS platform with conda image" />
+
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="/theme/css/bootstrap.cerulean.min.css" type="text/css"/>
+    <link href="/theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="/theme/css/pygments/default.css" rel="stylesheet">
+    <link href="/theme/tipuesearch/tipuesearch.css" rel="stylesheet">
+    <link rel="stylesheet" href="/theme/css/style.css" type="text/css"/>
+        <link href="/static/custom.css" rel="stylesheet">
+
+
+
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-127257599-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-127257599-1');
+</script>
+
+</head>
+<body>
+
+<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+	<div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="/" class="navbar-brand">
+CoDaS-HEP            </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                    <li><a href="/pages/about.html">About</a></li>
+                    <li><a href="/pages/application.html">Application</a></li>
+                        <li >
+                            <a href="/category/blog.html">Blog</a>
+                        </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+              <li><span>
+                <form class="navbar-search" action="/search.html">
+                  <input type="text" class="search-query" placeholder="Search" name="q" id="tipue_search_input" required>
+                </form></span>
+              </li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+<!-- Banner -->
+<!-- End Banner -->
+<div class="container">
+    <div class="row">
+        <div class="col-sm-9">
+    <section id="content" class="body">
+        <h1 class="entry-title">Platform Setup Instructions</h1>
+        
+        <div class="entry-content">
+            <h1>Remote CoDaS Platform Setup</h1>
+<p>First, login to the <a href="https://ml-front.nautilus.optiputer.net">platform</a> using Globus with your CERN or university credntials.</p>
+<ol>
+<li>Using the bar at the top of the screen select Services -&gt; “Private JupyterLab”<br>
+<img alt="" src="../images/setup_1.png"></li>
+</ol>
+<p>Then select "New Personal Lab"<br>
+<img alt="" src="../images/setup_2.png"></p>
+<ol>
+<li>Fill out the form with appropriate settings to configure your lab  </li>
+<li><strong>Name:</strong> this needs to be unique for each instance so use something with e.g. your actual name  </li>
+<li><strong>Password:</strong> set your own password  </li>
+<li><strong>Time to live:</strong> 5 days is fine  </li>
+<li><strong>GPUs:</strong> 1 is fine  </li>
+<li><strong>CPUs:</strong> 2  </li>
+<li><strong>Memory:</strong> leave at 8  </li>
+<li><strong>Check out your github repo:</strong> https://github.com/Atcold/pytorch-Deep-Learning-Minicourse.git  </li>
+<li><strong>Select preferred image:</strong> this must be set to the <strong>conda</strong> image  </li>
+</ol>
+<p><img alt="" src="..//images/setup_3.png"></p>
+<p>Click start. It will likely take a few minutes to setup; when it is running it will appear in your list of labs</p>
+<p><img alt="" src="..//images/setup_4.png"></p>
+<ol>
+<li>Launch the lab by clicking on the link and entering your password from the setup step. You know have a CoDaS-HEP environment when many useful packages already installed. You can add additional packages to this environment or create an entirely new one if desired.</li>
+</ol>
+        </div>
+    </section>
+        </div>
+        <div class="col-sm-3" id="sidebar">
+            <aside>
+
+<section class="well well-sm">
+    <ul class="list-group list-group-flush">
+
+
+
+
+
+    <li class="list-group-item"><h4><i class="fa fa-external-link-square fa-lg"></i><span class="icon-label">Links</span></h4>
+      <ul class="list-group" id="links">
+        <li class="list-group-item">
+            <a href="/pages/platform-2019.html" target="_blank">
+                Setup Remote Resource
+            </a>
+        </li>
+        <li class="list-group-item">
+            <a href="/pages/travel-princeton.html" target="_blank">
+                Travel to Princeton and Local Information
+            </a>
+        </li>
+        <li class="list-group-item">
+            <a href="https://indico.cern.ch/event/814979/timetable" target="_blank">
+                School Program 2019
+            </a>
+        </li>
+        <li class="list-group-item">
+            <a href="/pages/participants-2019.html" target="_blank">
+                Participants 2019
+            </a>
+        </li>
+        <li class="list-group-item">
+            <a href="https://indico.cern.ch/event/707498/timetable/" target="_blank">
+                School Program 2018
+            </a>
+        </li>
+        <li class="list-group-item">
+            <a href="/pages/participants-2018.html" target="_blank">
+                Participants 2018
+            </a>
+        </li>
+        <li class="list-group-item">
+            <a href="https://indico.cern.ch/event/625333/timetable/" target="_blank">
+                School Program 2017
+            </a>
+        </li>
+        <li class="list-group-item">
+            <a href="/pages/participants-2017.html" target="_blank">
+                Participants 2017
+            </a>
+        </li>
+      </ul>
+    </li>
+    </ul>
+</section>            </aside>
+        </div>
+    </div>
+</div>
+<footer>
+   <div class="container">
+      <hr>
+      <div class="row">
+<div class="col-xs-10">
+This project is supported by National Science Foundation grants <a href="http://first-hep.org/">OAC-1829707</a>, <a href="http://first-hep.org/">OAC-1829729</a>, <a href="http://iris-hep.org/">OAC-1836650</a> and <a href="http://diana-hep.org/">OAC-1450377</a>, the <a href="https://researchcomputing.princeton.edu/about/about-picscie">Princeton Institute for Computational Science and Engineering (PICSciE)</a>, the <a href="https://phy.princeton.edu/">Princeton Physics Department</a>, the <a href="https://research.princeton.edu/dean/">Office of the Dean for Research</a> of Princeton University and the <a href="https://efi.uchicago.edu/">Enrico Fermi Institute</a> at the University of Chicago. Any opinions, findings, conclusions or recommendations expressed in this material are those of the developers and do not necessarily reflect the views of the National Science Foundation.
+         </div>
+         <div class="col-xs-2">
+           <img src="/images/nsf1.jpg" height="55" width="55">
+         </div>
+         <br>
+         <div class="col-xs-10">&copy; 2019 CoDaS-HEP
+            &middot; Powered by <a href="https://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
+            <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
+            <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>                <p><small>  <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.en"><img alt="Creative Commons License" style="border-width:0" src="//i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    Content
+  licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.en">Creative Commons Attribution 4.0 International License</a>, except where indicated otherwise.
+</small></p>
+         </div>
+         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
+      </div>
+   </div>
+</footer>
+<script src="/theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="/theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="/theme/js/respond.min.js"></script>
+
+    <script src="/theme/js/bodypadding.js"></script>
+
+</body>
+</html>
