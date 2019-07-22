@@ -1,4 +1,9 @@
-Title: Platform Setup Instructions date: 2019-07-22 13:10 slug: platform-2019.html Authors: Savannah Thais Summary: Instructions for setting up the remote CoDaS platform with conda image Template: page
+Title: Platform Setup Instructions
+date: 2019-07-22 13:10
+slug: platform-2019.html 
+Authors: Savannah Thais 
+Summary: Instructions for setting up the remote CoDaS platform with conda image
+Template: page
 
 # Remote CoDaS Platform Setup
 
