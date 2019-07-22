@@ -11,14 +11,14 @@ Then select "New Personal Lab"
 ![alt text]({filename}/images/setup_2.png)
 
 2. Fill out the form with appropriate settings to configure your lab  
-..* **Name:** this needs to be unique for each instance so use something with e.g. your actual name  
-..* **Password:** set your own password  
-..* **Time to live:** 5 days is fine  
-..* **GPUs:** 1 is fine  
-..* **CPUs:** 2  
-..* **Memory:** leave at 8  
-..* **Check out your github repo:** https://github.com/Atcold/pytorch-Deep-Learning-Minicourse.git  
-..* **Select preferred image:** this must be set to the **conda** image  
+  * **Name:** this needs to be unique for each instance so use something with e.g. your actual name  
+  * **Password:** set your own password  
+  * **Time to live:** 5 days is fine  
+  * **GPUs:** 1 is fine  
+  * **CPUs:** 2  
+  * **Memory:** leave at 8  
+  * **Check out your github repo:** https://github.com/Atcold/pytorch-Deep-Learning-Minicourse.git  
+  * **Select preferred image:** this must be set to the **conda** image  
 
 ![alt text]({filename}/images/setup_3.png)
 
