@@ -5,7 +5,7 @@ Title: Platform Setup Instructions date: 2019-07-22 13:10 slug: platform-2019.ht
 First, login to the [platform](https://ml-front.nautilus.optiputer.net) using Globus with your CERN or university credntials.
 
 1. Using the bar at the top of the screen select Services -> “Private JupyterLab”  
-![](/images/setup_1.png)
+![](../images/setup_1.png)
 
 Then select "New Personal Lab"  
 ![](../images/setup_2.png)
