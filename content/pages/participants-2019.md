@@ -49,7 +49,6 @@ Template: page
   * Aleena Rafique - Argonne National Laboratory
   * Michael (Tres) G Reid - Cornell University
   * Cesar Gonzalez Renteria - UC Berkeley, LBNL
-  * Guy Rosin - University of Massachusetts Amherst
   * Titas Roy - University of Illinois at Chicago
   * Claire Savard - University of Colorado, Boulder
   * Matthew Snyder - Brookhaven National Lab
