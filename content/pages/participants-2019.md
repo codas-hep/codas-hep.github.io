@@ -5,6 +5,9 @@ Authors: Peter Elmer
 Summary: Participants in CoDaS-HEP 2019 school
 Template: page
 
+### Group Photo (click to enlarge)
+
+[![Group photo thumbnail](/downloads/codas-hep-2019-group-photo-thumbnail.jpg)](/downloads/codas-hep-2019-group-photo.jpg)
 
 ### Participant List
 
