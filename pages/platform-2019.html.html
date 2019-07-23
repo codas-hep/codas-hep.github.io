@@ -90,29 +90,33 @@ CoDaS-HEP            </a>
         <div class="entry-content">
             <h1>Remote CoDaS Platform Setup</h1>
 <p>First, login to the <a href="https://ml-front.nautilus.optiputer.net">platform</a> using Globus with your CERN or university credntials.</p>
-<ol>
-<li>Using the bar at the top of the screen select Services -&gt; “Private JupyterLab”<br>
-<img alt="" src="../images/setup_1.png"></li>
-</ol>
+<p>Using the bar at the top of the screen select Services -&gt; “Private JupyterLab”<br>
+<img alt="" src="../images/setup_1.png"></p>
 <p>Then select "New Personal Lab"<br>
 <img alt="" src="../images/setup_2.png"></p>
-<ol>
-<li>Fill out the form with appropriate settings to configure your lab  </li>
+<p>Fill out the form with appropriate settings to configure your lab</p>
+<ul>
 <li><strong>Name:</strong> this needs to be unique for each instance so use something with e.g. your actual name  </li>
 <li><strong>Password:</strong> set your own password  </li>
 <li><strong>Time to live:</strong> 5 days is fine  </li>
 <li><strong>GPUs:</strong> 1 is fine  </li>
 <li><strong>CPUs:</strong> 2  </li>
 <li><strong>Memory:</strong> leave at 8  </li>
-<li><strong>Check out your github repo:</strong> https://github.com/Atcold/pytorch-Deep-Learning-Minicourse.git  </li>
+<li><strong>Check out your github repo:</strong> Either <a href="https://github.com/Atcold/pytorch-Deep-Learning-Minicourse"><code>https://github.com/Atcold/pytorch-Deep-Learning-Minicourse.git</code></a> or <a href="https://github.com/jpivarski/2019-07-23-codas-hep"><code>https://github.com/jpivarski/2019-07-23-codas-hep.git</code></a>. You can get the other one with a <code>git clone</code> later.</li>
 <li><strong>Select preferred image:</strong> this must be set to the <strong>conda</strong> image  </li>
-</ol>
+</ul>
 <p><img alt="" src="..//images/setup_3.png"></p>
 <p>Click start. It will likely take a few minutes to setup; when it is running it will appear in your list of labs</p>
 <p><img alt="" src="..//images/setup_4.png"></p>
+<p>Launch the lab by clicking on the link and entering your password from the setup step. You know have a CoDaS-HEP environment when many useful packages already installed. You can add additional packages to this environment or create an entirely new one if desired.</p>
+<p>The repositories have recommended environments in files. To add these:</p>
 <ol>
-<li>Launch the lab by clicking on the link and entering your password from the setup step. You know have a CoDaS-HEP environment when many useful packages already installed. You can add additional packages to this environment or create an entirely new one if desired.</li>
+<li>Download the repository</li>
+<li>Open a terminal in jupyterlab</li>
+<li>Change to the directory you just downloaded</li>
+<li>Run <code>conda env create -f environment.yml</code></li>
 </ol>
+<p>Now you should have a kernel choice with the correct repository.</p>
         </div>
     </section>
         </div>
