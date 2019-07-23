@@ -32,7 +32,7 @@ Click start. It will likely take a few minutes to setup; when it is running it w
 
 ![](..//images/setup_4.png)
 
-Launch the lab by clicking on the link and entering your password from the setup step. You know have a CoDaS-HEP environment when many useful packages already installed. You can add additional packages to this environment or create an entirely new one if desired.
+Launch the lab by clicking on the link and entering your password from the setup step. You now have a CoDaS-HEP environment with many useful packages already installed. You can add additional packages to this environment or create an entirely new one if desired.
 
 The repositories have recommended environments in files. To add these:
 
