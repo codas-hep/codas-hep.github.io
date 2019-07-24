@@ -32,6 +32,7 @@ LINKS =  (
            ('Participants 2018','/pages/participants-2018.html'),
            ('School Program 2017','https://indico.cern.ch/event/625333/timetable/'),
            ('Participants 2017','/pages/participants-2017.html'),
+           ('Code of Conduct','https://iris-hep.org/about/code-of-conduct'),
 	  )
 
 
