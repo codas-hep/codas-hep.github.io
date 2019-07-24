@@ -82,6 +82,16 @@ office is open from 8:00am through 4:30pm, Monday through Friday.
 There are a number of restaurants, coffeeshops, bars and stores along Nassau
 St. or along the streets on the other side of Nassau St. from campus.
 
+### Sites of Interest in Princeton
+
+Two sites of interest for physicists in Princeton are:
+
+  * [Albert Einstein's house](https://en.wikipedia.org/wiki/Albert_Einstein_House) - 112 Mercer St., where he lived from the mid-1930's through his death in 1955
+
+  * Albert Einstein Monument (bronze bust) - near the [Princeton Battle Monument](https://en.wikipedia.org/wiki/Princeton_Battle_Monument) at 55 Stockton St.
+
+Additional things of touristic or historical interest can be found in the "Points of Interest" section on the [Princeton, NJ, Wikipedia page](https://en.wikipedia.org/wiki/Princeton,_New_Jersey).
+
 ### General information
 
   * Campus Map: [pdf format](http://www.princeton.edu/main/visiting/aroundcampus/maps/princeton_map.pdf)
