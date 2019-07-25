@@ -7,7 +7,7 @@ Template: page
 
 # Remote CoDaS Platform Setup
 
-First, login to the [platform](https://ml-front.nautilus.optiputer.net) using Globus with your CERN or university credntials.
+First, [login to the platform (click here)][platform] using Globus with your CERN or university credntials.
 
 Using the bar at the top of the screen select Services -> “Private JupyterLab”  
 ![](../images/setup_1.png)
@@ -28,7 +28,7 @@ Fill out the form with appropriate settings to configure your lab
 
 ![](..//images/setup_3.png)
 
-Click start. It will likely take a few minutes to setup; when it is running it will appear in your list of labs
+Click start. It will likely take a few minutes to setup; when it is running it will appear in your list of labs. It it does not show up after 10 minutes, delete the instance and try again.
 
 ![](..//images/setup_4.png)
 
@@ -38,7 +38,16 @@ The repositories have recommended environments in files. To add these:
 
 1. Download the repository
 2. Open a terminal in jupyterlab
-3. Change to the directory you just downloaded
+3. Change to the directory you just downloaded; it will be in `/workspace`.
 4. Run `conda env create -f environment.yml`
 
 Now you should have a kernel choice with the correct repository.
+
+If you need to download a new github repository:
+
+```bash
+cd /workspace
+git clone <repo>
+```
+
+[platform]: https://ml-front.nautilus.optiputer.net
