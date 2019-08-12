@@ -9,6 +9,10 @@ Template: page
 
 [![Group photo thumbnail](/downloads/codas-hep-2019-group-photo-thumbnail.jpg)](/downloads/codas-hep-2019-group-photo.jpg)
 
+### Participant "introduction" slides:
+
+[slide deck (click for pdf, one slide per participant)](/downloads/CoDaS-HEP-2019-introduction-slides.pdf)
+
 ### Participant List
 
   * Shekhar Adhikari - University of Kansas
