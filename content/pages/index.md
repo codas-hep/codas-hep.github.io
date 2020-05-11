@@ -5,7 +5,7 @@ Authors: Peter Elmer
 Summary: Computational and Data Science Training for High Energy Physics
 Template: homepage
 
-#### The fourth school on tools, techniques and methods for Computational and Data Science for High Energy Physics (CoDaS-HEP) will take place on 27-31 July, 2020, at Princeton University.
+#### The fourth school on tools, techniques and methods for Computational and Data Science for High Energy Physics (CoDaS-HEP) was originally planned to take place on 27-31 July, 2020, at Princeton University. However due to COVID-19 restrictions we unfortunately cannot organize the in-person as planned. We are exploring whether a virtual event can be organized in its place.
 
 Advanced software is a critical ingredient to scientific research. Training young researchers in the latest tools and techniques is an essential part of developing the skills required for a successful career both in research and in industry.
 
@@ -22,6 +22,6 @@ The school offers a limited number of young researchers an opportunity to learn 
 
 The CoDaS-HEP 2020 will take place at the [Princeton Center for Theoretical Science (PCTS)](http://pcts.princeton.edu/pcts/index.html) in [Jadwin Hall](https://goo.gl/maps/x1tAczDvWFB2) on the Princeton University campus.
 
-** Please watch for announcements regarding applications for the 4th edition of the school **
+** Please watch for announcements regarding applications for a possible (virtual) 4th edition of the school **
 
 Questions can be sent to [codas-hep@googlegroups.com](codas-hep@googlegroups.com).
