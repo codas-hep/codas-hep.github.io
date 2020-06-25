@@ -12,7 +12,7 @@ install:
 - git clone --recursive https://github.com/getpelican/pelican-plugins
 - pwd
 - ls
-- wget http://www.tipue.com/search/tipuesearch.zip
+#- wget --no-check-certificate http://www.tipue.com/search/tipuesearch.zip
 - unzip tipuesearch.zip
 - cp -r Tipue\ Search\ 7.1/tipuesearch pelican-themes/static/
 notifications:
