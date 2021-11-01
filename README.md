@@ -1,5 +1,4 @@
-# ipcc-root.github.io-source
-pelican source for CoDaS-HEP school website 
+# Pelican source for CoDaS-HEP school website 
 
 ![](https://travis-ci.org/codas-hep/codas-hep.github.io-source.svg?branch=master)
 
