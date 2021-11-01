@@ -18,7 +18,7 @@
 
 #tipue_search_input
 {
-     font: 13px/1.6 'open sans', sans-serif;
+    font: 13px/1.6 'open sans', sans-serif;
     color: #333;
     padding: 5px 7px 5px 40px;
     width: 170px;
@@ -29,8 +29,9 @@
      box-shadow: none;
     outline: 0;
     margin: 15 15 15 15;
-/*    background: #fff url('img/search.png') no-repeat 15px 15px;*/
-background-position: 15px 10px;
+    /*    background: #fff url('img/search.png') no-repeat 15px 15px;*/
+    background-position: 15px 10px;
+    height: 30px;
 }
 
 #tipue_search_content
