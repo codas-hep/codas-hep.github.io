@@ -1,0 +1,36 @@
+name: Deploy
+
+on:
+  workflow_dispatch:
+  push:
+    branches: master
+
+concurrency:
+  group: gha-deploy
+  cancel-in-progress: true
+
+jobs:
+  website:
+    runs-on: ubuntu-latest
+    steps:
+
+    - uses: actions/checkout@v2
+      with:
+        submodules: recursive
+
+    - name: Build the site
+      run: pipx run nox -s build
+
+    - name: Deploy
+      if: >
+        success()
+        && github.ref == 'refs/heads/master'
+        && github.repository == 'codas-hep/codas-hep.github.io-source'
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+        external_repository: codas-hep/codas-hep.github.io
+        publish_branch: master
+        publish_dir: output
+        cname: codas-hep.org
+        # force_orphan: true
