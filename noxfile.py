@@ -3,10 +3,10 @@ import shutil
 import zipfile
 
 
-nox.options.sessions = ["docs"]
+nox.options.sessions = ["build"]
 
 @nox.session
-def docs(session: nox.Session) -> None:
+def build(session: nox.Session) -> None:
     """
     Build the docs. Pass "serve" to serve.
     """
