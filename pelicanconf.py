@@ -4,7 +4,8 @@ from __future__ import unicode_literals
 
 AUTHOR = 'CoDaS-HEP'
 SITENAME = 'CoDaS-HEP'
-SITEURL = ''
+SITEURL = 'https://codas-hep.org'
+OUTPUT_PATH = 'output/'
 
 TIMEZONE = 'Europe/Paris'
 
@@ -84,7 +85,7 @@ STATIC_PATHS = ['images','css', 'downloads',
 
 # Tell Pelican to change the path to 'static/custom.css' in the output dir
 EXTRA_PATH_METADATA = {
-    'css/custom.css': {'path': 'static/custom.css'}
+    'css/custom.css': {'path': 'static/custom.css'},
 }
 
 CODE_DIR = 'downloads/code'

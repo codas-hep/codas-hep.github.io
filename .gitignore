@@ -3,10 +3,11 @@
 *.pyc
 *.swp
 output/
-pelican-plugins/
 pelican-bootstrap3
 cache/PagesGenerator-Readers
 
 cache/ArticlesGenerator-Readers
 
 cache/PagesGenerator-Readers
+
+Tipue Search 7.1/
