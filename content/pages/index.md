@@ -5,7 +5,7 @@ Authors: Peter Elmer
 Summary: Computational and Data Science Training for High Energy Physics
 Template: homepage
 
-#### The fourth school on tools, techniques and methods for Computational and Data Science for High Energy Physics (CoDaS-HEP) is tentatively planned to take place on 1-5 August, 2022, at Princeton University. More information on the school and how to apply will be forthcoming in early 2022.
+#### The fourth school on tools, techniques and methods for Computational and Data Science for High Energy Physics (CoDaS-HEP) will take place on 1-5 August, 2022, at Princeton University. More information on the school and how to apply will be forthcoming by early April, 2022.
 
 Advanced software is a critical ingredient to scientific research. Training young researchers in the latest tools and techniques is an essential part of developing the skills required for a successful career both in research and in industry.
 
