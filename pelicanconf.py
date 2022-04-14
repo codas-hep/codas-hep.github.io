@@ -27,6 +27,7 @@ MENUITEMS = (
 LINKS =  ( 
            ('Setup Remote Resource','/pages/platform-2019.html'),
            ('Travel to Princeton and Local Information','/pages/travel-princeton.html'),
+           ('School Program 2022','https://indico.cern.ch/event/1151367/'),
            ('School Program 2019','https://indico.cern.ch/event/814979/timetable'),
            ('Participants 2019','/pages/participants-2019.html'),
            ('School Program 2018','https://indico.cern.ch/event/707498/timetable/'),
