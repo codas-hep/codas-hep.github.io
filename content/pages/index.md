@@ -20,6 +20,4 @@ The program includes both lectures and practical hands-on exercises.
 
 The school offers a limited number of young researchers an opportunity to learn these skills from experienced scientists and instructors. Successful applicants will receive lodging and some level of travel support to attend the school. Both Ph.D. students and postdoctoral researchers are encouraged to apply. Financial support for participants will be limited to those associated to U.S. academic institutions.
 
-** Please watch for announcements regarding applications for 4th edition of the school to take place in summer, 2022**
-
 Questions can be sent to [codas-hep@googlegroups.com](codas-hep@googlegroups.com).
