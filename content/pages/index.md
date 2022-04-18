@@ -22,6 +22,6 @@ The school offers a limited number of young researchers an opportunity to learn 
 
 The CoDaS-HEP 2022 school will take place at the [Princeton Center for Theoretical Science (PCTS)](https://pcts.princeton.edu/about) in Jadwin Hall on the Princeton University campus.
 
-**18 Apr 2022: Applications for the CoDaS-HEP 2019 school are now being accepted. Please use this Google Form to apply. The deadline for application is 6 May, 2019. Applicants will be notified regarding acceptance and available travel support by 15 May.**
+**18 Apr 2022: Applications for the CoDaS-HEP 2022 school are now being accepted. Please use this Google Form to apply. The deadline for application is 6 May, 2022. Applicants will be notified regarding acceptance and available travel support by 15 May.**
 
 Questions can be sent to [codas-hep@googlegroups.com](codas-hep@googlegroups.com).
