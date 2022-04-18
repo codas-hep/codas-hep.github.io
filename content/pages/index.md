@@ -14,7 +14,7 @@ The CoDaS-HEP school aims to provide a broad introduction to these critical skil
   * Parallel Programming 
   * Data Science Tools and Techniques
   * Machine Learning - Technology and Methods
-  * Practical skills: performance evaluation, use of git for version control
+  * Practical skills: performance evaluation, collaborative use of git/github
 
 The program includes both lectures and practical hands-on exercises.
 
