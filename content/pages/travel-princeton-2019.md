@@ -1,6 +1,6 @@
-Title: Travel to Princeton (2022 Version)
+Title: Travel to Princeton (2019 Version)
 date: 2017-05-16 07:51
-slug: travel-princeton.html
+slug: travel-princeton-2019.html
 Authors: Peter Elmer
 Summary: Travel to Princeton and Local Princeton Information
 Template: page
@@ -28,7 +28,7 @@ If you are coming on Amtrak, most trains do not stop at Princeton Junction (with
 
 The closest and most convenient airport to come to Princeton is Newark Liberty International (EWR). Most participants will find that the best solution for domestic flights within the US. This is the recommended airport unless the cost is significantly higher than other alternatives. From there it is convenient to take the train as described above. 
 
-Another option is flying into John F. Kennedy International Airport (JFK) or LaGuardia International Airport (LGA) at the cost of additional travel time. From JFK, the easiest is probably to the Airtrain to Jamaica Station and then take the [Long Island Rail Road (LIRR)](https://new.mta.info/agency/long-island-rail-road) or to New York Penn Station. Alternatively there is the [subway](http://www.nysubway.com/airport/jfk.html) or a bus ([NYC Airporter](https://www.nycairporter.com) with service from JFK to NYC Penn Station. From NYC Penn Station, you can take the train to Princeton as described above.
+Another option is flying into John F. Kennedy International Airport (JFK) or LaGuardia International Airport (LGA) at the cost of additional travel time. From JFK, the easiest is probably to the Airtrain to Jamaica Station and then take the [Long Island Rail Road (LIRR)](https://www.google.nl/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjp7enVi8LUAhVJbVAKHQzpBukQFggmMAA&url=http%3A%2F%2Fwww.mta.info%2Flirr&usg=AFQjCNFkOvv1hHfiREn_00NkjelXSbfiYQ) or to New York Penn Station. Alternatively there is the [subway](http://www.nysubway.com/airport/jfk.html) or a bus ([NYC Airporter](https://www.nycairporter.com) with service from JFK to NYC Penn Station. From NYC Penn Station, you can take the train to Princeton as described above.
 
 From [a small number of locations](http://www.mercercounty.org/departments/transportation-and-infrastructure/trenton-mercer-airport/airlines) it may also be possible to fly to [Trenton-Mercer Airport](http://www.mercercounty.org/departments/transportation-and-infrastructure/trenton-mercer-airport). Getting from there to the Princeton campus is more complicated and involves buses and/or going to the train station in Trenton and taking New Jersey Transit trains, as above.
 
@@ -36,20 +36,13 @@ In general long distance taxis will be costly and should be avoided. Uber and Ly
 
 ## Local Princeton Information
 
-### Accommodation - Whitman College on the Princeton campus
+### Accommodation - Scully and Wilf Hall
 
-Participants will reside in dorm rooms provided in [Whitman College](https://whitmancollege.princeton.edu) on the Princeton campus.
-They are a 10 minute walk from the [Princeton (Dinky) train station](https://www.njtransit.com/dinky) and a 5 minute walk from Jadwin Hall, where the school lectures will take place. 
-
-**Information coming soon on key pickup for the dorm rooms, etc.**
-
-<!--
-Keys are available for pick up at our office of Public Safety, 200 Elm Drive, open 24 hours, seven days a week. Participants will receive a hotel style key in a packet with the room number at Public Safety. To enter the building, hold the key up to the black box on the building. To enter the room, hold the key in front of the key pad on your room door.
+Participants will reside in either [Scully Hall](https://hres.princeton.edu/undergraduates/explore/upperclass-dormitories/scully-hall) or [Wilf Hall](https://hres.princeton.edu/undergraduates/explore/upperclass-dormitories/wilf-hall), two air conditioned dormitory on the Princeton University campus. They are a 10 minute walk from the [Princeton (Dinky) train station](https://www.njtransit.com/rg/rg_servlet.srv?hdnPageAction=TrainStationLookupFrom&selStation=124) and a 5 minute walk from Jadwin Hall, where the school lectures will take place. Keys are available for pick up at our office of Public Safety, 200 Elm Drive, open 24 hours, seven days a week. Participants will receive a hotel style key in a packet with the room number at Public Safety. To enter the building, hold the key up to the black box on the building. To enter the room, hold the key in front of the key pad on your room door.
 
 A linen packet is provided in the room and includes sheets, towels, a pillow and blanket. Bedrooms are private, though bathrooms are shared with one other person. Guests should plan to bring toiletries. There are free laundry machines available in the building. For extra linens, blankets, etc. or other questions or issues regarding the dorms, please feel free to reach out Monday - Friday, 8:30 - 4:30 to Michelle Horgan at 71 University Place, Princeton, NJ 08544-2088, (609) 258-6116, [horgan@princeton.edu](horgan@princeton.edu). Outside of those hours, Public Safety can help with lockouts, emergencies or other immediate issues. Information on how to set the temperature in the dorm room can be found in [this document](/downloads/T-stats-in-dorms-9-2017.docx).
 
 Participants can park temporarily in West Garage (if on a weekend) to walk to Public Safety, 200 Elm Drive, and pick up their keys. (The side of the garage closest to Lot 20 will be closed on the weekend before the school for construction, but entry is available on the Lewis Arts Complex side to that garage.) See below for parking notes during the school itself.
--->
 
 ### Important Phone Numbers / Public Safety
 
@@ -64,11 +57,7 @@ Non-emergencies:
 
 ### Parking on campus
 
-<!--
 Parking is available on the Princeton campus. As noted above, participants can park temporarily in West Garage (if on a weekend) to walk to Public Safety and pick up their keys. After moving in, we would ask that participants move cars to their assigned lot, the Lakeside Garage. [Lot 21](https://goo.gl/maps/acEt4zZLBKk7jkLs5) is free and available for those just driving in for the day.
-<!--
-
-Attendees will be allowed to park in Lot 20 (and overflow to Lot 19). **More information coming soon on registering vehicles for parking permits.**
 
 In general a car is not needed within Princeton itself, since all of the venues for the school (dorm, lecture venue, receptions, etc.) and relevant local businesses (see below) are within walking distance of one another once one has arrived on campus.
 
