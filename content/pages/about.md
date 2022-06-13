@@ -53,6 +53,15 @@ activities.
 
   * [GitHub (CoDaS-HEP platform portal software)](https://github.com/ssl-hep/mlfront)
 
+### Local Organizing Committee
+
+  * [Peter Elmer](https://phy.princeton.edu/people/g-j-peter-elmer) - Princeton University, Department of Physics
+  * [Maureen Carothers](https://researchcomputing.princeton.edu/about/people-directory/maureen-carothers) - Princeton Research Computing
+  * [Kimberly Dawidowski](https://phy.princeton.edu/people/kimberly-dawidowski) - Princeton University, Department of Physics
+  * [Ma. Florevel (Floe) Fusin-Wischusen](https://researchcomputing.princeton.edu/about/people-directory/ma-florevel-floe-fusin-wischusen) - Princeton Research Computing
+  * [Andrea Rubinstein](https://researchcomputing.princeton.edu/about/people-directory/andrea-rubinstein) - Princeton Research Computing
+
+<!--
 ### Scientific Advisory Committee
 
   * [Peter Elmer](http://www.princeton.edu/physics/people/display_person.xml?netid=gelmer&display=Research%20Staff) (Chair) - Princeton University, Department of Physics
@@ -68,6 +77,6 @@ activities.
   * [Avi Yagil](http://physics.ucsd.edu/fac_staff/fac_profile/faculty_description.php?person_id=688) - University of California, San Diego, Department of Physics
 
   * [Peter Wittich](http://physics.cornell.edu/peter-wittich) - Cornell University, Department of Physics
-
+-->
 
 
