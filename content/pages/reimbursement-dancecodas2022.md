@@ -9,16 +9,17 @@ Template: page
 
   Reimbursement will be provided for travel expenses for some school participants, up to a specified limit, upon presentation of valid receipts. The following guidelines apply: 
 
-  * Participants should in general plan on traveling to Princeton on Sunday, 31 July, 2022, and traveling home on Friday, 5 August, 2022.
+  * Participants should in general plan on traveling to Seattle on Sunday, 17 July, 2022, and traveling home on Monday, 25 July, 2022. 
+  * Arriving early or staying late (i.e. extra days) is possible, although the additional nights in the dorms will have to be covered by your research group. We will in any case book dorms on behalf of everyone for their entire expected stay and provide a means of paying us for the extra nights.
   * Participants should pay for their travel themselves and will be reimbursed up to the specified limits after the school has finished.
   * The reimbursement can be done by check or bank transfer, typically within 5-10 business days from submission and approval of the required documentation.
   * Only the participant can be directly reimbursed (not the participant's research group).
   * Reimbursed travel should use the least expensive options possible, which reasonably meet normal travel time constraints.
   * Reimbursed travel should be booked in regular, economy fares. No business class or paid economy class upgrades can be reimbursed. In cases where airlines offer "economy basic" or similar discounted fares, with limitations on carry-on baggage or similar, it is fine to choose the "regular" economy fare permitting baggage.
   * For participants flying from outside the U.S., air flights can only be reimbursed if the carrier is allowed by the Fly America Act and U.S. Open Skies agreements and normally reimbursable with U.S. government (NSF) sponsored research funds.
-  * For long distance ground travel, mass transportation (train, bus) is preferred to long distance taxi. If necessary, a taxi (uber, lyft) can be used from Princeton Junction to Princeton for late arrivals in place of the Dinky (train station on campus).
+  * For long distance ground travel, mass transportation (train, bus) is preferred to long distance taxi. If necessary, a taxi (uber, lyft) can be used if no other reasonably convenient possibility is available (e.g. late arrival at night).
   * Car rentals will not be reimbursed unless specifically authorized by the school lead organizer (Peter Elmer)
-  * Coffee breaks and lunches will be provided at no cost to you from Tuesday to Saturday, Additional meals costs will not be reimbursed.
+  * Coffee breaks and lunches will be provided at no cost to you from Tuesday to Saturday during the actualy training. Additional meals costs will not be reimbursed.
   * Participants coming from locations within reasonable driving distance of the University of Washington may choose to drive their personal automobile. Reimbursement will be provided based on mileage using the University rates. An itinerary map (e.g. from Google Maps) should be provided in lieu of a receipt.
   * Receipts should be provided in electronic form (scanned or clear photos), and grouped together into a **single pdf file**. 
   * The form(s) for reimbursement are linked below. This should in general be filled out by one week after the end of the school week itself (i.e. Sunday, 31 July, 2022) and submitted along with the electronic copy of the receipts described above.
