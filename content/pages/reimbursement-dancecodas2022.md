@@ -9,7 +9,7 @@ Template: page
 
   Reimbursement will be provided for travel expenses for some school participants, up to a specified limit, upon presentation of valid receipts. The following guidelines apply: 
 
-  * Participants should in general plan on traveling to Seattle on Sunday, 17 July, 2022, and traveling home on Monday, 25 July, 2022. 
+  * Participants should in general plan on traveling to Seattle for the minimum dorm stay: arriving on Sunday, 17 July, 2022, and traveling home on Monday, 25 July, 2022. 
   * Arriving early or staying late (i.e. extra days) is possible, although the additional nights in the dorms will have to be covered by your research group. We will in any case book dorms on behalf of everyone for their entire expected stay and provide a means of paying us for the extra nights.
   * Participants should pay for their travel themselves and will be reimbursed up to the specified limits after the school has finished.
   * The reimbursement can be done by check or bank transfer, typically within 5-10 business days from submission and approval of the required documentation.
