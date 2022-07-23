@@ -62,7 +62,7 @@ Please note the following:
     * Supplier Onboarding Form (if relevant)
     * Scans of relevant receipts
   * Please name the file dance-codas-2022-yourfirstname-yourlastname.pdf
-  * Send the single pdf as an attachment in email to [codas-hep@googlegroups.com](codas-hep@googlegroups.com) with an email subject line including your name and the word "reimbursement".
+  * Send the single pdf as an attachment in email to [codas-hep@googlegroups.com](codas-hep@googlegroups.com) with your research group leader on the Cc and with an email subject line including your name and the word "reimbursement".
 
 
 
