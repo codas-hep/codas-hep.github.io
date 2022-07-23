@@ -5,6 +5,16 @@ import zipfile
 
 nox.options.sessions = ["build"]
 
+
+@nox.session
+def update(session: nox.Session) -> None:
+    """
+    Update the lockfile
+    """
+
+    session.install("pip-tools")
+    session.run("pip-compile", "requirements.in")
+
 @nox.session
 def build(session: nox.Session) -> None:
     """
