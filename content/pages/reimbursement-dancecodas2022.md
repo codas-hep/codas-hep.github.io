@@ -65,4 +65,3 @@ Please note the following:
   * Send the single pdf as an attachment in email to [codas-hep@googlegroups.com](codas-hep@googlegroups.com) with your research group leader on the Cc and with an email subject line including your name and the word "reimbursement".
 
 
-
