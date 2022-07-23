@@ -1,5 +1,5 @@
 pelican
-Markdown
+Markdown<3.4
 fabric
 beautifulsoup4
 six
