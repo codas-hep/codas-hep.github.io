@@ -17,7 +17,7 @@ def build(session: nox.Session) -> None:
         zip_obj.extractall()
 
     shutil.copytree("Tipue Search 7.1/tipuesearch", "pelican-themes/static/", dirs_exist_ok=True)
-    session.run("pelican", "content", "-s", "pelicanconf.py", *session.posargs)
+    session.run("pelican", "--fatal=errors", "content", "-s", "pelicanconf.py", *session.posargs)
 
 
 @nox.session
