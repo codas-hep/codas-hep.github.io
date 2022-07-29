@@ -1,5 +1,5 @@
-pelican
-Markdown<3.4
+pelican  # tipue search deprecated in 4.8
+Markdown<3.4  # broken with pelican
 fabric
 beautifulsoup4
 six

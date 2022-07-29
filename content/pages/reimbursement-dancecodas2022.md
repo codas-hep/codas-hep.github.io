@@ -1,6 +1,6 @@
 Title: Reimbursement for Travel to Snowmass in Seattle
 date: 2022-06-13 07:51
-slug: reimbursement-dancecodas2022.html
+slug: reimbursement-dancecodas2022
 Authors: Peter Elmer
 Summary: Reimbursement for Travel Expenses - DANCE/CoDaS@Snowmass 2022
 Template: page

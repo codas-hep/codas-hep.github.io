@@ -1,6 +1,6 @@
 Title: CoDaS-HEP Overview
 date: 2017-03-21 07:51
-slug: about.html
+slug: about
 Authors: Peter Elmer
 Summary: Computational and Data Science for High Energy Physics
 Template: page

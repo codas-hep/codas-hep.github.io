@@ -1,6 +1,6 @@
 Title: Reimbursement for Travel to Princeton
 date: 2017-05-16 07:51
-slug: reimbursement.html
+slug: reimbursement
 Authors: Peter Elmer
 Summary: Reimbursement for Travel Expenses
 Template: page
