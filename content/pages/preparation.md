@@ -81,7 +81,7 @@ unlike on macOS, these come with recent GCC compilers instead of LLVM, so you wi
 
 ## Windows
 
-Windows10 -- setup Linux shell, then follow Linux instructions.
+Windows10 -- setup Linux shell, [install git](https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-git), then follow Linux instructions.
 
 ## Testing ROOT Installation
 
