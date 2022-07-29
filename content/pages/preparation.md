@@ -48,7 +48,7 @@ get from [https://brew.sh/](https://brew.sh/), and see the post ["Setup a new Ma
 If Apple's Xcode Command Line Tools weren't previously installed, then the
 Homebrew installation should have taken care of that for you as well.
 
-**Install a recent version of ROOT.** The offical ROOT binaries are available from [https://root.cern.ch/content/release-61800](https://root.cern.ch/content/release-61800), but they have some issues, such as being compiled against the system Python 2 and with the minimum C++ standard setting (11). If you use Homebrew to install ROOT, you will get a highest C++ standard setting allowed by your macOS version and Python 3 as well.
+**Install a recent version of ROOT.** The official ROOT binaries are available from [https://root.cern.ch/content/release-61800](https://root.cern.ch/content/release-61800), but they have some issues, such as being compiled against the system Python 2 and with the minimum C++ standard setting (11). If you use Homebrew to install ROOT, you will get a highest C++ standard setting allowed by your macOS version and Python 3 as well.
 
 Alternatively, you can [use conda to install ROOT](https://github.com/conda-forge/root-feedstock) if you are on a Linux or macOS install of Conda (Conda on Windows is 64 bit, and ROOT 6 does not support 64 bit binaries on windows).
 
@@ -106,4 +106,7 @@ make t1
 
 This should print out about 30 lines of numbers.
 
+## Setup instructions for the ML tutorial
 
+The machine learning tutorial will use Google Collab.
+Detailed setup instructions can be found [here](https://github.com/savvy379/codashep_ml_2022/#readme).
