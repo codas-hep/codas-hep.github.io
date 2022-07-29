@@ -15,9 +15,17 @@ installed in advance. This page describes how to install the appropriate
 software versions, as well as how to perform simple tests to verify that a
 laptop installation works correctly.
 
-## GitHub account
+## Git & Github
 
-All participants should have a GitHub account.
+* All participants should have a GitHub account. It's free.
+* Please create a SSH key pair and add it to your GitHub account. This is required
+  in order to push local changes to a GitHub repository.
+  For this, please follow the [instructions from GitHub](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/about-ssh)
+  (note that you can select your operating system on the top).
+* While we try to repeat the basics, some familiarity with git is recommended.
+  A good starting point (aimed at complete beginners) is for example [this tutorial](https://swcarpentry.github.io/git-novice/).
+* If you have learned about git previously,
+  how about taking a look at [a git cheat sheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf) to refresh your knowledge?
 
 ## Anaconda
 
