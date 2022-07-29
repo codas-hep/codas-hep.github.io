@@ -15,6 +15,18 @@ installed in advance. This page describes how to install the appropriate
 software versions, as well as how to perform simple tests to verify that a
 laptop installation works correctly.
 
+## Git & Github
+
+* All participants should have a GitHub account. It's free.
+* Please create a SSH key pair and add it to your GitHub account. This is required
+  in order to push local changes to a GitHub repository.
+  For this, please follow the [instructions from GitHub](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/about-ssh)
+  (note that you can select your operating system on the top).
+* While we try to repeat the basics, some familiarity with git is recommended.
+  A good starting point (aimed at complete beginners) is for example [this tutorial](https://swcarpentry.github.io/git-novice/).
+* If you have learned about git previously,
+  how about taking a look at [a git cheat sheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf) to refresh your knowledge?
+
 ## Anaconda
 
 The Python and most ROOT portions of the workshop can be run in Conda, which you can obtain here: [miniconda](https://docs.conda.io/en/latest/miniconda.html) or here: [Anaconda](https://www.anaconda.com/distribution/#download-section). We will provided suggested environment files, so miniconda is fine unless you already have Anaconda. You can always write `conda install anaconda` to install the rest of the Anaconda default package collection if you really want to. We will be using the `conda-forge` and `pytorch` channels. The ROOT sections will not work on Conda on Windows.
@@ -69,7 +81,7 @@ unlike on macOS, these come with recent GCC compilers instead of LLVM, so you wi
 
 ## Windows
 
-Windows10 -- setup Linux shell, then follow Linux instructions.
+Windows10 -- setup Linux shell, [install git](https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-git), then follow Linux instructions.
 
 ## Testing ROOT Installation
 
