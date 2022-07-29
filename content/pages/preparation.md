@@ -15,6 +15,10 @@ installed in advance. This page describes how to install the appropriate
 software versions, as well as how to perform simple tests to verify that a
 laptop installation works correctly.
 
+## GitHub account
+
+All participants should have a GitHub account.
+
 ## Anaconda
 
 The Python and most ROOT portions of the workshop can be run in Conda, which you can obtain here: [miniconda](https://docs.conda.io/en/latest/miniconda.html) or here: [Anaconda](https://www.anaconda.com/distribution/#download-section). We will provided suggested environment files, so miniconda is fine unless you already have Anaconda. You can always write `conda install anaconda` to install the rest of the Anaconda default package collection if you really want to. We will be using the `conda-forge` and `pytorch` channels. The ROOT sections will not work on Conda on Windows.
