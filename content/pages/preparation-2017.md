@@ -1,6 +1,6 @@
 Title: Advance preparation for laptops
 date: 2017-07-01 07:51
-slug: preparation-2017.html
+slug: preparation-2017
 Authors: Peter Elmer
 Summary: Advance preparation for laptops
 Template: page

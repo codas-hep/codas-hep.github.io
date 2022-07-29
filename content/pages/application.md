@@ -1,6 +1,6 @@
 Title: CoDaS-HEP School Application
 date: 2017-05-16 07:51
-slug: application.html
+slug: application
 Authors: Peter Elmer
 Summary: Computation and Data Science for High Energy Physics
 Template: page

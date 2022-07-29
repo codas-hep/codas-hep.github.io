@@ -1,6 +1,6 @@
 Title: Travel to Princeton (2019 Version)
 date: 2017-05-16 07:51
-slug: travel-princeton-2019.html
+slug: travel-princeton-2019
 Authors: Peter Elmer
 Summary: Travel to Princeton and Local Princeton Information
 Template: page

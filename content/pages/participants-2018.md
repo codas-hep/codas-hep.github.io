@@ -1,6 +1,6 @@
 Title: Participants in CoDaS-HEP 2018 school
 date: 2018-07-24 07:51
-slug: participants-2018.html
+slug: participants-2018
 Authors: Peter Elmer
 Summary: Participants in CoDaS-HEP 2018 school
 Template: page
