@@ -86,9 +86,9 @@ There are many nearby locations where food is available with the closest being W
 ### Access to Campus Gym Facilities
 
 Access by visitors to [campus gym facilities (Dillon Gym)](https://campusrec.princeton.edu/facilities-operations/facility-use-policies) is possible. Gym passes are
-available for $10 each (at the participant's own expense) at the office
+available for $5 each (at the participant's own expense) at the office
 of the Princeton Conference and Event Services at 71 University Place. The
-office is open from 8:00am through 4:30pm, Monday through Friday.
+office is open from 9:00am through 4:30pm, Monday through Friday.
 
 ### Restaurants, Coffeeshops, Bars and Stores
 
