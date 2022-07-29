@@ -41,7 +41,9 @@ In general long distance taxis will be costly and should be avoided. Uber and Ly
 Participants will reside in dorm rooms provided in [Whitman College](https://whitmancollege.princeton.edu) on the Princeton campus.
 They are a 10 minute walk from the [Princeton (Dinky) train station](https://www.njtransit.com/dinky) and a 5 minute walk from Jadwin Hall, where the school lectures will take place. 
 
-**Information coming soon on key pickup for the dorm rooms, etc.**
+**Dorm check-in and key pickup:** On Sunday, 31 July, you can pick-up your dorm key at Baker Hall between 12:00 and 16:00. If you arrive after 16:00 you will
+need to go to Public Safety to pick up your key. (See the 
+[annotated Campus Map](/downloads/CoDaS-HEP-2022-PUCampusMap.pdf).)
 
 <!--
 Keys are available for pick up at our office of Public Safety, 200 Elm Drive, open 24 hours, seven days a week. Participants will receive a hotel style key in a packet with the room number at Public Safety. To enter the building, hold the key up to the black box on the building. To enter the room, hold the key in front of the key pad on your room door.
@@ -105,7 +107,7 @@ Additional things of touristic or historical interest can be found in the "Point
 
 ### General information
 
-  * Campus Map (with CoDaS-HEP relevant locations indicated): [pdf format](downloads/CoDaS-HEP-2022-PUCampusMap.pdf)
+  * Campus Map (with CoDaS-HEP relevant locations indicated): [pdf format](/downloads/CoDaS-HEP-2022-PUCampusMap.pdf)
   * Campus Map (original): [pdf format](http://www.princeton.edu/main/visiting/aroundcampus/maps/princeton_map.pdf)
   * Princeton mobile phone apps: [iOS App](https://itunes.apple.com/us/app/princeton-mobile/id388821195?mt=8), [Android App](https://play.google.com/store/apps/details?id=edu.princeton.mobile&hl=en)
   * [Princeton Area Airports](https://www.princeton.edu/main/visiting/travel/airports/)
