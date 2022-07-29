@@ -94,4 +94,7 @@ make t1
 
 This should print out about 30 lines of numbers.
 
+## Setup instructions for the ML tutorial
 
+The machine learning tutorial will use Google Collab.
+Detailed setup instructions can be found [here](https://github.com/savvy379/codashep_ml_2022/#readme).
