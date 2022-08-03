@@ -62,9 +62,9 @@ Template: page
 
 ### Lecturer, Collaborators and Guest Seminars List
 
-  * Alfredo Canziani - New York University, Center for Data Science
   * Kilian Lieret - Princeton University
   * Peter Elmer - Princeton University
+  * David Lange - Princeton University
   * Tres Reid - Cornell University
   * Steve Lantz - Cornell University
   * Adrian Alan Pol - Princeton University
@@ -76,5 +76,8 @@ Template: page
   * Oksana Shadura - University of Nebraska - Lincoln
   * Savannah Thais - Princeton University
   * Bei Wang - Princeton University
+  * Pallabi Das - Princeton University
+  * Andrew Loeliger - Princeton University
+  * Alex Held - University of Wisconsin - Madison
 
 
