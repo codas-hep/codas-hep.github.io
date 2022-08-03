@@ -41,7 +41,7 @@ use that to install the requirements. Otherwise, we highly recommend Homebrew;
 get from [https://brew.sh/](https://brew.sh/), and see the post ["Setup a new Mac"](https://iscinumpy.gitlab.io/post/setup-a-new-mac/). To install Homebrew:
 
 ```bash
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
 
