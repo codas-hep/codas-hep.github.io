@@ -21,10 +21,10 @@ Template: page
   * Ben Messerly - University of Minnesota
   * Xuefeng Ding - Princeton University
   * Agustin Romero - Stanford University
-  * Jieun Yoo - UIC
-  * Irina Ene - UC Berkeley / Lawrence Berkeley National Lab
-  * Orgho Neogi - University of iowa
-  * Evan Massaro - MIT, CMS
+  * Jieun Yoo - University of Illinois at Chicago
+  * Irina Ene - University of California, Berkeley / Lawrence Berkeley National Lab
+  * Orgho Neogi - University of Iowa
+  * Evan Massaro - Massachusetts Institute of Technology
   * Guillermo Fidalgo Rodríguez - University of Puerto Rico - Mayagüez
   * Austin Townsend - University of Notre Dame
   * Luis Sanchez - Rice University
@@ -33,7 +33,7 @@ Template: page
   * Jem Guhit - University of Michigan Ann Arbor 
   * Devin Aebi - Texas A&M University
   * Shruti De - State University of New York Albany
-  * Hyunyong Kim - Texas A & M University
+  * Hyunyong Kim - Texas A&M University
   * Brianna Dwyer - Northern Illinois University 
   * Dinupa Nawarathne - New Mexico State University
   * Towsifa Akhter - Texas A&M University
@@ -49,12 +49,12 @@ Template: page
   * Abinash Pun - New Mexico State University 
   * Glenn Richardson - Yale University, Wright Lab
   * Robert Tabb - University of Nebraska - Lincoln
-  * Silas Grossberndt - York College, City University of NY
+  * Silas Grossberndt - York College, City University of New York
   * Zhongtian Dong - University of Kansas
   * Yiheng Ye - University of Chicago
   * Adam A Kobert - Rutgers University
   * Hassane Hamdaoui - Stony Brook University
-  * Stephen Greenberg - UC Berkeley/LBNL
+  * Stephen Greenberg - University of California, Berkeley / Lawrence Berkeley National Lab
   * Suzanne Rosenzweig - University of Florida
   * Ho-Fung Tsoi - University of Wisconsin-Madison
   * Benjamin Gilbert - Columbia University
@@ -68,7 +68,7 @@ Template: page
   * Tres Reid - Cornell University
   * Steve Lantz - Cornell University
   * Adrian Alan Pol - Princeton University
-  * Sudhir Malik - University of Puerto Rico - Mayaguez
+  * Sudhir Malik - University of Puerto Rico - Mayagüez
   * Tim Mattson - Intel
   * Dan Riley - Cornell University
   * Jim Pivarski - Princeton University
