@@ -45,6 +45,16 @@ They are a 10 minute walk from the [Princeton (Dinky) train station](https://www
 need to go to Public Safety to pick up your key. (See the 
 [annotated Campus Map](/downloads/CoDaS-HEP-2022-PUCampusMap.pdf).)
 
+**Dorm check-out and key drop-off:** To check out of the dorms you only need 
+to do two things: (1) vacate the room before 17:00 EDT on Friday and 
+(2) drop-off the key. Three scenarios regarding key drop-off:
+
+  * You are leaving early on Friday morning and not attending the Friday morning school sessions: you will need to leave the key with Public Safety or leave the key with another school participant to drop-off.
+  * You are coming to the school sessions on Friday morning and will bring your luggage with you to Jadwin Hall (we can put things along the wall outside the lecture room): you can bring the key to the check-in desk for the school outside JJadwin 407 and leave it with us.
+  * You are coming to the school sessions on Friday morning, but would like to leave your things in the dorm until after the school sessions end (possible as long as you vacate before 17:00 EDT), you will need to leave the key with Public Safety.
+
+If this isn't clear, please ask!
+
 <!--
 Keys are available for pick up at our office of Public Safety, 200 Elm Drive, open 24 hours, seven days a week. Participants will receive a hotel style key in a packet with the room number at Public Safety. To enter the building, hold the key up to the black box on the building. To enter the room, hold the key in front of the key pad on your room door.
 
