@@ -51,9 +51,9 @@ to learn about it. To install Homebrew:
 If Apple's Xcode Command Line Tools weren't previously installed, then the
 Homebrew installation should have taken care of that for you as well.
 
-**Install a recent C/C++ compiler.** The default Apple system compiler (clang) does not support OpenMP out of the box, which is
-used in some lectures, so please also install the GNU Compiler Collection
-(GCC), version >= 4.8.
+**Install a recent C/C++ compiler, or at least an OpenMP library.** The default Apple system
+compiler (clang) does not support OpenMP out of the box, which is used in some lectures. One way
+to overcome this problem is to install the GNU Compiler Collection (GCC), version >= 4.8.
 
 In the terminal, these are the commands to install GCC in Homebrew:
     
@@ -63,9 +63,13 @@ brew install gcc
 
 The default version of GCC installed by Homebrew is currently gcc-11. Thus the
 correct command to use for calling the C/C++ compiler is `gcc-11` or `c++-11`. These commands
-are located in /usr/local/bin, which should be in your PATH. (Be aware that
+are located in /usr/local/bin, which should be in your PATH. Be aware that
 macOS has similar commands called `gcc` and `c++` in /usr/bin, but `gcc` is just
-clang in a `gcc` emulation mode, while `c++` is a symlink to `clang++`.)
+Clang in a `gcc` emulation mode, while `c++` is a symlink to `clang++`.
+
+For those who would prefer to do the exercises with Apple Clang, instructions on how to install
+and use a compatible OpenMP library are here: https://iscinumpy.dev/post/omp-on-high-sierra/.
+Again, Homebrew is a very convenient source for obtaining the necessary software.
 
 ## Linux
 
