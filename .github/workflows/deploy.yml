@@ -2,35 +2,44 @@ name: Deploy
 
 on:
   workflow_dispatch:
+  pull_request:
   push:
     branches: master
 
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
 concurrency:
-  group: gha-deploy
+  group: pages
   cancel-in-progress: true
 
 jobs:
   website:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
 
-    - uses: actions/checkout@v2
+    - name: Setup Pages
+      id: pages
+      uses: actions/configure-pages@v2
+
+    - uses: actions/checkout@v3
       with:
         submodules: recursive
 
     - name: Build the site
       run: pipx run nox -s build
 
-    - name: Deploy
-      if: >
-        success()
-        && github.ref == 'refs/heads/master'
-        && github.repository == 'codas-hep/codas-hep.github.io-source'
-      uses: peaceiris/actions-gh-pages@v3
+    - name: Upload artifact
+      uses: actions/upload-pages-artifact@v1
       with:
-        deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-        external_repository: codas-hep/codas-hep.github.io
-        publish_branch: master
-        publish_dir: output
-        cname: codas-hep.org
-        # force_orphan: true
+        path: output
+
+    - name: Deploy to GitHub Pages
+      id: deployment
+      if: github.ref == 'refs/heads/master'
+      uses: actions/deploy-pages@v1
