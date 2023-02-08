@@ -17,7 +17,7 @@ cffi==1.15.1
     #   pynacl
 commonmark==0.9.1
     # via rich
-cryptography==37.0.4
+cryptography==39.0.1
     # via paramiko
 docutils==0.19
     # via pelican
