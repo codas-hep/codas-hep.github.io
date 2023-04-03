@@ -20,12 +20,12 @@ The program includes both lectures and practical hands-on exercises.
 
 The school offers a limited number of young researchers an opportunity to learn these skills from experienced scientists and instructors. Successful applicants will receive lodging and some level of travel support to attend the school. Both Ph.D. students and postdoctoral researchers are encouraged to apply. Financial support for participants will be limited to those associated to U.S. academic institutions.
 
+<!--
 ** Please watch for announcements regarding applications for the 5th edition of the school to take place in summer, 2023!**
 
-<!--
 The CoDaS-HEP 2022 school will take place at the [Princeton Center for Theoretical Science (PCTS)](https://pcts.princeton.edu/about) in Jadwin Hall on the Princeton University campus.
-
-**18 Apr 2022: Applications for the CoDaS-HEP 2022 school are now being accepted. Please use this [Google Form](https://docs.google.com/forms/d/1NHzl6J-3pmCk4dGjcw593NKlic4o5yL-FkrEQFlv_dk/edit) to apply. The deadline for application is 6 May, 2022. Applicants will be notified regarding acceptance and available travel support by 15 May.**
 -->
+
+**3 Apr 2023: Applications for the CoDaS-HEP 2023 school are now being accepted. Please use this [Google Form](https://docs.google.com/forms/d/1LsGsyg1rZNdKpMXMvkNHXe5tRrsh3dLi0briqQiL2SM/edit) to apply. The deadline for application is 26 April, 2023. Applicants will be notified regarding acceptance and available travel support by 10 May, 2023.**
 
 Questions can be sent to [codas-hep@googlegroups.com](codas-hep@googlegroups.com).
