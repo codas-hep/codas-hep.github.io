@@ -1,6 +1,6 @@
-Title: Travel to Princeton (2023 Version)
+Title: Travel to Princeton (2022 Version)
 date: 2017-05-16 07:51
-slug: travel-princeton
+slug: travel-princeton-2022
 Authors: Peter Elmer
 Summary: Travel to Princeton and Local Princeton Information
 Template: page
@@ -41,10 +41,6 @@ In general long distance taxis will be costly and should be avoided. Uber and Ly
 Participants will reside in dorm rooms provided in [Whitman College](https://whitmancollege.princeton.edu) on the Princeton campus.
 They are a 10 minute walk from the [Princeton (Dinky) train station](https://www.njtransit.com/dinky) and a 5 minute walk from Jadwin Hall, where the school lectures will take place. 
 
-Information on dorm check-in / key pickup and dorm check-out / key drop-off
-will be added here before the school.
-
-<!--
 **Dorm check-in and key pickup:** On Sunday, 31 July, you can pick-up your dorm key at Baker Hall between 12:00 and 16:00. If you arrive after 16:00 you will
 need to go to Public Safety to pick up your key. (See the 
 [annotated Campus Map](/downloads/CoDaS-HEP-2022-PUCampusMap.pdf).)
@@ -58,7 +54,6 @@ to do two things: (1) vacate the room before 17:00 EDT on Friday and
   * You are coming to the school sessions on Friday morning, but would like to leave your things in the dorm until after the school sessions end (possible as long as you vacate before 17:00 EDT), you will need to leave the key with Public Safety.
 
 If this isn't clear, please ask!
--->
 
 <!--
 Keys are available for pick up at our office of Public Safety, 200 Elm Drive, open 24 hours, seven days a week. Participants will receive a hotel style key in a packet with the room number at Public Safety. To enter the building, hold the key up to the black box on the building. To enter the room, hold the key in front of the key pad on your room door.
