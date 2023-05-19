@@ -1,15 +1,15 @@
 Title: Reimbursement for Travel to Princeton
 date: 2017-05-16 07:51
-slug: reimbursement
+slug: reimbursement-2022
 Authors: Peter Elmer
 Summary: Reimbursement for Travel Expenses
 Template: page
 
-### Guidelines for Reimbursement of Travel Expenses (2023 Version)
+### Guidelines for Reimbursement of Travel Expenses (2022 Version)
 
   Reimbursement will be provided for travel expenses for some school participants, up to a specified limit, upon presentation of valid receipts. The following guidelines apply: 
 
-  * Participants should in general plan on traveling to Princeton on Sunday, 16 July, 2023, and traveling home on Friday, 21 July, 2023, unless authorized by the lead organizer (Peter Elmer).
+  * Participants should in general plan on traveling to Princeton on Sunday, 31 July, 2022, and traveling home on Friday, 5 August, 2022.
   * Participants should pay for their travel themselves and will be reimbursed up to the specified limits after the school has finished.
   * The reimbursement can be done by check or bank transfer, typically within 5-10 business days from submission and approval of the required documentation.
   * Only the participant can be directly reimbursed (not the participant's research group).
@@ -21,7 +21,7 @@ Template: page
   * Breakfast, lunches and coffee breaks will be provided at no cost to you from Monday to Friday, as well as a light reception on Monday evening and a "Social Mixer" event (with food) on Tuesday evening and dinner at a local restaurant on Thursday evening. Dinner on Wednesday is on one's own. Additional meals costs will not be reimbursed.
   * Non-Princeton participants coming from locations within reasonable driving distance of Princeton University may choose to drive their personal automobile. Reimbursement will be provided based on mileage using the University rates. An itinerary map (e.g. from Google Maps) should be provided in lieu of a receipt.
   * Receipts should be provided in electronic form (scanned or clear photos), and grouped together into a **single pdf file**. 
-  * The form(s) for reimbursement are linked below. This should in general be filled out by one week after the end of the school week itself (i.e. Friday, 28 July, 2023) and submitted along with the electronic copy of the receipts described above.
+  * The form(s) for reimbursement are linked below. This should in general be filled out by one week after the end of the school week itself (i.e. Friday, 12 August, 2022) and submitted along with the electronic copy of the receipts described above.
 
   When planning your travel, please remember to take into account not only
 any relevant flight to the NJ/NYC area, but also train or other travel to 
@@ -36,7 +36,7 @@ arrive at the Princeton campus. Please see the [Travel to Princeton webpage](htt
 There are two relevant forms for travel reimbursement:
 
   * [Guest Reimbursement Request](https://finance.princeton.edu/forms/guest-reimbursement-request) - Everyone requesting travel reimbursement must fill out this form
-  * [Supplier Onboarding Form - Domestic](https://finance.princeton.edu/forms/supplierpayee-management) - Only people requesting reimbursement via wire transfer need to fill out this form. If you would like to receive a check, this form is not needed.
+  * [Supplier Onboarding Form - Domestic](https://finance.princeton.edu/sites/g/files/toruqf151/files/2019-11/supplier_mgmt.pdf) - Only people requesting reimbursement via wire transfer need to fill out this form. If you would like to receive a check, this form is not needed.
 <!--
   * [Supplier Onboarding Form - International](https://finance.princeton.edu/forms/foreign-individual-payeesubstitute-w-8ben) - Only people requesting reimbursement via wire transfer need to fill out this form. If you would like to receive a check, this form is not needed.  
 -->
@@ -51,7 +51,7 @@ Please note the following:
     * Fill out your name, address and business phone
     * Specify the departure and return date from your trip to the school (please use MM/DD/YY format)
     * Use "Princeton, NJ, USA" for the "Destination"
-    * For "Business Purpose", specify "Participation in CoDaS-HEP 2023 school"
+    * For "Business Purpose", specify "Participation in CoDaS-HEP 2022 school"
     * Fill out the list of expenses as appropriate. Include the date (in MM/DD/YY format), a short description of the type of expense and the amount in U.S. Dollars. 
     * If you paid an expense in something other than U.S. Dollars, look up the exchange rate (corresponding to the date of the expense!) on [Oanda](https://www1.oanda.com/currency/converter/) and make a screenshot of the rate (including the date). Include the screenshot in the pdf with the receipt. Put the equivalent U.S. Dollar cost in the form in the "Amount" column and include the amount in the foreign currency (with label such as CHF, EUR) in parentheses in the item "Description". (Note that the administration may adjust the conversion amount if the wrong rate or date is used.)
     * Add your name, date and signature at the bottom of the form.
@@ -60,7 +60,7 @@ Please note the following:
     * Guest Reimbursement Request Form
     * Supplier Onboarding Form (if relevant)
     * Scans of relevant receipts
-  * Please name the file codas-hep-2023-yourfirstname-yourlastname.pdf
+  * Please name the file codas-hep-2022-yourfirstname-yourlastname.pdf
   * Send the single pdf as an attachment in email to [codas-hep@googlegroups.com](codas-hep@googlegroups.com) with an email subject line including your name and the word "reimbursement".
 
 
