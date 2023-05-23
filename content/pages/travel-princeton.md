@@ -7,18 +7,17 @@ Template: page
 
 ### General Notes
 
-General information about traveling to and visiting Princeton University can be found on the ["visiting campus" webpages](http://www.princeton.edu/main/visiting/). 
+General information about traveling to and visiting Princeton University can be found on the ["visiting campus" webpages](http://www.princeton.edu/main/visiting/).
 
 Please send any questions about travel to Princeton to [codas-hep@googlegroups.com](codas-hep@googlegroups.com).
 
-
 ### Travel by Train
 
-From Newark Liberty International (EWR) airport, John F. Kennedy International Airport (JFK) and from many other locations along the east coast (e.g. Boston, NYC, Washington DC and Baltimore), it is possible to travel to Princeton by train. 
+From Newark Liberty International (EWR) airport, John F. Kennedy International Airport (JFK) and from many other locations along the east coast (e.g. Boston, NYC, Washington DC and Baltimore), it is possible to travel to Princeton by train.
 Note that there are two train stations you will need to know:
 
-  * The major train station closest to Princeton is ["Princeton Junction Station" (PJC)](https://en.wikipedia.org/wiki/Princeton_Junction_station). This is served by [New Jersey Transit](http://www.njtransit.com) on the ["Northeast Corridor Line"](https://en.wikipedia.org/wiki/Northeast_Corridor_Line). PJC also has some limited direct service by Amtrak.
-  * The campus train station is ["Princeton Station"](https://en.wikipedia.org/wiki/Princeton_station_(NJ_Transit)). This is served only by a small commuter train (the "Dinky") which goes along a spur line from Princeton Junction Station to campus. It is operated by New Jersey Transit.
+* The major train station closest to Princeton is ["Princeton Junction Station" (PJC)](https://en.wikipedia.org/wiki/Princeton_Junction_station). This is served by [New Jersey Transit](http://www.njtransit.com) on the ["Northeast Corridor Line"](https://en.wikipedia.org/wiki/Northeast_Corridor_Line). PJC also has some limited direct service by Amtrak.
+* The campus train station is ["Princeton Station"](https://en.wikipedia.org/wiki/Princeton_station_(NJ_Transit)). This is served only by a small commuter train (the "Dinky") which goes along a spur line from Princeton Junction Station to campus. It is operated by New Jersey Transit.
 
 If you are coming from EWR, Trenton or NYC Penn Station, you should buy a New Jersey Transit ticket through to Princeton Station. You will then need to take a train to Princeton Junction train station (check that your particular train stops there!), get off at Princeton Junction train station and take the "Dinky" from Princeton Junction train station to Princeton train station.
 
@@ -26,7 +25,7 @@ If you are coming on Amtrak, most trains do not stop at Princeton Junction (with
 
 ### Travel by Air
 
-The closest and most convenient airport to come to Princeton is Newark Liberty International (EWR). Most participants will find that the best solution for domestic flights within the US. This is the recommended airport unless the cost is significantly higher than other alternatives. From there it is convenient to take the train as described above. 
+The closest and most convenient airport to come to Princeton is Newark Liberty International (EWR). Most participants will find that the best solution for domestic flights within the US. This is the recommended airport unless the cost is significantly higher than other alternatives. From there it is convenient to take the train as described above.
 
 Another option is flying into John F. Kennedy International Airport (JFK) or LaGuardia International Airport (LGA) at the cost of additional travel time. From JFK, the easiest is probably to the Airtrain to Jamaica Station and then take the [Long Island Rail Road (LIRR)](https://new.mta.info/agency/long-island-rail-road) or to New York Penn Station. Alternatively there is the [subway](http://www.nysubway.com/airport/jfk.html) or a bus ([NYC Airporter](https://www.nycairporter.com) with service from JFK to NYC Penn Station. From NYC Penn Station, you can take the train to Princeton as described above.
 
@@ -39,7 +38,7 @@ In general long distance taxis will be costly and should be avoided. Uber and Ly
 ### Accommodation - Whitman College on the Princeton campus
 
 Participants will reside in dorm rooms provided in [Whitman College](https://whitmancollege.princeton.edu) on the Princeton campus.
-They are a 10 minute walk from the [Princeton (Dinky) train station](https://www.njtransit.com/dinky) and a 5 minute walk from Jadwin Hall, where the school lectures will take place. 
+They are a 10 minute walk from the [Princeton (Dinky) train station](https://www.njtransit.com/dinky) and a 5 minute walk from Jadwin Hall, where the school lectures will take place.
 
 Information on dorm check-in / key pickup and dorm check-out / key drop-off
 will be added here before the school.
@@ -72,12 +71,12 @@ Participants can park temporarily in West Garage (if on a weekend) to walk to Pu
 
 For emergencies:
 
-  * From Campus Phone: 911
-  * From Cell Phone: (609) 258-3333
+* From Campus Phone: 911
+* From Cell Phone: (609) 258-3333
 
 Non-emergencies:
 
-  * (609) 258-1000
+* (609) 258-1000
 
 ### Parking on campus
 
@@ -85,9 +84,21 @@ Non-emergencies:
 Parking is available on the Princeton campus. As noted above, participants can park temporarily in West Garage (if on a weekend) to walk to Public Safety and pick up their keys. After moving in, we would ask that participants move cars to their assigned lot, the Lakeside Garage. [Lot 21](https://goo.gl/maps/acEt4zZLBKk7jkLs5) is free and available for those just driving in for the day.
 -->
 
-Attendees will be allowed to park in Lot 20. (If Lot 20 is full, you can also use Lot 19, although it is farther from the center of campus.) You must register in advance through [this link](https://princeton.nupark.com/v2/portal/eventregister/8fccf34b-56e1-4430-97fa-2e0eeb51912a#/customer).
+<!-- Attendees will be allowed to park in Lot 20. (If Lot 20 is full, you can also use Lot 19, although it is farther from the center of campus.) You must register in advance through [this link](https://princeton.nupark.com/v2/portal/eventregister/8fccf34b-56e1-4430-97fa-2e0eeb51912a#/customer).
 
-In general a car is not needed within Princeton itself, since all of the venues for the school (dorm, lecture venue, receptions, etc.) and relevant local businesses (see below) are within walking distance of one another once one has arrived on campus.
+In general a car is not needed within Princeton itself, since all of the venues for the school (dorm, lecture venue, receptions, etc.) and relevant local businesses (see below) are within walking distance of one another once one has arrived on campus. -->
+
+Visitor Parking on Campus is free for participants and visitors, but you cannot park overnight.
+
+Weekday visitor parking is available at Stadium Drive Garage (map: [Princeton Stadium Drive Garage](https://goo.gl/maps/6yymuqySUeXpfmNN8?coh=178573&entry=tt)). The Stadium Garage is located on the corner of Faculty Road and Fitzrandolph Road.
+
+Free TigerTransit (campus bus) service to stops on Washington Road, Nassau Street and University Place.  [Click for more information on TigerTransit routes and schedules.](https://transportation.princeton.edu/getting-around/tigertransit/routes-schedules)
+
+Visitors using the garage are asked to register for a daily parking permit. Registration can be done [online in advance](https://transportation.princeton.edu/visit_prking) or at the garage during arrival.  [Click here for more information on visitor parking](https://transportation.princeton.edu/parking/visiting-campus-events/visitor-parking)
+
+On weekends and evenings, visitors may also park in most other University lots and garages. Metered parking is available on streets around campus.
+
+[Princeton University Visitor Parking Map](https://transportation.princeton.edu/sites/g/files/toruqf611/files/documents/UniversityParkingMaps_Visitors.pdf)
 
 ### WiFi on Campus
 
@@ -114,16 +125,15 @@ St. or along the streets on the other side of Nassau St. from campus.
 
 Two sites of interest for physicists in Princeton are:
 
-  * [Albert Einstein's house](https://en.wikipedia.org/wiki/Albert_Einstein_House) - 112 Mercer St., where he lived from the mid-1930's through his death in 1955
+* [Albert Einstein's house](https://en.wikipedia.org/wiki/Albert_Einstein_House) - 112 Mercer St., where he lived from the mid-1930's through his death in 1955
 
-  * Albert Einstein Monument (bronze bust) - near the [Princeton Battle Monument](https://en.wikipedia.org/wiki/Princeton_Battle_Monument) at 55 Stockton St.
+* Albert Einstein Monument (bronze bust) - near the [Princeton Battle Monument](https://en.wikipedia.org/wiki/Princeton_Battle_Monument) at 55 Stockton St.
 
 Additional things of touristic or historical interest can be found in the "Points of Interest" section on the [Princeton, NJ, Wikipedia page](https://en.wikipedia.org/wiki/Princeton,_New_Jersey).
 
 ### General information
 
-  * Campus Map (with CoDaS-HEP relevant locations indicated): [pdf format](/downloads/CoDaS-HEP-2022-PUCampusMap.pdf)
-  * Campus Map (original): [pdf format](http://www.princeton.edu/main/visiting/aroundcampus/maps/princeton_map.pdf)
-  * Princeton mobile phone apps: [iOS App](https://itunes.apple.com/us/app/princeton-mobile/id388821195?mt=8), [Android App](https://play.google.com/store/apps/details?id=edu.princeton.mobile&hl=en)
-  * [Princeton Area Airports](https://www.princeton.edu/main/visiting/travel/airports/)
-
+* Campus Map (with CoDaS-HEP relevant locations indicated): [pdf format](/downloads/CoDaS-HEP-2022-PUCampusMap.pdf)
+* Campus Map (original): [pdf format](http://www.princeton.edu/main/visiting/aroundcampus/maps/princeton_map.pdf)
+* Princeton mobile phone apps: [iOS App](https://itunes.apple.com/us/app/princeton-mobile/id388821195?mt=8), [Android App](https://play.google.com/store/apps/details?id=edu.princeton.mobile&hl=en)
+* [Princeton Area Airports](https://www.princeton.edu/main/visiting/travel/airports/)
