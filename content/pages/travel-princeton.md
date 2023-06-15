@@ -88,7 +88,7 @@ Parking is available on the Princeton campus. As noted above, participants can p
 
 In general a car is not needed within Princeton itself, since all of the venues for the school (dorm, lecture venue, receptions, etc.) and relevant local businesses (see below) are within walking distance of one another once one has arrived on campus. -->
 
-Visitor Parking on Campus is free for participants and visitors.  However, visitors may not park in any campus parking facility overnight without permission.  If you need to park a car overnight, please let us know before the school begins to allow us to make the proper arrangements.
+Visitor Parking on Campus is free for participants and visitors.  However, visitors may not park in any campus parking facility overnight without permission.  If you need to park a car overnight, please register [online in advance](https://princeton.nupark.com/v2/portal/eventregister/1882df24-3f34-4729-ab25-8b82671e4268#/events/registration/).
 
 Weekday visitor parking is available at Stadium Drive Garage (map: [Princeton Stadium Drive Garage](https://goo.gl/maps/6yymuqySUeXpfmNN8?coh=178573&entry=tt)). The Stadium Garage is located on the corner of Faculty Road and Fitzrandolph Road.
 
