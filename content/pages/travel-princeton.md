@@ -46,8 +46,7 @@ If arriving after 6:00 pm, go tp Public Safety at 200 Elm Drive (near Whitman
 College) to pick up the dorm key.
 
 If you are arriving for some reason by Uber/Lyft/Car share, the best drop off 
-point to get to Wendell Hall is probably at the campus Princeton (Dinky) 
-Station.
+point to get to Wendell Hall is probably at the campus [Princeton (Dinky) Station](https://en.wikipedia.org/wiki/Princeton_station_(NJ_Transit)).
 
 <!--
 **Dorm check-in and key pickup:** On Sunday, 31 July, you can pick-up your dorm key at Baker Hall between 12:00 and 16:00. If you arrive after 16:00 you will
