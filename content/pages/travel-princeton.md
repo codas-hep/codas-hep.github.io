@@ -40,8 +40,10 @@ In general long distance taxis will be costly and should be avoided. Uber and Ly
 Participants will reside in dorm rooms provided in [Whitman College](https://whitmancollege.princeton.edu) on the Princeton campus.
 They are a 10 minute walk from the [Princeton (Dinky) train station](https://www.njtransit.com/dinky) and a 5 minute walk from Jadwin Hall, where the school lectures will take place.
 
-Information on dorm check-in / key pickup and dorm check-out / key drop-off
-will be added here before the school.
+Check-in and dorm key-pickup is possible from 2:00-6:00 pm on 
+Sunday, 16 July, 2023 directly at Wendell Hall, Whitman College.
+If arriving after 6:00 pm, go tp Public Safety at 200 Elm Drive (near Whitman 
+College) to pick up the dorm key.
 
 <!--
 **Dorm check-in and key pickup:** On Sunday, 31 July, you can pick-up your dorm key at Baker Hall between 12:00 and 16:00. If you arrive after 16:00 you will
