@@ -35,7 +35,7 @@ In general long distance taxis will be costly and should be avoided. Uber and Ly
 
 ## Local Princeton Information
 
-[![Annotated Map](/images/Princeton-University-Map-CoDaS-HEP-2023.png)](/downloads/CoDaS-HEP-2022-PUCampusMap.pdf)
+[![Annotated Map](/images/Princeton-University-Map-CoDaS-HEP-2023.png)](/downloads/Princeton-University-Map-CoDaS-HEP-2023.pdf)
  
 ### Accommodation - Whitman College on the Princeton campus
 
