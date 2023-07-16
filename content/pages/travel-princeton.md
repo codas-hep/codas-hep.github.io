@@ -17,7 +17,7 @@ From Newark Liberty International (EWR) airport, John F. Kennedy International A
 Note that there are two train stations you will need to know:
 
 * The major train station closest to Princeton is ["Princeton Junction Station" (PJC)](https://en.wikipedia.org/wiki/Princeton_Junction_station). This is served by [New Jersey Transit](http://www.njtransit.com) on the ["Northeast Corridor Line"](https://en.wikipedia.org/wiki/Northeast_Corridor_Line). PJC also has some limited direct service by Amtrak.
-* The campus train station is ["Princeton Station"](https://en.wikipedia.org/wiki/Princeton_station_(NJ_Transit)). This is served only by a small commuter train (the "Dinky") which goes along a spur line from Princeton Junction Station to campus. It is operated by New Jersey Transit.
+* The campus train station is ["Princeton Station"](https://en.wikipedia.org/wiki/Princeton_station_(NJ_Transit)). This is served only by a small commuter train (the "Dinky") which goes along a spur line from Princeton Junction Station to campus. It is operated by New Jersey Transit. **NOTE 16 July 2023 - It turns out that the Dinky train is down for maintenance this week and they are instead running a bus between Princeton Junction station and campus.**
 
 If you are coming from EWR, Trenton or NYC Penn Station, you should buy a New Jersey Transit ticket through to Princeton Station. You will then need to take a train to Princeton Junction train station (check that your particular train stops there!), get off at Princeton Junction train station and take the "Dinky" from Princeton Junction train station to Princeton train station.
 
