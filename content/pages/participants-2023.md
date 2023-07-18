@@ -11,7 +11,7 @@ Template: page
 
 ### Participant "introduction" web pages:
 
-[Introductions Gallery (click each one for individual pages](https://iris-hep.org/codas-hep.html)
+[Participants Gallery (click each one for individual webpages)](https://iris-hep.org/codas-hep.html)
 
 ### Participant List
 
