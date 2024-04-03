@@ -5,7 +5,7 @@ Authors: Peter Elmer
 Summary: Computational and Data Science Training for High Energy Physics
 Template: homepage
 
-#### The fifth school on tools, techniques and methods for Computational and Data Science for High Energy Physics (CoDaS-HEP) is planned for 17-21 July, 2023, at Princeton University. 
+#### The sixth school on tools, techniques and methods for Computational and Data Science for High Energy Physics (CoDaS-HEP) is planned for 22-26 July, 2024, at Princeton University. 
 
 Advanced software is a critical ingredient to scientific research. Training young researchers in the latest tools and techniques is an essential part of developing the skills required for a successful career both in research and in industry.
 
@@ -26,6 +26,6 @@ The school offers a limited number of young researchers an opportunity to learn 
 The CoDaS-HEP 2022 school will take place at the [Princeton Center for Theoretical Science (PCTS)](https://pcts.princeton.edu/about) in Jadwin Hall on the Princeton University campus.
 -->
 
-**3 Apr 2023: Applications for the CoDaS-HEP 2023 school are now being accepted. Please use this [Google Form](https://docs.google.com/forms/d/1LsGsyg1rZNdKpMXMvkNHXe5tRrsh3dLi0briqQiL2SM/edit) to apply. The deadline for application is 26 April, 2023. Applicants will be notified regarding acceptance and available travel support by 10 May, 2023.**
+**3 Apr 2024: Applications for the CoDaS-HEP 2023 school are now being accepted. Please use this [Google Form](https://docs.google.com/forms/d/1QZE1yDcQSBasBske0QhxVsy8RX8P0nWyjDnZGzPjnyw/edit) to apply. The deadline for application is 26 April, 2023. Applicants will be notified regarding acceptance and available travel support by 10 May, 2023.**
 
 Questions can be sent to [codas-hep@googlegroups.com](codas-hep@googlegroups.com).
