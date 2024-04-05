@@ -29,3 +29,4 @@ The CoDaS-HEP 2022 school will take place at the [Princeton Center for Theoretic
 **3 Apr 2024: Applications for the CoDaS-HEP 2024 school are now being accepted. Please use this [Google Form](https://docs.google.com/forms/d/1QZE1yDcQSBasBske0QhxVsy8RX8P0nWyjDnZGzPjnyw/edit) to apply. The deadline for application is 26 April, 2024. Applicants will be notified regarding acceptance and available travel support by 10 May, 2024.**
 
 Questions can be sent to [codas-hep@googlegroups.com](codas-hep@googlegroups.com).
+
