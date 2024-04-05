@@ -6,4 +6,3 @@ Created CoDaS-HEP github repository for website sources
 Using [Pelican](http://getpelican.com/) to generate website with fork of [pelican-themes](https://github.com/getpelican/pelican-themes) theme
 
 School website source.
-
