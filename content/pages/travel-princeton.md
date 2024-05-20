@@ -1,4 +1,4 @@
-Title: Travel to Princeton (2023 Version)
+Title: Travel to Princeton (2024 Version)
 date: 2017-05-16 07:51
 slug: travel-princeton
 Authors: Peter Elmer
@@ -38,7 +38,7 @@ In general long distance taxis will be costly and should be avoided. Uber and Ly
 [![Annotated Map](/images/Princeton-University-Map-CoDaS-HEP-2024.png)](/images/Princeton-University-Map-CoDaS-HEP-2024.png)
 
  
-### Accommodation - Whitman College on the Princeton campus
+### Accommodation - Butler College or Bloomberg Hall on the Princeton campus
 
 Participants will reside in dorm rooms provided in [Butler College](https://butlercollege.princeton.edu) on the Princeton campus or in [Bloomberg Hall](https://hres.princeton.edu/undergraduate-housing/explore/bloomberg-hall).
 They are a 10 minute walk from the [Princeton (Dinky) train station](https://www.njtransit.com/dinky) and a 5 minute walk from Jadwin Hall, where the school lectures will take place.
@@ -125,10 +125,8 @@ There are many nearby locations where food is available with the closest being W
 
 ### Access to Campus Gym Facilities
 
-Access by visitors to [campus gym facilities (Dillon Gym)](https://campusrec.princeton.edu/facilities-operations/facility-use-policies) is possible. Gym passes are
-available for $5 each (at the participant's own expense) at the office
-of the Princeton Conference and Event Services at 71 University Place. The
-office is open from 9:00am through 4:30pm, Monday through Friday.
+Access by visitors to [campus gym facilities (Dillon Gym)](https://campusrec.princeton.edu/facilities-operations/facility-use-policies) is possible. Gym passes will be available during the check-in for the dorms. These will likely cost 
+around $5 per day and are at the participant's own expense.
 
 ### Restaurants, Coffeeshops, Bars and Stores
 
