@@ -17,7 +17,7 @@ From Newark Liberty International (EWR) airport, John F. Kennedy International A
 Note that there are two train stations you will need to know:
 
 * The major train station closest to Princeton is ["Princeton Junction Station" (PJC)](https://en.wikipedia.org/wiki/Princeton_Junction_station). This is served by [New Jersey Transit](http://www.njtransit.com) on the ["Northeast Corridor Line"](https://en.wikipedia.org/wiki/Northeast_Corridor_Line). PJC also has some limited direct service by Amtrak.
-* The campus train station is ["Princeton Station"](https://en.wikipedia.org/wiki/Princeton_station_(NJ_Transit)). This is served only by a small commuter train (the "Dinky") which goes along a spur line from Princeton Junction Station to campus. It is operated by New Jersey Transit. **NOTE 16 July 2023 - It turns out that the Dinky train is down for maintenance this week and they are instead running a bus between Princeton Junction station and campus.**
+* The campus train station is ["Princeton Station"](https://en.wikipedia.org/wiki/Princeton_station_(NJ_Transit)). This is served only by a small commuter train (the "Dinky") which goes along a spur line from Princeton Junction Station to campus. It is operated by New Jersey Transit. 
 
 If you are coming from EWR, Trenton or NYC Penn Station, you should buy a New Jersey Transit ticket through to Princeton Station. You will then need to take a train to Princeton Junction train station (check that your particular train stops there!), get off at Princeton Junction train station and take the "Dinky" from Princeton Junction train station to Princeton train station.
 
@@ -35,13 +35,17 @@ In general long distance taxis will be costly and should be avoided. Uber and Ly
 
 ## Local Princeton Information
 
-[![Annotated Map](/images/Princeton-University-Map-CoDaS-HEP-2023.png)](/downloads/Princeton-University-Map-CoDaS-HEP-2023.pdf)
+[![Annotated Map](/images/Princeton-University-Map-CoDaS-HEP-2024.png)](/images/Princeton-University-Map-CoDaS-HEP-2024.png)
+
  
 ### Accommodation - Whitman College on the Princeton campus
 
-Participants will reside in dorm rooms provided in [Whitman College](https://whitmancollege.princeton.edu) on the Princeton campus.
+Participants will reside in dorm rooms provided in [Butler College](https://butlercollege.princeton.edu) on the Princeton campus or in [Bloomberg Hall](https://hres.princeton.edu/undergraduate-housing/explore/bloomberg-hall).
 They are a 10 minute walk from the [Princeton (Dinky) train station](https://www.njtransit.com/dinky) and a 5 minute walk from Jadwin Hall, where the school lectures will take place.
 
+Information coming soon regarding check-in and dorm key pickup on Sunday, 21 July, 2024, is coming soon...
+
+<!--
 Check-in and dorm key pickup is possible from 2:00-6:00 pm on 
 Sunday, 16 July, 2023 directly at Wendell Hall, Whitman College.
 If arriving after 6:00 pm, go tp Public Safety at 200 Elm Drive (near Whitman 
@@ -49,6 +53,7 @@ College) to pick up the dorm key.
 
 If you are arriving for some reason by Uber/Lyft/Car share, the best drop off 
 point to get to Wendell Hall is probably at the campus [Princeton (Dinky) Station](https://en.wikipedia.org/wiki/Princeton_station_(NJ_Transit)).
+-->
 
 Bedsheets, blankets, and pillows will be provided.
 
@@ -142,7 +147,9 @@ Additional things of touristic or historical interest can be found in the "Point
 
 ### General information
 
-* Campus Map (with CoDaS-HEP relevant locations indicated): [pdf format](/downloads/Princeton-University-Map-CoDaS-HEP-2023.pdf)
+* Campus Map (with CoDaS-HEP relevant locations indicated): [png format](/images/Princeton-University-Map-CoDaS-HEP-2024.png)
 * Campus Map (original): [pdf format](http://www.princeton.edu/main/visiting/aroundcampus/maps/princeton_map.pdf)
 * Princeton mobile phone apps: [iOS App](https://itunes.apple.com/us/app/princeton-mobile/id388821195?mt=8), [Android App](https://play.google.com/store/apps/details?id=edu.princeton.mobile&hl=en)
 * [Princeton Area Airports](https://www.princeton.edu/main/visiting/travel/airports/)
+
+
