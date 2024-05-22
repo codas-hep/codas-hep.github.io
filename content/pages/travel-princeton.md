@@ -29,7 +29,9 @@ The closest and most convenient airport to come to Princeton is Newark Liberty I
 
 Another option is flying into John F. Kennedy International Airport (JFK) or LaGuardia International Airport (LGA) at the cost of additional travel time. From JFK, the easiest is probably to the Airtrain to Jamaica Station and then take the [Long Island Rail Road (LIRR)](https://new.mta.info/agency/long-island-rail-road) or to New York Penn Station. Alternatively there is the [subway](http://www.nysubway.com/airport/jfk.html) or a bus ([NYC Airporter](https://www.nycairporter.com) with service from JFK to NYC Penn Station. From NYC Penn Station, you can take the train to Princeton as described above.
 
+<!--
 From [a small number of locations](http://www.mercercounty.org/departments/transportation-and-infrastructure/trenton-mercer-airport/airlines) it may also be possible to fly to [Trenton-Mercer Airport](http://www.mercercounty.org/departments/transportation-and-infrastructure/trenton-mercer-airport). Getting from there to the Princeton campus is more complicated and involves buses and/or going to the train station in Trenton and taking New Jersey Transit trains, as above.
+-->
 
 In general long distance taxis will be costly and should be avoided. Uber and Lyft should be possible on and around the Princeton campus (incl. Princeton Junction train station) at a modest price.
 
