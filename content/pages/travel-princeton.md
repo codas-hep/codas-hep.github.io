@@ -43,7 +43,7 @@ In general long distance taxis will be costly and should be avoided. Uber and Ly
 ### Accommodation - Butler College or Bloomberg Hall on the Princeton campus
 
 Participants will reside in dorm rooms provided in [Butler College](https://butlercollege.princeton.edu) on the Princeton campus or in [Bloomberg Hall](https://hres.princeton.edu/undergraduate-housing/explore/bloomberg-hall).
-They are a 10 minute walk from the [Princeton (Dinky) train station](https://www.njtransit.com/dinky) and a 5 minute walk from Jadwin Hall, where the school lectures will take place.
+They are a 10 minute walk from the [Princeton (Dinky) train station](https://www.njtransit.com/dinky) and a 5 minute walk from Lewis Library, where the school lectures will take place.
 
 Information coming soon regarding check-in and dorm key pickup on Sunday, 21 July, 2024, is coming soon...
 
