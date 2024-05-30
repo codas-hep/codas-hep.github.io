@@ -1,8 +1,8 @@
-Title: Participants in CoDaS-HEP 2023 school
-date: 2023-07-05 12:05
-slug: participants-2023
+Title: Participants in CoDaS-HEP 2024 school
+date: 2024-05-30 11:26
+slug: participants-2024
 Authors: Peter Elmer
-Summary: Participants in CoDaS-HEP 2023 school
+Summary: Participants in CoDaS-HEP 2024 school
 Template: page
 
 <!--
