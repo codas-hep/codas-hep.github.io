@@ -21,6 +21,8 @@ Note that there are two train stations you will need to know:
 
 If you are coming from EWR, Trenton or NYC Penn Station, you should buy a New Jersey Transit ticket through to Princeton Station. You will then need to take a train to Princeton Junction train station (check that your particular train stops there!), get off at Princeton Junction train station and take the "Dinky" from Princeton Junction train station to Princeton train station.
 
+Check ["NJ Transit Travel Alerts and Advisories"](https://www.njtransit.com/travel-alerts-to) for the status of NJ Transit services.  Princeton Station and Princeton Junction are on the "Northeast Corridor" line.
+
 If you are coming on Amtrak, most trains do not stop at Princeton Junction (with only a few exceptions, see the [Amtrak website](http://amtrak.com)). You will need to take Amtrak to Newark or Trenton and then switch to New Jersey Transit, as above, to arrive to Princeton Station on campus.
 
 ### Travel by Air
