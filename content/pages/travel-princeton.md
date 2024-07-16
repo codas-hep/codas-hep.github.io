@@ -47,8 +47,11 @@ In general long distance taxis will be costly and should be avoided. Uber and Ly
 Participants will reside in dorm rooms provided in [Butler College](https://butlercollege.princeton.edu) on the Princeton campus or in [Bloomberg Hall](https://hres.princeton.edu/undergraduate-housing/explore/bloomberg-hall).
 They are a 10 minute walk from the [Princeton (Dinky) train station](https://www.njtransit.com/dinky) and a 5 minute walk from Lewis Library, where the school lectures will take place.
 
-Information coming soon regarding check-in and dorm key pickup on Sunday, 21 July, 2024, is coming soon...
-
+** Dorm Check-in Information **
+Date: 7/21
+Time: 2:00 – 6:00 p.m.
+Location: Butler College Courtyard 
+ 
 <!--
 Check-in and dorm key pickup is possible from 2:00-6:00 pm on 
 Sunday, 16 July, 2023 directly at Wendell Hall, Whitman College.
