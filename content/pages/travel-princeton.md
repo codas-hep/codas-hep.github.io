@@ -51,6 +51,9 @@ They are a 10 minute walk from the [Princeton (Dinky) train station](https://www
 Date: 7/21
 Time: 2:00 – 6:00 p.m.
 Location: Butler College Courtyard 
+
+If arriving after 6:00 pm, go to the Public Safety Kiosk at 200 Elm Drive 
+(near Butler College and Bloomberg Hall, see map) to pick up the dorm key.
  
 <!--
 Check-in and dorm key pickup is possible from 2:00-6:00 pm on 
