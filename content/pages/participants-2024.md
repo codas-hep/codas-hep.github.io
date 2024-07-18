@@ -6,10 +6,6 @@ Summary: Participants in CoDaS-HEP 2024 school
 Template: page
 
 <!--
-
-Coming soon...
-
-<!--
 ### Group Photo (click to enlarge)
 
 [![Group photo thumbnail](/downloads/codas-hep-2024-group-photo-thumbnail.jpg)](/downloads/codas-hep-2024-group-photo.jpg)
