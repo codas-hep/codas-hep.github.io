@@ -6,7 +6,7 @@ Summary: Advance preparation for laptops
 Template: page
 
 Most of the exercises to be performed during the school are intended to be done on
-public cloud resources (e.g., Google Colab) as recommended by the instructors. But the
+cloud-based resources (e.g., the SSL BinderHub at U. of Chicago) as recommended by the instructors. But the
 exercises can be also be done on personal laptops with suitable preparation.
 
 Also, some of the exercises require downloading, compiling, and running files,
@@ -37,7 +37,8 @@ The Python portions of the workshop can be run in a local conda environment. You
 ## macOS
 
 The Terminal app provides you with a Unix shell, either bash or zsh, as well as many command-line tools.
-Much of what you will need seems to be preinstalled on the latest M1- and M2-based Macs with macOS Ventura.
+Much of what you will need (apart from miniconda) seems to be preinstalled on the latest M1-, M2-, and
+M3-based Macs with macOS Sonoma.
 
 For installing the other requirements, we highly recommend the Homebrew package manager.
 (If you are already familiar with MacPorts, you can use it instead.) Learn more about Homebrew at
@@ -64,11 +65,12 @@ In the terminal, these are the commands to install GCC in Homebrew:
 brew install gcc
 ```
 
-The default version of GCC installed by Homebrew is currently gcc-13. Thus the
-correct command to use for calling the C/C++ compiler is `gcc-13` or `c++-13`. These commands
-are located in /usr/local/bin, which should be in your PATH. Be aware that
-macOS has similar commands called `gcc` and `c++` in /usr/bin, but `gcc` is just
-Clang in a `gcc` emulation mode, while `c++` is a symlink to `clang++`.
+The default version of GCC installed by Homebrew is currently gcc-14. Thus the
+correct command to use for calling the C/C++ compiler is `gcc-14` or `c++-14`. These commands
+are located in /usr/local/bin, which should be in your PATH. (Be aware that
+macOS Sonoma has similar, built-in commands called `gcc` and `c++` in /usr/bin, but all such
+commands are straight-up copies of `clang`. Similarly, in earlier versions of macOS, `gcc`
+is just Clang in an emulation mode, while `c++` is a symlink to `clang++`.)
 
 For those who would prefer to do the exercises with Apple Clang, instructions on how to install
 and use a compatible OpenMP library are [here](https://iscinumpy.dev/post/omp-on-high-sierra/).
@@ -102,7 +104,7 @@ void main () {
 }
 ```
 
-Then compile and run the file as follows (you may need to substitute `gcc-13` as your compiler name in macOS, see above):
+Then compile and run the file as follows (you may need to substitute `gcc-14` as your compiler name in macOS, see above):
 
 ```bash
 gcc -fopenmp -o omptest; ./omptest
@@ -112,5 +114,5 @@ The output should contain one occurrence of "Hello world" for each virtual core 
 
 ## Setup instructions for the ML tutorial
 
-The machine learning tutorial will use Google Colab.
-Detailed setup instructions can be found [here](https://github.com/savvy379/codashep_ml_2022/#readme).
+The machine learning tutorial will use the SSL BinderHub at U. of Chicago.
+Detailed setup instructions will be presented during the school.
