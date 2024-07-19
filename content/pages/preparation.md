@@ -96,7 +96,7 @@ Edit a file containing the following C program. Call it omptest.c:
 #include <omp.h>
 #include <stdio.h>
 
-void main () {
+int main () {
     #pragma omp parallel
     {
         printf("Hello world\n");
@@ -107,7 +107,7 @@ void main () {
 Then compile and run the file as follows (you may need to substitute `gcc-14` as your compiler name in macOS, see above):
 
 ```bash
-gcc -fopenmp -o omptest; ./omptest
+gcc -fopenmp omptest.c -o omptest; ./omptest
 ```
 
 The output should contain one occurrence of "Hello world" for each virtual core in your system.
