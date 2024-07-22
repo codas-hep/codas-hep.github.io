@@ -39,7 +39,6 @@ Template: page
   * Jared Little - Indiana University
   * Jesse Farr - Yale University
   * Jesse Olsson - Florida State University
-  * Jose M Munoz - MIT
   * Jose Monroy - Cornell University
   * Katarzyna Krzyzanska - Cornell University
   * Lubos Vozdecky - University of Oklahoma
