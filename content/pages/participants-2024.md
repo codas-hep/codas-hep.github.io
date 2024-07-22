@@ -47,6 +47,7 @@ Template: page
   * Luke Vaughan - Oklahoma State University
   * Maria Bressan - Columbia university, Nevis Laboratory
   * Martin Klassen - Tufts University
+  * Matt Coleman - Princeton University
   * Nicholas Lopez-Canelas -  The University of Arizona
   * Panagiotis Englezos - Rutgers University
   * Payal Roy - University of Illinois Chicago
