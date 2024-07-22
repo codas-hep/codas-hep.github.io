@@ -35,7 +35,6 @@ Template: page
   * Hichem Bouchamaoui - Princeton University 
   * Hoon Lee - University of Notre Dame
   * Hubert Pugzlys - University of Florida
-  * Ibrahim Mirza - University of Tennessee, Knoxville
   * Jared Little - Indiana University
   * Jesse Farr - Yale University
   * Jesse Olsson - Florida State University
