@@ -5,11 +5,9 @@ Authors: Peter Elmer
 Summary: Participants in CoDaS-HEP 2024 school
 Template: page
 
-<!--
 ### Group Photo (click to enlarge)
 
 [![Group photo thumbnail](/downloads/codas-hep-2024-group-photo-thumbnail.jpg)](/downloads/codas-hep-2024-group-photo.jpg)
--->
 
 ### Participant "introduction" web pages:
 
