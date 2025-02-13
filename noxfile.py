@@ -2,11 +2,10 @@ import nox
 import shutil
 import zipfile
 
+nox.needs_version = ">=2025.02.09"
+nox.options.default_venv_backend = "uv|virtualenv"
 
-nox.options.sessions = ["build"]
-
-
-@nox.session
+@nox.session(default=False)
 def update(session: nox.Session) -> None:
     """
     Update the lockfile
@@ -18,7 +17,7 @@ def update(session: nox.Session) -> None:
 @nox.session
 def build(session: nox.Session) -> None:
     """
-    Build the docs. Pass "serve" to serve.
+    Build the docs
     """
 
     session.install("-r", "requirements.txt")
@@ -30,9 +29,11 @@ def build(session: nox.Session) -> None:
     session.run("pelican", "--fatal=errors", "content", "-s", "pelicanconf.py", *session.posargs)
 
 
-@nox.session
+@nox.session(default=False, requires=["build"])
 def serve(session: nox.Session) -> None:
-    docs(session)
+    """
+    Serve the docs. Builds first.
+    """
 
     session.log("Launching docs at http://localhost:8000/ - use Ctrl-C to quit")
     session.run("python", "-m", "http.server", "8000", "-d", "output")
