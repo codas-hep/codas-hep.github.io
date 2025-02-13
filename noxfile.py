@@ -10,9 +10,10 @@ def update(session: nox.Session) -> None:
     """
     Update the lockfile
     """
+    if session.venv_backend != "uv":
+        session.install("uv")
 
-    session.install("pip-tools")
-    session.run("pip-compile", "--allow-unsafe", "requirements.in")
+    session.run("uv", "pip", "compile", "requirements.in", "--output-file=requirements.txt")
 
 @nox.session
 def build(session: nox.Session) -> None:
