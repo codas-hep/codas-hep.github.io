@@ -4,3 +4,4 @@ minchin.pelican.plugins.cname
 fabric
 beautifulsoup4
 six
+setuptools

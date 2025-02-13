@@ -1,0 +1,24 @@
+name: Test
+
+on:
+  workflow_dispatch:
+  pull_request:
+
+permissions: {}
+
+jobs:
+  website:
+    runs-on: ubuntu-latest
+    steps:
+
+    - uses: actions/checkout@v3
+      with:
+        submodules: recursive
+        persist-credentials: false
+
+    - name: Setup uv
+      uses: astral-sh/setup-uv@v5
+
+    - name: Build the site
+      run: uvx nox -s build
+
