@@ -13,7 +13,7 @@ def update(session: nox.Session) -> None:
     """
 
     session.install("pip-tools")
-    session.run("pip-compile", "requirements.in")
+    session.run("pip-compile", "--allow-unsafe", "requirements.in")
 
 @nox.session
 def build(session: nox.Session) -> None:
