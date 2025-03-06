@@ -28,7 +28,7 @@ idna==3.10
     # via anyio
 invoke==2.2.0
     # via fabric
-jinja2==3.1.5
+jinja2==3.1.6
     # via
     #   minchin-pelican-plugins-cname
     #   pelican
@@ -70,8 +70,6 @@ rich==13.9.4
     # via pelican
 semantic-version==2.10.0
     # via minchin-pelican-plugins-autoloader
-setuptools==75.8.0
-    # via -r requirements.in
 six==1.17.0
     # via
     #   -r requirements.in
