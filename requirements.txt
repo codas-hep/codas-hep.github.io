@@ -20,12 +20,16 @@ deprecated==1.2.18
     # via fabric
 docutils==0.21.2
     # via pelican
+exceptiongroup==1.3.0
+    # via anyio
 fabric==3.2.2
     # via -r requirements.in
 feedgenerator==2.1.0
     # via pelican
 idna==3.10
     # via anyio
+importlib-metadata==8.7.0
+    # via markdown
 invoke==2.2.0
     # via fabric
 jinja2==3.1.5
@@ -70,8 +74,6 @@ rich==13.9.4
     # via pelican
 semantic-version==2.10.0
     # via minchin-pelican-plugins-autoloader
-setuptools==75.8.0
-    # via -r requirements.in
 six==1.17.0
     # via
     #   -r requirements.in
@@ -81,10 +83,16 @@ sniffio==1.3.1
 soupsieve==2.6
     # via beautifulsoup4
 typing-extensions==4.12.2
-    # via beautifulsoup4
+    # via
+    #   anyio
+    #   beautifulsoup4
+    #   exceptiongroup
+    #   rich
 unidecode==1.3.8
     # via pelican
 watchfiles==1.0.4
     # via pelican
 wrapt==1.17.2
     # via deprecated
+zipp==3.21.0
+    # via importlib-metadata
