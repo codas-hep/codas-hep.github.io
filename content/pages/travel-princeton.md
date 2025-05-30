@@ -108,14 +108,9 @@ Non-emergencies:
 
 ### Parking on campus
 
+Coming soon!
+
 <!--
-Parking is available on the Princeton campus. As noted above, participants can park temporarily in West Garage (if on a weekend) to walk to Public Safety and pick up their keys. After moving in, we would ask that participants move cars to their assigned lot, the Lakeside Garage. [Lot 21](https://goo.gl/maps/acEt4zZLBKk7jkLs5) is free and available for those just driving in for the day.
--->
-
-<!-- Attendees will be allowed to park in Lot 20. (If Lot 20 is full, you can also use Lot 19, although it is farther from the center of campus.) You must register in advance through [this link](https://princeton.nupark.com/v2/portal/eventregister/8fccf34b-56e1-4430-97fa-2e0eeb51912a#/customer).
-
-In general a car is not needed within Princeton itself, since all of the venues for the school (dorm, lecture venue, receptions, etc.) and relevant local businesses (see below) are within walking distance of one another once one has arrived on campus. -->
-
 Visitor Parking on Campus is free for participants and visitors.  However, visitors may not park in any campus parking facility overnight without permission.  If you need to park a car overnight, please register [online in advance](https://princeton.nupark.com/v2/portal/eventregister/1882df24-3f34-4729-ab25-8b82671e4268#/events/registration/).
 
 Weekday visitor parking is available at Stadium Drive Garage (map: [Princeton Stadium Drive Garage](https://goo.gl/maps/6yymuqySUeXpfmNN8?coh=178573&entry=tt)). The Stadium Garage is located on the corner of Faculty Road and Fitzrandolph Road.
@@ -127,6 +122,8 @@ Visitors using the garage are asked to register for a daily parking permit. Regi
 On weekends and evenings, visitors may also park in most other University lots and garages. Metered parking is available on streets around campus.
 
 [Princeton University Visitor Parking Map](https://transportation.princeton.edu/sites/g/files/toruqf611/files/documents/UniversityParkingMaps_Visitors.pdf)
+-->
+
 
 ### WiFi on Campus
 
