@@ -1,4 +1,4 @@
-Title: Travel to Princeton (2024 Version)
+Title: Travel to Princeton (2025 Version)
 date: 2017-05-16 07:51
 slug: travel-princeton
 Authors: Peter Elmer
@@ -48,12 +48,16 @@ Participants will reside in dorm rooms provided in [Butler College](https://butl
 They are a 10 minute walk from the [Princeton (Dinky) train station](https://www.njtransit.com/dinky) and a 5 minute walk from Lewis Library, where the school lectures will take place.
 
 ** Dorm Check-in Information **
+*Coming soon!*
+
+<!--
 Date: 7/21
 Time: 2:00 – 6:00 p.m.
 Location: Butler College Courtyard 
 
 If arriving after 6:00 pm, go to the Public Safety Kiosk at 200 Elm Drive 
 (near Butler College and Bloomberg Hall, see map) to pick up the dorm key.
+-->
  
 <!--
 Check-in and dorm key pickup is possible from 2:00-6:00 pm on 
