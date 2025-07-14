@@ -42,40 +42,21 @@ In general long distance taxis will be costly and should be avoided. Uber and Ly
 [![Annotated Map](/images/Princeton-University-Map-CoDaS-HEP-2024.png)](/images/Princeton-University-Map-CoDaS-HEP-2024.png)
 
  
-### Accommodation - Butler College or Bloomberg Hall on the Princeton campus
+### Accommodation - Bloomberg Hall on the Princeton campus
 
-Participants will reside in dorm rooms provided in [Butler College](https://butlercollege.princeton.edu) on the Princeton campus or in [Bloomberg Hall](https://hres.princeton.edu/undergraduate-housing/explore/bloomberg-hall).
-They are a 10 minute walk from the [Princeton (Dinky) train station](https://www.njtransit.com/dinky) and a 5 minute walk from Lewis Library, where the school lectures will take place.
+Participants will reside in dorm rooms in [Bloomberg Hall](https://hres.princeton.edu/undergraduate-housing/explore/bloomberg-hall).
+They are a 10 minute walk from the [Princeton (Dinky) train station](https://www.njtransit.com/dinky) and a 5-7 minute walk from Jadwin Hall, where the school lectures will take place.
 
 ** Dorm Check-in Information **
-*Coming soon!*
+  * Date: 7/20 
+  * Time: 2:00 – 6:00 p.m
+  * Location: Butler College Courtyard  **TBC**
 
-<!--
-Date: 7/21
-Time: 2:00 – 6:00 p.m.
-Location: Butler College Courtyard 
-
-If arriving after 6:00 pm, go to the Public Safety Kiosk at 200 Elm Drive 
-(near Butler College and Bloomberg Hall, see map) to pick up the dorm key.
--->
- 
-<!--
-Check-in and dorm key pickup is possible from 2:00-6:00 pm on 
-Sunday, 16 July, 2023 directly at Wendell Hall, Whitman College.
-If arriving after 6:00 pm, go tp Public Safety at 200 Elm Drive (near Whitman 
-College) to pick up the dorm key.
-
-If you are arriving for some reason by Uber/Lyft/Car share, the best drop off 
-point to get to Wendell Hall is probably at the campus [Princeton (Dinky) Station](https://en.wikipedia.org/wiki/Princeton_station_(NJ_Transit)).
--->
+If arriving after 6:00 pm, go to the Public Safety Kiosk at 200 Elm Drive (near Butler College and Bloomberg Hall, see map) to pick up the dorm key.
 
 Bedsheets, blankets, and pillows will be provided.
 
 <!--
-**Dorm check-in and key pickup:** On Sunday, 31 July, you can pick-up your dorm key at Baker Hall between 12:00 and 16:00. If you arrive after 16:00 you will
-need to go to Public Safety to pick up your key. (See the 
-[annotated Campus Map](/downloads/CoDaS-HEP-2022-PUCampusMap.pdf).)
-
 **Dorm check-out and key drop-off:** To check out of the dorms you only need 
 to do two things: (1) vacate the room before 17:00 EDT on Friday and 
 (2) drop-off the key. Three scenarios regarding key drop-off:
@@ -108,7 +89,17 @@ Non-emergencies:
 
 ### Parking on campus
 
-Coming soon!
+Visitor Parking on Campus is free for participants and visitors. However, visitors may not park in any campus parking facility overnight without permission. If you need to park a car overnight, please register [online in advance](https://princeton.nupark.com/v2/portal/eventregister/1882df24-3f34-4729-ab25-8b82671e4268#/events/registration/).
+
+Weekday visitor parking is available at Stadium Drive Garage (map: [Princeton Stadium Drive Garage](https://goo.gl/maps/6yymuqySUeXpfmNN8?coh=178573&entry=tt)). The Stadium Garage is located on the corner of Faculty Road and Fitzrandolph Road.
+
+Free TigerTransit (campus bus) service to stops on Washington Road, Nassau Street and University Place. Click for more information on TigerTransit routes and [schedules](https://transportation.princeton.edu/getting-around/tigertransit/routes-schedules).
+
+Visitors using the garage are asked to register for a daily parking permit. Registration can be done [online in advance](https://transportation.princeton.edu/visit_prking) or at the garage during arrival. [Click here for more information on visitor parking.](https://transportation.princeton.edu/parking/visiting-campus-events/visitor-parking)
+
+On weekends and evenings, visitors may also park in most other University lots and garages. Metered parking is available on streets around campus.
+
+[Princeton University Visitor Parking Map](https://transportation.princeton.edu/sites/g/files/toruqf611/files/documents/UniversityParkingMaps_Visitors.pdf)
 
 <!--
 Visitor Parking on Campus is free for participants and visitors.  However, visitors may not park in any campus parking facility overnight without permission.  If you need to park a car overnight, please register [online in advance](https://princeton.nupark.com/v2/portal/eventregister/1882df24-3f34-4729-ab25-8b82671e4268#/events/registration/).
