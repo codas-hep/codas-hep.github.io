@@ -45,17 +45,17 @@ In general long distance taxis will be costly and should be avoided. Uber and Ly
 ### Accommodation - Bloomberg Hall on the Princeton campus
 
 Participants will reside in dorm rooms in [Bloomberg Hall](https://hres.princeton.edu/undergraduate-housing/explore/bloomberg-hall).
-They are a 10 minute walk from the [Princeton (Dinky) train station](https://www.njtransit.com/dinky) and a 5-7 minute walk from Jadwin Hall, where the school lectures will take place.
+Bloomberg Hall is a 10 minute walk from the [Princeton (Dinky) train station](https://www.njtransit.com/dinky) and a 5-7 minute walk from Jadwin Hall, where the school lectures will take place.
 
 ** Dorm Check-in Information **
 
   * Date: 7/20 
   * Time: 2:00 – 6:00 p.m
-  * Location: Butler College Courtyard  (**TBC**)
+  * Location: Bloomberg Arch (follow signs to Bloomberg Hall)
 
-If arriving after 6:00 pm, go to the Public Safety Kiosk at 200 Elm Drive (near Butler College and Bloomberg Hall, see map) to pick up the dorm key.
+If arriving after 6:00 pm, go to the Public Safety Kiosk at 200 Elm Drive (across Elm Drive from Bloomberg Hall, see map) to pick up the dorm key.
 
-Bedsheets, blankets, and pillows will be provided.
+Bedsheets, blankets, and pillows and towels will be provided. Guests need to provide their own toiletries.
 
 <!--
 **Dorm check-out and key drop-off:** To check out of the dorms you only need 
