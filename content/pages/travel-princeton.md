@@ -39,7 +39,7 @@ In general long distance taxis will be costly and should be avoided. Uber and Ly
 
 ## Local Princeton Information
 
-[![Annotated Map](/images/Princeton-University-Map-CoDaS-HEP-2024.png)](/images/Princeton-University-Map-CoDaS-HEP-2024.png)
+[![Annotated Map](/images/Princeton-University-Map-CoDaS-HEP-2025.png)](/images/Princeton-University-Map-CoDaS-HEP-2025.png)
 
  
 ### Accommodation - Bloomberg Hall on the Princeton campus
