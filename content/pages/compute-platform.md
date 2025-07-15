@@ -1,6 +1,6 @@
 Title: Compute Platform (2025 Version)
 date: 2025-07-15 17:54
-slug: travel-princeton
+slug: compute-platform
 Authors: Peter Elmer
 Summary: Compute Platform for CoDaS-HEP
 Template: page
