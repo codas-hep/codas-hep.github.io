@@ -37,8 +37,8 @@ need to do this registration one-time.
 
 ![CI Connect 01](/images/ci-connect-07b.png)
 
-### Once it is in that state, you are signed up, approved and ready to go. We will explain how to use this to access the actual compute platform at the school itself.
+### Once it is in that state, you are signed up, approved and ready to go. We will explain how to use this to access the actual compute platform at the school itself.  
 
-  ** In case of problems - post a message to the #codas-hep-2025 channel in the IRIS-HEP Slack workspace **
+### In case of problems - post a message to the #codas-hep-2025 channel in the IRIS-HEP Slack workspace 
 
 
