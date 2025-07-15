@@ -48,9 +48,10 @@ Participants will reside in dorm rooms in [Bloomberg Hall](https://hres.princeto
 They are a 10 minute walk from the [Princeton (Dinky) train station](https://www.njtransit.com/dinky) and a 5-7 minute walk from Jadwin Hall, where the school lectures will take place.
 
 ** Dorm Check-in Information **
+
   * Date: 7/20 
   * Time: 2:00 – 6:00 p.m
-  * Location: Butler College Courtyard  **TBC**
+  * Location: Butler College Courtyard  (**TBC**)
 
 If arriving after 6:00 pm, go to the Public Safety Kiosk at 200 Elm Drive (near Butler College and Bloomberg Hall, see map) to pick up the dorm key.
 
