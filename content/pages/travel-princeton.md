@@ -148,7 +148,7 @@ Additional things of touristic or historical interest can be found in the "Point
 
 ### General information
 
-* Campus Map (with CoDaS-HEP relevant locations indicated): [png format](/images/Princeton-University-Map-CoDaS-HEP-2024.png)
+* Campus Map (with CoDaS-HEP relevant locations indicated): [png format](/images/Princeton-University-Map-CoDaS-HEP-2025.png)
 * Campus Map (original): [pdf format](http://www.princeton.edu/main/visiting/aroundcampus/maps/princeton_map.pdf)
 * Princeton mobile phone apps: [iOS App](https://itunes.apple.com/us/app/princeton-mobile/id388821195?mt=8), [Android App](https://play.google.com/store/apps/details?id=edu.princeton.mobile&hl=en)
 * [Princeton Area Airports](https://www.princeton.edu/main/visiting/travel/airports/)
