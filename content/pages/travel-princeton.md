@@ -90,11 +90,11 @@ Non-emergencies:
 
 ### Parking on campus
 
-Visitor Parking on campus is free for summer program participants. Visitors and summer program participants can park at the [Stadium Drive Garage](https://g.co/kgs/wVA4PyJ).
+Visitor Parking on campus is free for summer program participants. Visitors and summer program participants can park at the [Stadium Drive Garage](https://maps.app.goo.gl/sBJC9Qmr58y3wNFr9).
 
 [Register here](https://vpermit.com/princeton/ClaimableEvents/Claim?code=VISITOR%20PARKING) for a daily parking permit. Registration can also be done using a QR code at the garage during arrival. [Click here](https://transportation.princeton.edu/parking/visiting-campus-events/visitors) for more information on visitor parking.
 
-If you need to park a car overnight, please click here to register for a [short term parking permit](https://vpermit.com/princeton/ClaimableEvents/Claim?code=Short%20Term%20Summer%20Parking%202025) at the [Stadium Drive Garage](https://g.co/kgs/wVA4PyJ).
+If you need to park a car overnight, please click here to register for a [short term parking permit](https://vpermit.com/princeton/ClaimableEvents/Claim?code=Short%20Term%20Summer%20Parking%202025) at the [Stadium Drive Garage](https://maps.app.goo.gl/sBJC9Qmr58y3wNFr9).
 
 ### WiFi on Campus
 
