@@ -90,50 +90,11 @@ Non-emergencies:
 
 ### Parking on campus
 
-Visitor Parking on Campus is free for participants and visitors. However, visitors may not park in any campus parking facility overnight without permission. If you need to park a car overnight, please let one of the organizers know in advance and they will submit the request.
+Visitor Parking on campus is free for summer program participants. Visitors and summer program participants can park at the [Stadium Drive Garage](https://g.co/kgs/wVA4PyJ).
 
-We are still sorting out the parking instructions, so this page **will be updated**. In the meantime please write the organizers if you are coming with a car.
+[Register here](https://vpermit.com/princeton/ClaimableEvents/Claim?code=VISITOR%20PARKING) for a daily parking permit. Registration can also be done using a QR code at the garage during arrival. [Click here](https://transportation.princeton.edu/parking/visiting-campus-events/visitors) for more information on visitor parking.
 
-<!--
- Weekday visitor parking is available at Stadium Drive Garage (map: Princeton Stadium Drive Garage). The Stadium Garage is located on the corner of Faculty Road and Fitzrandolph Road.
-
-[https://transportation.princeton.edu/parking/visiting-campus-events/visitors](https://transportation.princeton.edu/parking/visiting-campus-events/visitors)
-
- Free TigerTransit (campus bus) service to stops on Washington Road, Nassau Street and University Place. Click for more information on TigerTransit routes and schedules.
-
- Visitors using the garage are asked to register for a daily parking permit. Registration can be done online in advance or at the garage during arrival. Click here for more information on visitor parking.
-
- On weekends and evenings, visitors may also park in most other University lots and garages. Metered parking is available on streets around campus.
--->
-
-<!--
-Visitor Parking on Campus is free for participants and visitors. However, visitors may not park in any campus parking facility overnight without permission. If you need to park a car overnight, please register [online in advance](https://princeton.nupark.com/v2/portal/eventregister/1882df24-3f34-4729-ab25-8b82671e4268#/events/registration/).
-
-Weekday visitor parking is available at Stadium Drive Garage (map: [Princeton Stadium Drive Garage](https://goo.gl/maps/6yymuqySUeXpfmNN8?coh=178573&entry=tt)). The Stadium Garage is located on the corner of Faculty Road and Fitzrandolph Road.
-
-Free TigerTransit (campus bus) service to stops on Washington Road, Nassau Street and University Place. Click for more information on TigerTransit routes and [schedules](https://transportation.princeton.edu/getting-around/tigertransit/routes-schedules).
-
-Visitors using the garage are asked to register for a daily parking permit. Registration can be done [online in advance](https://transportation.princeton.edu/visit_prking) or at the garage during arrival. [Click here for more information on visitor parking.](https://transportation.princeton.edu/parking/visiting-campus-events/visitor-parking)
-
-On weekends and evenings, visitors may also park in most other University lots and garages. Metered parking is available on streets around campus.
-
-[Princeton University Visitor Parking Map](https://transportation.princeton.edu/sites/g/files/toruqf611/files/documents/UniversityParkingMaps_Visitors.pdf)
--->
-
-<!--
-Visitor Parking on Campus is free for participants and visitors.  However, visitors may not park in any campus parking facility overnight without permission.  If you need to park a car overnight, please register [online in advance](https://princeton.nupark.com/v2/portal/eventregister/1882df24-3f34-4729-ab25-8b82671e4268#/events/registration/).
-
-Weekday visitor parking is available at Stadium Drive Garage (map: [Princeton Stadium Drive Garage](https://goo.gl/maps/6yymuqySUeXpfmNN8?coh=178573&entry=tt)). The Stadium Garage is located on the corner of Faculty Road and Fitzrandolph Road.
-
-Free TigerTransit (campus bus) service to stops on Washington Road, Nassau Street and University Place.  [Click for more information on TigerTransit routes and schedules.](https://transportation.princeton.edu/getting-around/tigertransit/routes-schedules)
-
-Visitors using the garage are asked to register for a daily parking permit. Registration can be done [online in advance](https://transportation.princeton.edu/visit_prking) or at the garage during arrival.  [Click here for more information on visitor parking](https://transportation.princeton.edu/parking/visiting-campus-events/visitor-parking)
-
-On weekends and evenings, visitors may also park in most other University lots and garages. Metered parking is available on streets around campus.
-
-[Princeton University Visitor Parking Map](https://transportation.princeton.edu/sites/g/files/toruqf611/files/documents/UniversityParkingMaps_Visitors.pdf)
--->
-
+If you need to park a car overnight, please click here to register for a [short term parking permit](https://vpermit.com/princeton/ClaimableEvents/Claim?code=Short%20Term%20Summer%20Parking%202025) at the [Stadium Drive Garage](https://g.co/kgs/wVA4PyJ).
 
 ### WiFi on Campus
 
