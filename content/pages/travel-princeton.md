@@ -94,7 +94,7 @@ Visitor Parking on campus is free for summer program participants. Visitors and 
 
 School participants which are driving to Princeton and need to park for
 the duration of the school (both during the days and overnight), should
-register as "Residents (Parking overnight)": please click here to register for a short term parking permit<https://vpermit.com/princeton/ClaimableEvents/Claim?code=Short%20Term%20Summer%20Parking%202025> at the Stadium Drive Garage<https://maps.app.goo.gl/sBJC9Qmr58y3wNFr9>.
+register as "Residents (Parking overnight)": please [click here to register for a short term parking permit](https://vpermit.com/princeton/ClaimableEvents/Claim?code=Short%20Term%20Summer%20Parking%202025) at the [Stadium Drive Garage](https://maps.app.goo.gl/sBJC9Qmr58y3wNFr9).
 
 <!--
 [Register here](https://vpermit.com/princeton/ClaimableEvents/Claim?code=VISITOR%20PARKING) for a daily parking permit. Registration can also be done using a QR code at the garage during arrival. [Click here](https://transportation.princeton.edu/parking/visiting-campus-events/visitors) for more information on visitor parking.
