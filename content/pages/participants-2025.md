@@ -7,7 +7,7 @@ Template: page
 
 ### Group Photo (click to enlarge)
 
-Coming soon...
+[![Group photo](/downloads/codas-hep-2025-group-photo.jpg)](/downloads/codas-hep-2025-group-photo.jpg)
 
 ### Participant "introduction" web pages:
 
