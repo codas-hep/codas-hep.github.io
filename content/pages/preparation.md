@@ -23,7 +23,7 @@ were:
 
   * [Python environment](https://github.com/iris-hep/codas-hep-2025/blob/python/binder/environment.yml)
   * [ML environment](https://github.com/iris-hep/codas-hep-2025/blob/ml/binder/environment.yml)
-  * [GPU](https://github.com/iris-hep/codas-hep-2025/blob/gpu/binder/environment.yml)
+  * [GPU environment](https://github.com/iris-hep/codas-hep-2025/blob/gpu/binder/environment.yml)  ## Requires a machine with a GPU
 
 Note that each environmnet.yml file has a "name" inside that you can change.
 Conda allows you to have multiple environments installed on your laptop
