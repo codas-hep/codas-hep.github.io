@@ -5,7 +5,7 @@ Authors: Peter Elmer
 Summary: Computational and Data Science for High Energy Physics
 Template: page
 
-The seventh school on tools, techniques and methods for Computational and Data Science for High Energy Physics (CoDaS-HEP) took place on 21-25 July, 2025, at Princeton University. 
+#### The eighth school on tools, techniques and methods for Computational and Data Science for High Energy Physics (CoDaS-HEP) will take place on 13-17 July, 2026, at Princeton University. 
 
 Applications have now closed for CoDaS-HEP 2025. Please check back in spring
 2026 for the next edition of the school.
