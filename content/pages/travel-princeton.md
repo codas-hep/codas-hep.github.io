@@ -89,8 +89,12 @@ There are many nearby locations where food is available with the closest being W
 
 ### Access to Campus Gym Facilities
 
+Information on gym access coming soon...
+
+<!--
 Access by visitors to [campus gym facilities (Dillon Gym)](https://campusrec.princeton.edu/facilities-operations/facility-use-policies) is possible. Gym passes will be available during the check-in for the dorms. These will likely cost 
 around $5 per day and are at the participant's own expense.
+-->
 
 ### Restaurants, Coffeeshops, Bars and Stores
 
