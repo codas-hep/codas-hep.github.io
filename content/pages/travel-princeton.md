@@ -39,6 +39,8 @@ In general long distance taxis will be costly and should be avoided. Uber and Ly
 
 ## Local Princeton Information
 
+Map will be updated soon for 2026.
+
 [![Annotated Map](/images/Princeton-University-Map-CoDaS-HEP-2025.png)](/images/Princeton-University-Map-CoDaS-HEP-2025.png)
 
  
