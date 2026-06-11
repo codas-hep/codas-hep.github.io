@@ -1,6 +1,6 @@
-Title: Travel to Princeton (2026 Version)
-date: 2026-06-11 07:51
-slug: travel-princeton
+Title: Travel to Princeton (2025 Version)
+date: 2017-05-16 07:51
+slug: travel-princeton-2025
 Authors: Peter Elmer
 Summary: Travel to Princeton and Local Princeton Information
 Template: page
@@ -42,12 +42,36 @@ In general long distance taxis will be costly and should be avoided. Uber and Ly
 [![Annotated Map](/images/Princeton-University-Map-CoDaS-HEP-2025.png)](/images/Princeton-University-Map-CoDaS-HEP-2025.png)
 
  
-### Accommodation - Nassau Inn
+### Accommodation - Bloomberg Hall on the Princeton campus
 
-Participants will stay at the [Nassau Inn](https://nassauinn.com/).
-The Nassau Inn is a 15 minute walk from the [Princeton (Dinky) train station](https://www.njtransit.com/dinky) and a 15 minute walk from Jadwin Hall, where the school lectures will take place.
+Participants will reside in dorm rooms in [Bloomberg Hall](https://hres.princeton.edu/undergraduate-housing/explore/bloomberg-hall).
+Bloomberg Hall is a 10 minute walk from the [Princeton (Dinky) train station](https://www.njtransit.com/dinky) and a 5-7 minute walk from Jadwin Hall, where the school lectures will take place.
 
-More information coming soon...
+** Dorm Check-in Information **
+
+  * Date: 7/20 
+  * Time: 2:00 – 6:00 p.m
+  * Location: Bloomberg Arch (follow signs to Bloomberg Hall)
+
+If arriving after 6:00 pm, go to the Public Safety Kiosk at 200 Elm Drive (across Elm Drive from Bloomberg Hall, see map) to pick up the dorm key.
+
+Bedsheets, blankets, and pillows and towels will be provided. Guests need to provide their own toiletries.
+
+**Dorm check-out and key drop-off:** To check out of the dorms you only need 
+to do two things: (1) vacate the room before 17:00 EDT on Friday and 
+(2) drop-off the key. There is no formal check-out process for the dorms.
+The school ends at lunch time on Friday, so depending on when you are leaving 
+Princeton you can either bring your luggage to the sessions on Friday morning 
+(we can put things along the wall outside the lecture room) or leave your
+luggage in the dorm room and retrieve it in the early afternoon.
+
+  You should however drop off the key: you should leave your key in the drop 
+box outside of 71 University Place or (e.g. if you are leaving early for
+some reason) leave your key with another school participant to drop off there.
+If worse comes to worse you can leave the key at the reception desk outside of
+Jadwin 407.
+
+If this isn't clear or you have some particular situation, please ask!
 
 ### Important Phone Numbers / Public Safety
 
@@ -62,15 +86,11 @@ Non-emergencies:
 
 ### Parking on campus
 
-Information on parking coming soon.
-
-<!--
 Visitor Parking on campus is free for summer program participants. Visitors and summer program participants can park at the [Stadium Drive Garage](https://maps.app.goo.gl/sBJC9Qmr58y3wNFr9).
 
 School participants which are driving to Princeton and need to park for
 the duration of the school (both during the days and overnight), should
 register as "Residents (Parking overnight)": please [click here to register for a short term parking permit](https://vpermit.com/princeton/ClaimableEvents/Claim?code=Short%20Term%20Summer%20Parking%202025) at the [Stadium Drive Garage](https://maps.app.goo.gl/sBJC9Qmr58y3wNFr9).
--->
 
 <!--
 [Register here](https://vpermit.com/princeton/ClaimableEvents/Claim?code=VISITOR%20PARKING) for a daily parking permit. Registration can also be done using a QR code at the garage during arrival. [Click here](https://transportation.princeton.edu/parking/visiting-campus-events/visitors) for more information on visitor parking.
