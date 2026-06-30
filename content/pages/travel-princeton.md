@@ -39,9 +39,7 @@ In general long distance taxis will be costly and should be avoided. Uber and Ly
 
 ## Local Princeton Information
 
-Map will be updated soon for 2026.
-
-[![Annotated Map](/images/Princeton-University-Map-CoDaS-HEP-2025.png)](/images/Princeton-University-Map-CoDaS-HEP-2025.png)
+[![Annotated Map](/images/Princeton-University-Map-CoDaS-HEP-2026.png)](/images/Princeton-University-Map-CoDaS-HEP-2026.png)
 
  
 ### Accommodation - Nassau Inn
@@ -64,15 +62,12 @@ Non-emergencies:
 
 ### Parking on campus
 
-Information on parking coming soon.
-
-<!--
 Visitor Parking on campus is free for summer program participants. Visitors and summer program participants can park at the [Stadium Drive Garage](https://maps.app.goo.gl/sBJC9Qmr58y3wNFr9).
 
 School participants which are driving to Princeton and need to park for
 the duration of the school (both during the days and overnight), should
-register as "Residents (Parking overnight)": please [click here to register for a short term parking permit](https://vpermit.com/princeton/ClaimableEvents/Claim?code=Short%20Term%20Summer%20Parking%202025) at the [Stadium Drive Garage](https://maps.app.goo.gl/sBJC9Qmr58y3wNFr9).
--->
+register as "Residents (Parking overnight)": please [click here to register for a short term parking permit](https://vpermit.com/princeton/ClaimableEvents/Claim?code=Short%20Term%20Summer%20Parking%202026) at the [Stadium Drive Garage](https://maps.app.goo.gl/sBJC9Qmr58y3wNFr9).
+
 
 <!--
 [Register here](https://vpermit.com/princeton/ClaimableEvents/Claim?code=VISITOR%20PARKING) for a daily parking permit. Registration can also be done using a QR code at the garage during arrival. [Click here](https://transportation.princeton.edu/parking/visiting-campus-events/visitors) for more information on visitor parking.
@@ -115,7 +110,7 @@ Additional things of touristic or historical interest can be found in the "Point
 
 ### General information
 
-* Campus Map (with CoDaS-HEP relevant locations indicated): [png format](/images/Princeton-University-Map-CoDaS-HEP-2025.png)
+* Campus Map (with CoDaS-HEP relevant locations indicated): [png format](/images/Princeton-University-Map-CoDaS-HEP-2026.png)
 * Campus Map (original): [pdf format](https://www.princeton.edu/sites/default/files/documents/2025/05/2025-05-19-campus-map-spring-update.pdf)
 * Princeton mobile phone apps: [iOS App](https://itunes.apple.com/us/app/princeton-mobile/id388821195?mt=8), [Android App](https://play.google.com/store/apps/details?id=edu.princeton.mobile&hl=en)
 * [Princeton Area Airports](https://www.princeton.edu/meet-princeton/visit-us#air-transportation)
