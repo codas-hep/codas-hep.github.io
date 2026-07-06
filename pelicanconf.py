@@ -27,6 +27,8 @@ MENUITEMS = (
 LINKS =  ( 
            ('Laptop Setup Instuctions','/pages/preparation.html'),
            ('Travel to Princeton and Local Information','/pages/travel-princeton.html'),
+           ('School Program 2026','https://indico.cern.ch/event/1704372/timetable/#20260713'),
+           ('Participants 2026','/pages/participants-2026.html'),
            ('School Program 2025','https://indico.cern.ch/event/1568686/timetable/'),
            ('Participants 2025','/pages/participants-2025.html'),
            ('School Program 2024','https://indico.cern.ch/event/1422680/timetable/'),
