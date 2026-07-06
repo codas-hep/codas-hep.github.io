@@ -21,7 +21,7 @@ Template: page
   * Abdul-Wasit Yahaya      - Wichita State University
 -->
 
-Coming soon....
+Coming soon...
 
 ### Lecturer, Collaborators and Guest Seminars List
 
