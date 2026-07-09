@@ -47,7 +47,7 @@ In general long distance taxis will be costly and should be avoided. Uber and Ly
 Participants will stay at the [Nassau Inn](https://nassauinn.com/).
 The Nassau Inn is a 15 minute walk from the [Princeton (Dinky) train station](https://www.njtransit.com/dinky) and a 15 minute walk from Jadwin Hall, where the school lectures will take place.
 
-More information coming soon...
+You can go directly to the Nassau Inn to check in. We have made reservations for all participants which will be direct billed to Princeton. You are responsible for any additional expenses (e.g. from the Tap Room restaurant/bar).
 
 ### Important Phone Numbers / Public Safety
 
