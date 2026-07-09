@@ -1,4 +1,4 @@
-Title: Compute Platform (2025 Version)
+Title: Compute Platform (2026 Version)
 date: 2025-07-15 17:54
 slug: compute-platform
 Authors: Peter Elmer
@@ -39,6 +39,6 @@ need to do this registration one-time.
 
 ### Once it is in that state, you are signed up, approved and ready to go. We will explain how to use this to access the actual compute platform at the school itself.  
 
-### In case of problems - post a message to the #codas-hep-2025 channel in the IRIS-HEP Slack workspace 
+### In case of problems - post a message to the #codas-hep-2026 channel in the IRIS-HEP Slack workspace 
 
 
