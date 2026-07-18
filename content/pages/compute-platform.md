@@ -17,7 +17,7 @@ need to do this registration one-time.
 
 ![CI Connect 01](/images/ci-connect-01.png)
 
-### 2) Click "SignOn"
+### 2) Click "Sign in"
 
 ![CI Connect 01](/images/ci-connect-02.png)
 
